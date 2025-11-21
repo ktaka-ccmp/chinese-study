@@ -224,10 +224,53 @@
 
 ---
 
-**朗読練習のヒント:**
-- 各文章を何度も声に出して読みましょう
-- ピンインを見ながら正確な発音を心がけましょう
-- 慣れてきたら中国語だけを見て読んでみましょう
-- 意味を理解しながら読むことが大切です
+我觉得要提高GDP国内总生产值，应该增加出口量。  
+*Wǒ juéde yào tígāo GDP guónèi zǒng shēngchǎnzhí, yīnggāi zēngjiā chūkǒuliàng.*
 
-*Good luck with your Chinese reading practice!*
+30年以前，是美国给日本下了黑手。日元汇率升高以后，给日本的出口业带来了毁灭性的打击。  
+*Sānshí nián yǐqián, shì Měiguó gěi Rìběn xiàle hēishǒu. Rìyuán huìlǜ shēnggāo yǐhòu, gěi Rìběn de chūkǒuyè dàiláile huǐmièxìng de dǎjī.*
+
+媒体说不应该靠出口，如果有外交问题发生的话，出口就会受到影响。  
+*Méitǐ shuō bù yīnggāi kào chūkǒu, rúguǒ yǒu wàijiāo wèntí fāshēng dehuà, chūkǒu jiù huì shòudào yǐngxiǎng.*
+
+只有提高国内消费，才能促进经济的发展。  
+*Zhǐyǒu tígāo guónèi xiāofèi, cáinéng cùjìn jīngjì de fāzhǎn.*
+
+日本的产品如果是不可或缺的话，那么受到的影响一定很小。因为别的国家离不开日本产品，就不能拒绝跟日本合作。  
+*Rìběn de chǎnpǐn rúguǒ shì bùkě-huòquē dehuà, nàme shòudào de yǐngxiǎng yīdìng hěn xiǎo. Yīnwèi bié de guójiā lí bu kāi Rìběn chǎnpǐn, jiù bù néng jùjué gēn Rìběn hézuò.*
+
+把国家看成一个公司的话，出口减去进口的营业额（利润）是最重要的指标。  
+*Bǎ guójiā kànchéng yí ge gōngsī dehuà, chūkǒu jiǎnqù jìnkǒu de yíngyè'é (lìrùn) shì zuì zhòngyào de zhǐbiāo.*
+
+---
+
+## 都市基础设施用语
+
+高架路  
+*gāojià lù*
+
+地下隧道  
+*dìxià suìdào*
+
+人行天桥  
+*rénxíng tiānqiáo*
+
+绿化带  
+*lǜhuà dài*
+
+人行道  
+*rénxíng dào*
+
+居民楼  
+*jūmín lóu*
+
+立体交叉  
+*lìtǐ jiāochā*
+
+单行线  
+*dānxíng xiàn*
+
+
+
+
+
