@@ -79,8 +79,29 @@
 <br>(tán lùn lìng nǐ gǎn dào hài pà de shì qíng)
 
 
-小时候，我遇到过一件让我觉得特别害怕的事儿。大概是五岁的时候吧，有一天，我跟我妈去买东西。那时候快过年了，商场里人特别多，在二楼买完东西，我们又坐电梯上三楼。我妈提着很多东西，我拽着她的衣角跟在后面。结果刚下电梯，我们就被人群挤散了。我找不着我妈，就开始一边哭一边叫妈妈，当时真是害怕极了。后来，一个阿姨把我带到了商场的广播室，他们就用扩音器通知了我妈来接我。这件事已经过去很多年了，但是直到现在，我还很害怕去人多的地方，人一多我就会觉得紧张。
-<br>Xiǎo shí hòu, wǒ yù dào guò yī jiàn ràng wǒ jué de tè bié hài pà de shì ér. Dà gài shì wǔ suì de shí hòu ba, yǒu yī tiān, wǒ gēn wǒ mā qù mǎi dōng xī. Nà shí hòu kuài guò nián le, shāng chǎng lǐ rén tè bié duō, zài èr lóu mǎi wán dōng xī, wǒ men yòu zuò diàn tī shàng sān lóu. Wǒ mā tí zhe hěn duō dōng xī, wǒ zhuāi zhe tā de yī jiǎo gēn zài hòu miàn. Jié guǒ gāng xià diàn tī, wǒ men jiù bèi rén qún jǐ sàn le. Wǒ zhǎo bù zhe wǒ mā, jiù kāi shǐ yī biān kū yī biān jiào mā mā, dāng shí zhēn shì hài pà jí le. Hòu lái, yí gè ā yí bǎ wǒ dài dào le shāng chǎng de guǎng bō shì, tā men jiù yòng kuò yīn qì tōng zhī le wǒ mā lái jiē wǒ. Zhè jiàn shì yǐ jīng guò qù hěn duō nián le, dàn shì zhí dào xiàn zài, wǒ hái hěn hài pà qù rén duō de dì fāng, rén yī duō wǒ jiù huì jué de jǐn zhāng.
+小时候，我遇到过一件让我觉得特别害怕的事儿。
+<br>Xiǎo shí hòu, wǒ yù dào guò yī jiàn ràng wǒ jué de tè bié hài pà de shì ér.
+
+大概是五岁的时候吧，有一天，我跟我妈去买东西。
+<br>Dà gài shì wǔ suì de shí hòu ba, yǒu yī tiān, wǒ gēn wǒ mā qù mǎi dōng xī.
+
+那时候快过年了，商场里人特别多，在二楼买完东西，我们又坐电梯上三楼。
+<br>Nà shí hòu kuài guò nián le, shāng chǎng lǐ rén tè bié duō, zài èr lóu mǎi wán dōng xī, wǒ men yòu zuò diàn tī shàng sān lóu.
+
+我妈提着很多东西，我拽着她的衣角跟在后面。
+<br>Wǒ mā tí zhe hěn duō dōng xī, wǒ zhuāi zhe tā de yī jiǎo gēn zài hòu miàn.
+
+结果刚下电梯，我们就被人群挤散了。
+<br>Jié guǒ gāng xià diàn tī, wǒ men jiù bèi rén qún jǐ sàn le.
+
+我找不着我妈，就开始一边哭一边叫妈妈，当时真是害怕极了。
+<br>Wǒ zhǎo bù zhe wǒ mā, jiù kāi shǐ yī biān kū yī biān jiào mā mā, dāng shí zhēn shì hài pà jí le.
+
+后来，一个阿姨把我带到了商场的广播室，他们就用扩音器通知了我妈来接我。
+<br>Hòu lái, yí gè ā yí bǎ wǒ dài dào le shāng chǎng de guǎng bō shì, tā men jiù yòng kuò yīn qì tōng zhī le wǒ mā lái jiē wǒ.
+
+这件事已经过去很多年了，但是直到现在，我还很害怕去人多的地方，人一多我就会觉得紧张。
+<br>Zhè jiàn shì yǐ jīng guò qù hěn duō nián le, dàn shì zhí dào xiàn zài, wǒ hái hěn hài pà qù rén duō de dì fāng, rén yī duō wǒ jiù huì jué de jǐn zhāng.
 
 
 ## E04 他说刚买了房子
@@ -160,16 +181,31 @@
 <br>(tán lùn shēng huó xí guàn hé jiàn kāng wèn tí)
 
 
-张健彬: 以前我生活习惯不太好，抽烟、喝酒，还经常熬夜。那时我还在一家律师事务所工作，每天上班特别累，压力也很大，身体经常不舒服，后来我就辞职了，在一家健身俱乐部找了份新工作。现在我每个星期至少运动四次，还戒掉了烟酒，我觉得自己非常健康。
-<br>Zhāng jiàn bīn: yǐ qián wǒ shēng huó xí guàn bù tài hǎo, chōu yān、 hē jiǔ, hái jīng cháng áo yè. Nà shí wǒ hái zài yī jiā lǜ shī shì wù suǒ gōng zuò, měi tiān shàng bān tè bié lèi, yā lì yě hěn dà, shēn tǐ jīng cháng bù shū fú, hòu lái wǒ jiù cí zhí le, zài yī jiā jiàn shēn jù lè bù zhǎo le fèn xīn gōng zuò. Xiàn zài wǒ měi gè xīng qī zhì shǎo yùn dòng sì cì, hái jiè diào le yān jiǔ, wǒ jué de zì jǐ fēi cháng jiàn kāng.
+**张健彬:** 以前我生活习惯不太好，抽烟、喝酒，还经常熬夜。
+<br>Zhāng jiàn bīn: yǐ qián wǒ shēng huó xí guàn bù tài hǎo, chōu yān、 hē jiǔ, hái jīng cháng áo yè.
 
-王晨: 我喜欢运动，以前每个星期六都和一帮朋友去踢足球啊，打篮球什么的。但是最近工作特别忙，周末经常要加班，别说运动了，连吃饭的时间都很少，以前有空儿的话，我偶尔还会自己做做饭，现在每天不是吃盒饭，就是吃快餐，下班回到家已经累得不行了，有时连澡都不洗就睡了。
-<br>Wáng chén: wǒ xǐ huān yùn dòng, yǐ qián měi gè xīng qī liù dōu hé yī bāng péng yǒu qù tī zú qiú a, dǎ lán qiú shén me de. Dàn shì zuì jìn gōng zuò tè bié máng, zhōu mò jīng cháng yào jiā bān, bié shuō yùn dòng le, lián chī fàn de shí jiān dōu hěn shǎo, yǐ qián yǒu kòng er de huà, wǒ ǒu ěr hái huì zì jǐ zuò zuò fàn, xiàn zài měi tiān bú shì chī hé fàn, jiù shì chī kuài cān, xià bān huí dào jiā yǐ jīng lèi dé bù xíng le, yǒu shí lián zǎo dōu bù xǐ jiù shuì le.
+那时我还在一家律师事务所工作，每天上班特别累，压力也很大，身体经常不舒服，后来我就辞职了，在一家健身俱乐部找了份新工作。
+<br>Nà shí wǒ hái zài yī jiā lǜ shī shì wù suǒ gōng zuò, měi tiān shàng bān tè bié lèi, yā lì yě hěn dà, shēn tǐ jīng cháng bù shū fú, hòu lái wǒ jiù cí zhí le, zài yī jiā jiàn shēn jù lè bù zhǎo le fèn xīn gōng zuò.
 
+现在我每个星期至少运动四次，还戒掉了烟酒，我觉得自己非常健康。
+<br>Xiàn zài wǒ měi gè xīng qī zhì shǎo yùn dòng sì cì, hái jiè diào le yān jiǔ, wǒ jué de zì jǐ fēi cháng jiàn kāng.
+
+**王晨:** 我喜欢运动，以前每个星期六都和一帮朋友去踢足球啊，打篮球什么的。
+<br>Wáng chén: wǒ xǐ huān yùn dòng, yǐ qián měi gè xīng qī liù dōu hé yī bāng péng yǒu qù tī zú qiú a, dǎ lán qiú shén me de.
+
+但是最近工作特别忙，周末经常要加班，别说运动了，连吃饭的时间都很少。
+<br>Dàn shì zuì jìn gōng zuò tè bié máng, zhōu mò jīng cháng yào jiā bān, bié shuō yùn dòng le, lián chī fàn de shí jiān dōu hěn shǎo.
+
+以前有空儿的话，我偶尔还会自己做做饭。
+<br>Yǐ qián yǒu kòng er de huà, wǒ ǒu ěr hái huì zì jǐ zuò zuò fàn.
+
+现在每天不是吃盒饭，就是吃快餐。
+<br>Xiàn zài měi tiān bú shì chī hé fàn, jiù shì chī kuài cān.
+
+下班回到家已经累得不行了，有时连澡都不洗就睡了。
+<br>Xià bān huí dào jiā yǐ jīng lèi dé bù xíng le, yǒu shí lián zǎo dōu bù xǐ jiù shuì le.
 
 ## E07 你说我送他什么好？
-
-## E07 你说我送他什么好?
 
 **(挑选，赠送和接受礼物)**  
 <br>(tiāo xuǎn, zèng sòng hé jiē shòu lǐ wù)
@@ -207,9 +243,6 @@
 
 陈军: 对呀，我怎么就没想到呢！
 <br>Chén jūn: duì ya, wǒ zěn me jiù méi xiǎng dào ne!
-
-
-## E08 你玩儿过蹦极吗？
 
 ## E08 你玩儿过蹦极吗?
 
@@ -250,10 +283,7 @@
 江兰: 不试连你都吓成这个样子，我还不得吓晕过去啊。
 <br>Jiāng lán: bù shì lián nǐ dōu xià chéng zhè ge yàng zi, wǒ hái bù dé xià yùn guò qù a.
 
-
 ## E09 可以借您的电话用一下吗？
-
-## E09 可以借您的电话用一下吗?
 
 **(请求陌生人帮忙)**  
 <br>(qǐng qiú mò shēng rén bāng máng)
@@ -282,9 +312,6 @@
 
 酒店服务员: 对不起，真的不行。
 <br>Jiǔ diàn fú wù yuán: duì bù qǐ, zhēn de bù xíng.
-
-
-## E10 他怎么还没来啊？
 
 ## E10 他怎么还没来啊?
 
@@ -315,9 +342,6 @@
 
 劲松: 嗯……要不给他打个电话？
 <br>Jìng sōng: ń. .. Yào bù gěi tā dǎ gè diàn huà?
-
-
-## E11 昨天晚上那场足球赛你看了吗？
 
 ## E11 昨天晚上那场足球赛你看了吗?
 
@@ -398,7 +422,6 @@
 李菲: 对不起，我不想在这里谈我的个人问题。
 <br>Lǐ fēi: duì bù qǐ, wǒ bù xiǎng zài zhè lǐ tán wǒ de gè rén wèn tí.
 
-
 ## E13 汽车追尾了
 
 **(讲述交通事故发生的经过)**  
@@ -437,7 +460,6 @@
 
 交警: 明天上午你到交通队来一趟，做份事故报告。
 <br>Jiāo jǐng: míng tiān shàng wǔ nǐ dào jiāo tōng duì lái yī tàng, zuò fèn shì gù bào gào.
-
 
 ## E14 要是会说英语就好了
 
@@ -481,9 +503,6 @@
 孙丽: 我想减肥。
 <br>Sūn lì: wǒ xiǎng jiǎn féi.
 
-
-## E15 能帮我个忙吗？
-
 ## E15 能帮我个忙吗?
 
 **(请求帮助)**  
@@ -523,7 +542,6 @@
 静仪: 那太谢谢了！
 <br>Jìng yí: nà tài xiè xiè le!
 
-
 ## E16 我的电视出了点儿问题
 
 **(和售后服务部联系)**  
@@ -553,9 +571,6 @@
 
 顾客: 那好吧。我的电话号码是……
 <br>Gù kè: nà hǎo ba. Wǒ de diàn huà hào mǎ shì. ..
-
-
-## E17 能把你的帐篷借给我吗？
 
 ## E17 能把你的帐篷借给我吗?
 
@@ -630,9 +645,6 @@
 客人: 麻烦你了。
 <br>Kè rén: má fán nǐ le.
 
-
-## E19 中国人怎么过元宵节？
-
 ## E19 中国人怎么过元宵节?
 
 **(说说过节的时候都做什么)**  
@@ -645,17 +657,35 @@
 肖芳: 当然过啊，这几年啊，不光西方的情人节越来越流行，而且连中国过去的传统节日"七夕"也慢慢变成了一个时髦的新"情人节"呢。
 <br>Xiào fāng: dāng rán guò a, zhè jǐ nián a, bù guāng xī fāng de qíng rén jié yuè lái yuè liú xíng, ér qiě lián zhōng guó guò qù de chuán tǒng jié rì"qī xī"yě màn màn biàn chéng le yí gè shí máo de xīn"qíng rén jié"ne.
 
-洋子: 是吗？就是传说中天上的牛郎和织女每年渡过银河相会的那个日子吧。日本也有这样一个节日，中国人一般都怎么过啊？
-<br>Yáng zi: shì ma? Jiù shì chuán shuō zhōng tiān shàng de niú láng hé zhī nǚ měi nián dù guò yín hé xiāng huì de nà ge rì zi ba. Rì běn yě yǒu zhè yàng yí gè jié rì, zhōng guó rén yì bān dōu zěn me guò a?
+洋子: 是吗？
+<br>Yáng zi: shì ma?
 
-肖芳: 和西方的情人节一样。还是恋人啊，夫妻一起去吃顿烛光晚餐，互相送送玫瑰花、巧克力什么的来表达一下爱意。
-<br>Xiào fāng: hé xī fāng de qíng rén jié yī yàng. Hái shì liàn rén a, fū qī yì qǐ qù chī dùn zhú guāng wǎn cān, hù xiāng sòng sòng méi guī huā、 qiǎo kè lì shén me de lái biǎo dá yī xià ài yì.
+就是传说中天上的牛郎和织女每年渡过银河相会的那个日子吧。
+<br>Jiù shì chuán shuō zhōng tiān shàng de niú láng hé zhī nǚ měi nián dù guò yín hé xiāng huì de nà ge rì zi ba.
 
-洋子: 是吗？在日本，这个节日可不是只有情人才过，我们会在彩纸上写下自己的心愿，然后把它系在高高的竹枝上，祈求梦想可以成真。
-<br>Yáng zi: shì ma? Zài rì běn, zhè ge jié rì kě bú shì zhǐ yǒu qíng rén cái guò, wǒ men huì zài cǎi zhǐ shàng xiě xià zì jǐ de xīn yuàn, rán hòu bǎ tā xì zài gāo gāo de zhú zhī shàng, qí qiú mèng xiǎng kě yǐ chéng zhēn.
+日本也有这样一个节日，中国人一般都怎么过啊？
+<br>Rì běn yě yǒu zhè yàng yí gè jié rì, zhōng guó rén yì bān dōu zěn me guò a?
 
-肖芳: 是吗？看来日本人过七夕的方式也很浪漫啊！这个节日是从中国传到日本去的吧？
-<br>Xiào fāng: shì ma? Kàn lái rì běn rén guò qī xī de fāng shì yě hěn làng màn a! Zhè ge jié rì shì cóng zhōng guó chuán dào rì běn qù de ba?
+肖芳: 和西方的情人节一样。
+<br>Xiào fāng: hé xī fāng de qíng rén jié yī yàng.
+
+还是恋人啊，夫妻一起去吃顿烛光晚餐，互相送送玫瑰花、巧克力什么的来表达一下爱意。
+<br>Hái shì liàn rén a, fū qī yì qǐ qù chī dùn zhú guāng wǎn cān, hù xiāng sòng sòng méi guī huā、 qiǎo kè lì shén me de lái biǎo dá yī xià ài yì.
+
+洋子: 是吗？
+<br>Yáng zi: shì ma?
+
+在日本，这个节日可不是只有情人才过，我们会在彩纸上写下自己的心愿，然后把它系在高高的竹枝上，祈求梦想可以成真。
+<br>Zài rì běn, zhè ge jié rì kě bú shì zhǐ yǒu qíng rén cái guò, wǒ men huì zài cǎi zhǐ shàng xiě xià zì jǐ de xīn yuàn, rán hòu bǎ tā xì zài gāo gāo de zhú zhī shàng, qí qiú mèng xiǎng kě yǐ chéng zhēn.
+
+肖芳: 是吗？
+<br>Xiào fāng: shì ma?
+
+看来日本人过七夕的方式也很浪漫啊！
+<br>Kàn lái rì běn rén guò qī xī de fāng shì yě hěn làng màn a!
+
+这个节日是从中国传到日本去的吧？
+<br>Zhè ge jié rì shì cóng zhōng guó chuán dào rì běn qù de ba?
 
 洋子: 没错，不过传过来之后，日子就变成了每年阳历的7月7号了。
 <br>Yáng zi: méi cuò, bù guò chuán guò lái zhī hòu, rì zi jiù biàn chéng le měi nián yáng lì de 7月7号了.
@@ -667,8 +697,17 @@
 <br>(shuō shuō lín lǐ jiān de máo dùn)
 
 
-主持人: 您在收听的是《为您解忧》节目，今天要讨论的话题是邻里关系。下面我们来接听第一位听众的电话。喂，您好！您贵姓？
-<br>Zhǔ chí rén: nín zài shōu tīng de shì《 wèi nín jiě yōu》 jié mù, jīn tiān yào tǎo lùn de huà tí shì lín lǐ guān xì. Xià miàn wǒ men lái jiē tīng dì yī wèi tīng zhòng de diàn huà. Wèi, nín hǎo! Nín guì xìng?
+主持人: 您在收听的是《为您解忧》节目，今天要讨论的话题是邻里关系。
+<br>Zhǔ chí rén: nín zài shōu tīng de shì《 wèi nín jiě yōu》 jié mù, jīn tiān yào tǎo lùn de huà tí shì lín lǐ guān xì.
+
+下面我们来接听第一位听众的电话。
+<br>Xià miàn wǒ men lái jiē tīng dì yī wèi tīng zhòng de diàn huà.
+
+喂，您好！
+<br>Wèi, nín hǎo!
+
+您贵姓？
+<br>Nín guì xìng?
 
 听众: 您好！我姓王。
 <br>Tīng zhòng: nín hǎo! Wǒ xìng wáng.
@@ -697,13 +736,16 @@
 听众: 是啊，您说得有道理，那我还是找他们谈一下吧。谢谢您！
 <br>Tīng zhòng: shì a, nín shuō dé yǒu dào lǐ, nà wǒ hái shì zhǎo tā men tán yī xià ba. Xiè xiè nín!
 
-主持人: 不客气。谢谢您参与我们的节目，再见！好，下面我们来接听下一位听众的电话……
-<br>Zhǔ chí rén: bú kè qì. Xiè xiè nín cān yù wǒ men de jié mù, zài jiàn! Hǎo, xià miàn wǒ men lái jiē tīng xià yī wèi tīng zhòng de diàn huà. ..
+主持人: 不客气。
+<br>Zhǔ chí rén: bú kè qì.
 
+谢谢您参与我们的节目，再见！
+<br>Xiè xiè nín cān yù wǒ men de jié mù, zài jiàn!
+
+好，下面我们来接听下一位听众的电话……
+<br>Hǎo, xià miàn wǒ men lái jiē tīng xià yī wèi tīng zhòng de diàn huà. ..
 
 ## E21 我觉得50年后……
-
-## E21 我觉得50年后. ..
 
 **(预测未来)**  
 <br>(yù cè wèi lái)
@@ -727,11 +769,17 @@
 浩男: 怎么个先进法？
 <br>Hào nán: zěn me gè xiān jìn fǎ?
 
-亚东: 比方说，那时候的汽车都是电脑驾驶的，不但可以在路上跑，还可以在天上飞，而且车上有防车祸装置，不会发生撞车事故。
-<br>Yà dōng: bǐ fāng shuō, nà shí hòu de qì chē dōu shì diàn nǎo jià shǐ de, bù dàn kě yǐ zài lù shàng pǎo, hái kě yǐ zài tiān shàng fēi, ér qiě chē shàng yǒu fáng chē huò zhuāng zhì, bú huì fā shēng zhuàng chē shì gù.
+亚东: 比方说，那时候的汽车都是电脑驾驶的，不但可以在路上跑，还可以在天上飞。
+<br>Yà dōng: bǐ fāng shuō, nà shí hòu de qì chē dōu shì diàn nǎo jià shǐ de, bù dàn kě yǐ zài lù shàng pǎo, hái kě yǐ zài tiān shàng fēi.
 
-浩男: 听起来挺有意思的，真想买一辆。你说将来真会有那样的汽车吗？
-<br>Hào nán: tīng qǐ lái tǐng yǒu yì si de, zhēn xiǎng mǎi yī liàng. Nǐ shuō jiāng lái zhēn huì yǒu nà yàng de qì chē ma?
+而且车上有防车祸装置，不会发生撞车事故。
+<br>Ér qiě chē shàng yǒu fáng chē huò zhuāng zhì, bú huì fā shēng zhuàng chē shì gù.
+
+浩男: 听起来挺有意思的，真想买一辆。
+<br>Hào nán: tīng qǐ lái tǐng yǒu yì si de, zhēn xiǎng mǎi yī liàng.
+
+你说将来真会有那样的汽车吗？
+<br>Nǐ shuō jiāng lái zhēn huì yǒu nà yàng de qì chē ma?
 
 亚东: 我觉得有可能。
 <br>Yà dōng: wǒ jué de yǒu kě néng.
@@ -743,13 +791,23 @@
 <br>(tán lùn yuè dú xí guàn)
 
 
-汪露露: 我特别爱看书，什么书都看，我家的书柜里放满了小说、人物传记、散文集、历史书、哲学书…… 实用性的书我也爱看，比方说经济方面的、旅游方面的，有时还看一些科技方面的。朋友都管我叫书虫，说我家都可以开书店了。我看书一般没有什么固定的时间，只要稍微有点儿空闲，比如上班路上坐在电车里的时候，还有晚上睡觉前，我都会拿本书来翻翻。每当我看到一本精彩的好书，我就会觉得很高兴、很充实。
-<br>Wāng lù lù: wǒ tè bié ài kàn shū, shén me shū dōu kàn, wǒ jiā de shū guì lǐ fàng mǎn le xiǎo shuō、 rén wù zhuàn jì、 sǎn wén jí、 lì shǐ shū、 zhé xué shū. .. Shí yòng xìng de shū wǒ yě ài kàn, bǐ fāng shuō jīng jì fāng miàn de、 lǚ yóu fāng miàn de, yǒu shí hái kàn yī xiē kē jì fāng miàn de. Péng yǒu dōu guǎn wǒ jiào shū chóng, shuō wǒ jiā dōu kě yǐ kāi shū diàn le. Wǒ kàn shū yì bān méi yǒu shén me gù dìng de shí jiān, zhǐ yào shāo wēi yǒu diǎn ér kòng xián, bǐ rú shàng bān lù shàng zuò zài diàn chē lǐ de shí hòu, hái yǒu wǎn shàng shuì jiào qián, wǒ dū huì ná běn shū lái fān fān. Měi dāng wǒ kàn dào yī běn jīng cǎi de hǎo shū, wǒ jiù huì jué de hěn gāo xìng、 hěn chōng shí.
+汪露露: 我特别爱看书，什么书都看，我家的书柜里放满了小说、人物传记、散文集、历史书、哲学书……
+<br>Wāng lù lù: wǒ tè bié ài kàn shū, shén me shū dōu kàn, wǒ jiā de shū guì lǐ fàng mǎn le xiǎo shuō、 rén wù zhuàn jì、 sǎn wén jí、 lì shǐ shū、 zhé xué shū. ..
+
+实用性的书我也爱看，比方说经济方面的、旅游方面的，有时还看一些科技方面的。
+<br>Shí yòng xìng de shū wǒ yě ài kàn, bǐ fāng shuō jīng jì fāng miàn de、 lǚ yóu fāng miàn de, yǒu shí hái kàn yī xiē kē jì fāng miàn de.
+
+朋友都管我叫书虫，说我家都可以开书店了。
+<br>Péng yǒu dōu guǎn wǒ jiào shū chóng, shuō wǒ jiā dōu kě yǐ kāi shū diàn le.
+
+我看书一般没有什么固定的时间，只要稍微有点儿空闲，比如上班路上坐在电车里的时候，还有晚上睡觉前，我都会拿本书来翻翻。
+<br>Wǒ kàn shū yì bān méi yǒu shén me gù dìng de shí jiān, zhǐ yào shāo wēi yǒu diǎn ér kòng xián, bǐ rú shàng bān lù shàng zuò zài diàn chē lǐ de shí hòu, hái yǒu wǎn shàng shuì jiào qián, wǒ dū huì ná běn shū lái fān fān.
+
+每当我看到一本精彩的好书，我就会觉得很高兴、很充实。
+<br>Měi dāng wǒ kàn dào yī běn jīng cǎi de hǎo shū, wǒ jiù huì jué de hěn gāo xìng、 hěn chōng shí.
 
 
 ## E23 怎么了？
-
-## E23 怎么了?
 
 **(看病)**  
 <br>(kàn bìng)
@@ -797,8 +855,6 @@
 
 ## E24 别担心，我觉得你能做好
 
-## E24 别担心, wǒ jué de nǐ néng zuò hǎo
-
 **(说说你担心的事情)**  
 <br>(shuō shuō nǐ dān xīn de shì qíng)
 
@@ -815,11 +871,17 @@
 徐虹: 我还担心和新同事处不好。
 <br>Xú hóng: wǒ hái dān xīn hé xīn tóng shì chù bù hǎo.
 
-刘萱: 怎么会处不好呢？你在原来的公司不是和大家都处得不错吗？
-<br>Liú xuān: zěn me huì chù bù hǎo ne? Nǐ zài yuán lái de gōng sī bú shì hé dà jiā dōu chù dé bù cuò ma?
+刘萱: 怎么会处不好呢？
+<br>Liú xuān: zěn me huì chù bù hǎo ne?
 
-徐虹: 话是这么说，但毕竟是新环境啊。要是我第一天就出错儿可怎么办？
-<br>Xú hóng: huà shì zhè me shuō, dàn bì jìng shì xīn huán jìng a. Yào shì wǒ dì yī tiān jiù chū cuò ér kě zěn me bàn?
+你在原来的公司不是和大家都处得不错吗？
+<br>Nǐ zài yuán lái de gōng sī bú shì hé dà jiā dōu chù dé bù cuò ma?
+
+徐虹: 话是这么说，但毕竟是新环境啊。
+<br>Xú hóng: huà shì zhè me shuō, dàn bì jìng shì xīn huán jìng a.
+
+要是我第一天就出错儿可怎么办？
+<br>Yào shì wǒ dì yī tiān jiù chū cuò ér kě zěn me bàn?
 
 刘萱: 不会的，有什么不明白的多问问别人就行了。
 <br>Liú xuān: bú huì de, yǒu shén me bù míng bái de duō wèn wèn bié rén jiù xíng le.
@@ -846,8 +908,14 @@
 男: 怎么样？
 <br>Nán: zěn me yàng?
 
-女: 嗯，还可以吧。客厅挺大的，采光也不错。楼下就是超市，买菜很方便。
-<br>Nǚ: ń, hái kě yǐ ba. Kè tīng tǐng dà de, cǎi guāng yě bù cuò. Lóu xià jiù shì chāo shì, mǎi cài hěn fāng biàn.
+女: 嗯，还可以吧。
+<br>Nǚ: ń, hái kě yǐ ba.
+
+客厅挺大的，采光也不错。
+<br>Kè tīng tǐng dà de, cǎi guāng yě bù cuò.
+
+楼下就是超市，买菜很方便。
+<br>Lóu xià jiù shì chāo shì, mǎi cài hěn fāng biàn.
 
 男: 多大啊？
 <br>Nán: duō dà a?
@@ -858,8 +926,11 @@
 男: 你原来不是想买丽新花园的那套别墅吗？
 <br>Nán: nǐ yuán lái bú shì xiǎng mǎi lì xīn huā yuán de nà tào bié shù ma?
 
-女: 是啊，不过后来觉得那边交通不太方便。现在住的地方离地铁站很近，也就走五分钟。
-<br>Nǚ: shì a, bù guò hòu lái jué de nà biān jiāo tōng bù tài fāng biàn. Xiàn zài zhù de dì fāng lí dì tiě zhàn hěn jìn, yě jiù zǒu wǔ fēn zhōng.
+女: 是啊，不过后来觉得那边交通不太方便。
+<br>Nǚ: shì a, bù guò hòu lái jué de nà biān jiāo tōng bù tài fāng biàn.
+
+现在住的地方离地铁站很近，也就走五分钟。
+<br>Xiàn zài zhù de dì fāng lí dì tiě zhàn hěn jìn, yě jiù zǒu wǔ fēn zhōng.
 
 男: 我最近也打算买套房子。
 <br>Nán: wǒ zuì jìn yě dǎ suàn mǎi tào fáng zi.
@@ -944,14 +1015,21 @@
 
 ## E28 你看天气预报了吗？
 
-## E28 你看天气预报了吗?
-
 **(谈论天气)**  
 <br>(tán lùn tiān qì)
 
 
-预报员: 从气象图上看，今日冷空气前锋将进入我国东北地区，内蒙古东部、黑龙江西南部和吉林北部将有中到大雪；华北地区天气晴朗，但在下午的晚些时候会转为多云；华东和西南地区连日的阴雨天气还将持续，预计平均气温将会下降2到3度。下面我们来看一下全国部分主要城市的天气情况……
-<br>Yù bào yuán: cóng qì xiàng tú shàng kàn, jīn rì lěng kōng qì qián fēng jiāng jìn rù wǒ guó dōng běi dì qū, nèi méng gǔ dōng bù、 hēi lóng jiāng xī nán bù hé jí lín běi bù jiāng yǒu zhōng dào dà xuě; huá běi dì qū tiān qì qíng lǎng, dàn zài xià wǔ de wǎn xiē shí hòu huì zhuǎn wéi duō yún; huá dōng hé xī nán dì qū lián rì de yīn yǔ tiān qì hái jiāng chí xù, yù jì píng jūn qì wēn jiāng huì xià jiàng 2到3度. Xià miàn wǒ men lái kàn yī xià quán guó bù fèn zhǔ yào chéng shì de tiān qì qíng kuàng. ..
+预报员: 从气象图上看，今日冷空气前锋将进入我国东北地区，内蒙古东部、黑龙江西南部和吉林北部将有中到大雪。
+<br>Yù bào yuán: cóng qì xiàng tú shàng kàn, jīn rì lěng kōng qì qián fēng jiāng jìn rù wǒ guó dōng běi dì qū, nèi méng gǔ dōng bù、 hēi lóng jiāng xī nán bù hé jí lín běi bù jiāng yǒu zhōng dào dà xuě.
+
+华北地区天气晴朗，但在下午的晚些时候会转为多云。
+<br>Huá běi dì qū tiān qì qíng lǎng, dàn zài xià wǔ de wǎn xiē shí hòu huì zhuǎn wéi duō yún.
+
+华东和西南地区连日的阴雨天气还将持续，预计平均气温将会下降2到3度。
+<br>Huá dōng hé xī nán dì qū lián rì de yīn yǔ tiān qì hái jiāng chí xù, yù jì píng jūn qì wēn jiāng huì xià jiàng 2到3度.
+
+下面我们来看一下全国部分主要城市的天气情况……
+<br>Xià miàn wǒ men lái kàn yī xià quán guó bù fèn zhǔ yào chéng shì de tiān qì qíng kuàng. ..
 
 
 ## E29 昨天电视上说
@@ -960,8 +1038,20 @@
 <br>(xīn wén bào dào)
 
 
-播音员: 下面开始报道简讯。本台消息，昨晚十一时，警方在湖心小区附近逮捕了两名男子和一名女子，他们涉嫌参与了28号城西长途汽车站的盗窃案。娱乐方面，美国小提琴演奏家芬妮昨日下午抵达上海，于昨晚八时在希望剧场进行了现场演奏，到场观众达两千人。体育新闻，在昨晚举行的巨人杯全国职业男子排球半决赛中，飞龙队以3比1战胜猛虎队，进入决赛。下面我们来看看全国的天气情况……
-<br>Bō yīn yuán: xià miàn kāi shǐ bào dào jiǎn xùn. Běn tái xiāo xī, zuó wǎn shí yī shí, jǐng fāng zài hú xīn xiǎo qū fù jìn dài bǔ le liǎng míng nán zi hé yī míng nǚ zǐ, tā men shè xián cān yù le 28号城西长途汽车站的盗窃案. Yú lè fāng miàn, měi guó xiǎo tí qín yǎn zòu jiā fēn nī zuó rì xià wǔ dǐ dá shàng hǎi, yú zuó wǎn bā shí zài xī wàng jù chǎng jìn xíng le xiàn chǎng yǎn zòu, dào chǎng guān zhòng dá liǎng qiān rén. Tǐ yù xīn wén, zài zuó wǎn jǔ xíng de jù rén bēi quán guó zhí yè nán zi pái qiú bàn jué sài zhōng, fēi lóng duì yǐ 3比1战胜猛虎队, jìn rù jué sài. Xià miàn wǒ men lái kàn kàn quán guó de tiān qì qíng kuàng. ..
+播音员: 下面开始报道简讯。
+<br>Bō yīn yuán: xià miàn kāi shǐ bào dào jiǎn xùn.
+
+本台消息，昨晚十一时，警方在湖心小区附近逮捕了两名男子和一名女子，他们涉嫌参与了28号城西长途汽车站的盗窃案。
+<br>Běn tái xiāo xī, zuó wǎn shí yī shí, jǐng fāng zài hú xīn xiǎo qū fù jìn dài bǔ le liǎng míng nán zi hé yī míng nǚ zǐ, tā men shè xián cān yù le èr shí bā hào chéng xī cháng tú qì chē zhàn de dào qiè àn.
+
+娱乐方面，美国小提琴演奏家芬妮昨日下午抵达上海，于昨晚八时在希望剧场进行了现场演奏，到场观众达两千人。
+<br>Yú lè fāng miàn, měi guó xiǎo tí qín yǎn zòu jiā fēn nī zuó rì xià wǔ dǐ dá shàng hǎi, yú zuó wǎn bā shí zài xī wàng jù chǎng jìn xíng le xiàn chǎng yǎn zòu, dào chǎng guān zhòng dá liǎng qiān rén.
+
+体育新闻，在昨晚举行的巨人杯全国职业男子排球半决赛中，飞龙队以3比1战胜猛虎队，进入决赛。
+<br>Tǐ yù xīn wén, zài zuó wǎn jǔ xíng de jù rén bēi quán guó zhí yè nán zi pái qiú bàn jué sài zhōng, fēi lóng duì yǐ sān bǐ yī zhàn shèng měng hǔ duì, jìn rù jué sài.
+
+下面我们来看看全国的天气情况……
+<br>Xià miàn wǒ men lái kàn kàn quán guó de tiān qì qíng kuàng. ..
 
 
 ## E30 我有英语六级证书
@@ -1002,8 +1092,6 @@
 
 
 ## E31 你听说过奔牛节吗？
-
-## E31 你听说过奔牛节吗?
 
 **(谈论世界各国的节日)**  
 <br>(tán lùn shì jiè gè guó de jié rì)
@@ -1048,8 +1136,6 @@
 
 ## E32 在中国，红色一般象征喜庆和吉利
 
-## E32 在中国, hóng sè yì bān xiàng zhēng xǐ qìng hé jí lì
-
 **(谈论迷信)**  
 <br>(tán lùn mí xìn)
 
@@ -1074,8 +1160,6 @@
 
 
 ## E33 不要紧吧？
-
-## E33 不要紧吧?
 
 **(谈论日常生活中可能发生的事故)**  
 <br>(tán lùn rì cháng shēng huó zhōng kě néng fā shēng de shì gù)
@@ -1115,25 +1199,42 @@
 <br>(tán lùn xìng qù ài hào)
 
 
-我很爱逛街，把大部分业余时间都花在逛街、买东西上了，所以有些朋友开玩笑叫我购物狂。平时我会很留心报纸、杂志上的购物指南，一休息就去逛商场。看到喜欢的东西我一般不会马上买，会多看几个地方，货比三家，然后选最便宜的。一年当中我最喜欢的就是百货公司换季大减价的时候了，可以用便宜的价钱买到很多平时贵得吓人的名牌货，在我看来，爱逛街也挺不错的，起码是一项很好的运动嘛。
-<br>Wǒ hěn ài guàng jiē, bǎ dà bù fèn yè yú shí jiān dōu huā zài guàng jiē、 mǎi dōng xī shàng le, suǒ yǐ yǒu xiē péng yǒu kāi wán xiào jiào wǒ gòu wù kuáng. Píng shí wǒ huì hěn liú xīn bào zhǐ、 zá zhì shàng de gòu wù zhǐ nán, yī xiū xī jiù qù guàng shāng chǎng. Kàn dào xǐ huān de dōng xī wǒ yì bān bú huì mǎ shàng mǎi, huì duō kàn jǐ gè dì fāng, huò bǐ sān jiā, rán hòu xuǎn zuì pián yi de. Yī nián dāng zhōng wǒ zuì xǐ huān de jiù shì bǎi huò gōng sī huàn jì dà jiǎn jià de shí hòu le, kě yǐ yòng pián yi de jià qián mǎi dào hěn duō píng shí guì dé xià rén de míng pái huò, zài wǒ kàn lái, ài guàng jiē yě tǐng bù cuò de, qǐ mǎ shì yī xiàng hěn hǎo de yùn dòng ma.
+我很爱逛街，把大部分业余时间都花在逛街、买东西上了，所以有些朋友开玩笑叫我购物狂。
+<br>Wǒ hěn ài guàng jiē, bǎ dà bù fèn yè yú shí jiān dōu huā zài guàng jiē、 mǎi dōng xī shàng le, suǒ yǐ yǒu xiē péng yǒu kāi wán xiào jiào wǒ gòu wù kuáng.
+
+平时我会很留心报纸、杂志上的购物指南，一休息就去逛商场。
+<br>Píng shí wǒ huì hěn liú xīn bào zhǐ、 zá zhì shàng de gòu wù zhǐ nán, yī xiū xī jiù qù guàng shāng chǎng.
+
+看到喜欢的东西我一般不会马上买，会多看几个地方，货比三家，然后选最便宜的。
+<br>Kàn dào xǐ huān de dōng xī wǒ yì bān bú huì mǎ shàng mǎi, huì duō kàn jǐ gè dì fāng, huò bǐ sān jiā, rán hòu xuǎn zuì pián yi de.
+
+一年当中我最喜欢的就是百货公司换季大减价的时候了，可以用便宜的价钱买到很多平时贵得吓人的名牌货。
+<br>Yī nián dāng zhōng wǒ zuì xǐ huān de jiù shì bǎi huò gōng sī huàn jì dà jiǎn jià de shí hòu le, kě yǐ yòng pián yi de jià qián mǎi dào hěn duō píng shí guì dé xià rén de míng pái huò.
+
+在我看来，爱逛街也挺不错的，起码是一项很好的运动嘛。
+<br>Zài wǒ kàn lái, ài guàng jiē yě tǐng bù cuò de, qǐ mǎ shì yī xiàng hěn hǎo de yùn dòng ma.
 
 
 ## E35 你知道今年流行什么样的衣服吗？
-
-## E35 你知道今年流行什么样的衣服吗?
 
 **(谈论服饰)**  
 <br>(tán lùn fú shì)
 
 
-方浩: 我在一家贸易公司工作，平时上班必须穿西装，可是，我不太喜欢穿西装，因为觉得太拘束，还总担心会把衣服弄脏、弄皱。平时在家，或者和朋友出去玩儿的时候，我都穿宽松、随便的休闲服。我每个月花在买衣服上的钱不算多，可能是因为我很少买名牌吧。我觉得衣服只要干净整齐、穿起来舒服就行了，是不是名牌不重要。
-<br>Fāng hào: wǒ zài yī jiā mào yì gōng sī gōng zuò, píng shí shàng bān bì xū chuān xī zhuāng, kě shì, wǒ bù tài xǐ huān chuān xī zhuāng, yīn wèi jué de tài jū shù, hái zǒng dān xīn huì bǎ yī fú nòng zāng、 nòng zhòu. Píng shí zài jiā, huò zhě hé péng yǒu chū qù wán ér de shí hòu, wǒ dōu chuān kuān sōng、 suí biàn de xiū xián fú. Wǒ měi gè yuè huā zài mǎi yī fú shàng de qián bù suàn duō, kě néng shì yīn wèi wǒ hěn shǎo mǎi míng pái ba. Wǒ jué de yī fú zhǐ yào gān jìng zhěng qí、 chuān qǐ lái shū fú jiù xíng le, shì bú shì míng pái bú zhòng yào.
+方浩: 我在一家贸易公司工作，平时上班必须穿西装，可是，我不太喜欢穿西装，因为觉得太拘束，还总担心会把衣服弄脏、弄皱。
+<br>Fāng hào: wǒ zài yī jiā mào yì gōng sī gōng zuò, píng shí shàng bān bì xū chuān xī zhuāng, kě shì, wǒ bù tài xǐ huān chuān xī zhuāng, yīn wèi jué de tài jū shù, hái zǒng dān xīn huì bǎ yī fú nòng zāng、 nòng zhòu.
+
+平时在家，或者和朋友出去玩儿的时候，我都穿宽松、随便的休闲服。
+<br>Píng shí zài jiā, huò zhě hé péng yǒu chū qù wán ér de shí hòu, wǒ dōu chuān kuān sōng、 suí biàn de xiū xián fú.
+
+我每个月花在买衣服上的钱不算多，可能是因为我很少买名牌吧。
+<br>Wǒ měi gè yuè huā zài mǎi yī fú shàng de qián bù suàn duō, kě néng shì yīn wèi wǒ hěn shǎo mǎi míng pái ba.
+
+我觉得衣服只要干净整齐、穿起来舒服就行了，是不是名牌不重要。
+<br>Wǒ jué de yī fú zhǐ yào gān jìng zhěng qí、 chuān qǐ lái shū fú jiù xíng le, shì bú shì míng pái bú zhòng yào.
 
 
 ## E36 你觉得这部电影怎么样？
-
-## E36 你觉得这部电影怎么样?
 
 **(对一部电影发表看法)**  
 <br>(duì yī bù diàn yǐng fā biǎo kàn fǎ)
@@ -1249,8 +1350,6 @@
 
 ## E39 真不好意思！
 
-## E39 真不好意思!
-
 **(道歉)**  
 <br>(dào qiàn)
 
@@ -1288,14 +1387,21 @@
 
 ## E40 它是什么样的？
 
-## E40 它是什么样的?
-
 **(描述一个物体)**  
 <br>(miáo shù yí gè wù tǐ)
 
 
-昨天晚上我在河边散步的时候，无意中看到天上有一个发光的物体飞了过去，没有声音，速度很快，一转眼就看不见了。开始我还以为是流星呢，但是它的形状实在是太奇怪了。上面是尖的，下面是平的，有点儿像一颗倒放的钻石。我想没准儿那就是UFO了吧。
-<br>Zuó tiān wǎn shàng wǒ zài hé biān sàn bù de shí hòu, wú yì zhōng kàn dào tiān shàng yǒu yí gè fā guāng de wù tǐ fēi le guò qù, méi yǒu shēng yīn, sù dù hěn kuài, yī zhuǎn yǎn jiù kàn bú jiàn le. Kāi shǐ wǒ hái yǐ wéi shì liú xīng ne, dàn shì tā de xíng zhuàng shí zài shì tài qí guài le. Shàng miàn shì jiān de, xià miàn shì píng de, yǒu diǎn ér xiàng yī kē dào fàng de zuàn shí. Wǒ xiǎng méi zhǔn ér nà jiù shì UFO了吧.
+昨天晚上我在河边散步的时候，无意中看到天上有一个发光的物体飞了过去，没有声音，速度很快，一转眼就看不见了。
+<br>Zuó tiān wǎn shàng wǒ zài hé biān sàn bù de shí hòu, wú yì zhōng kàn dào tiān shàng yǒu yí gè fā guāng de wù tǐ fēi le guò qù, méi yǒu shēng yīn, sù dù hěn kuài, yī zhuǎn yǎn jiù kàn bú jiàn le.
+
+开始我还以为是流星呢，但是它的形状实在是太奇怪了。
+<br>Kāi shǐ wǒ hái yǐ wéi shì liú xīng ne, dàn shì tā de xíng zhuàng shí zài shì tài qí guài le.
+
+上面是尖的，下面是平的，有点儿像一颗倒放的钻石。
+<br>Shàng miàn shì jiān de, xià miàn shì píng de, yǒu diǎn ér xiàng yī kē dào fàng de zuàn shí.
+
+我想没准儿那就是UFO了吧。
+<br>Wǒ xiǎng méi zhǔn ér nà jiù shì UFO le ba.
 
 
 ## E41 那会让人觉得你很没礼貌的
@@ -1304,13 +1410,44 @@
 <br>(tán lùn fēng sú xí guàn)
 
 
-来中国留学以后，我因为文化和习惯的不同闹过很多笑话。比如说吧，中国人非常热情好客，每次请客的时候，总是担心客人吃不饱、吃不好，所以都会尽量多做几个菜，多准备些点心水果，好让客人不用客气地尽情吃。刚来中国时，有一次，一个中国朋友请我去他家吃饺子，热情的女主人上来就给我盛了满满一大盘，足有二十多个。饺子味道真不错，我很快就吃光了。谁知女主人看我把盘子吃了个底儿朝天，以为我一定还没吃够，连忙又给我端来一盘。其实那时我已经饱了，可是又不好意思说吃不下，生怕她误会我嫌她的饺子不好吃，只好勉强吃完。结果那天，他家包的饺子几乎都让我一个人给吃了。我自己吃得脸色发白，肚子撑得疼了一夜。那位朋友呢，也一定心想："这个人可真能吃啊！"
-<br>Lái zhōng guó liú xué yǐ hòu, wǒ yīn wèi wén huà hé xí guàn de bù tóng nào guò hěn duō xiào huà. Bǐ rú shuō ba, zhōng guó rén fēi cháng rè qíng hào kè, měi cì qǐng kè de shí hòu, zǒng shì dān xīn kè rén chī bù bǎo、 chī bù hǎo, suǒ yǐ dū huì jǐn liàng duō zuò jǐ gè cài, duō zhǔn bèi xiē diǎn xīn shuǐ guǒ, hǎo ràng kè rén bù yòng kè qì dì jìn qíng chī. Gāng lái zhōng guó shí, yǒu yī cì, yí gè zhōng guó péng yǒu qǐng wǒ qù tā jiā chī jiǎo zi, rè qíng de nǚ zhǔ rén shàng lái jiù gěi wǒ shèng le mǎn mǎn yī dà pán, zú yǒu èr shí duō gè. Jiǎo zi wèi dào zhēn bù cuò, wǒ hěn kuài jiù chī guāng le. Shuí zhī nǚ zhǔ rén kàn wǒ bǎ pán zi chī le gè dǐ ér cháo tiān, yǐ wéi wǒ yí dìng hái méi chī gòu, lián máng yòu gěi wǒ duān lái yī pán. Qí shí nà shí wǒ yǐ jīng bǎo le, kě shì yòu bù hǎo yì sī shuō chī bù xià, shēng pà tā wù huì wǒ xián tā de jiǎo zi bù hǎo chī, zhǐ hǎo miǎn qiǎng chī wán. Jié guǒ nà tiān, tā jiā bāo de jiǎo zi jī hū dōu ràng wǒ yí gè rén gěi chī le. Wǒ zì jǐ chī dé liǎn sè fā bái, dǔ zi chēng dé téng le yī yè. Nà wèi péng yǒu ne, yě yí dìng xīn xiǎng: "zhè ge rén kě zhēn néng chī a! "
+来中国留学以后，我因为文化和习惯的不同闹过很多笑话。
+<br>Lái zhōng guó liú xué yǐ hòu, wǒ yīn wèi wén huà hé xí guàn de bù tóng nào guò hěn duō xiào huà.
+
+比如说吧，中国人非常热情好客，每次请客的时候，总是担心客人吃不饱、吃不好。
+<br>Bǐ rú shuō ba, zhōng guó rén fēi cháng rè qíng hào kè, měi cì qǐng kè de shí hòu, zǒng shì dān xīn kè rén chī bù bǎo、 chī bù hǎo.
+
+所以都会尽量多做几个菜，多准备些点心水果，好让客人不用客气地尽情吃。
+<br>Suǒ yǐ dū huì jǐn liàng duō zuò jǐ gè cài, duō zhǔn bèi xiē diǎn xīn shuǐ guǒ, hǎo ràng kè rén bù yòng kè qì dì jìn qíng chī.
+
+刚来中国时，有一次，一个中国朋友请我去他家吃饺子。
+<br>Gāng lái zhōng guó shí, yǒu yī cì, yí gè zhōng guó péng yǒu qǐng wǒ qù tā jiā chī jiǎo zi.
+
+热情的女主人上来就给我盛了满满一大盘，足有二十多个。
+<br>Rè qíng de nǚ zhǔ rén shàng lái jiù gěi wǒ shèng le mǎn mǎn yī dà pán, zú yǒu èr shí duō gè.
+
+饺子味道真不错，我很快就吃光了。
+<br>Jiǎo zi wèi dào zhēn bù cuò, wǒ hěn kuài jiù chī guāng le.
+
+谁知女主人看我把盘子吃了个底儿朝天，以为我一定还没吃够，连忙又给我端来一盘。
+<br>Shuí zhī nǚ zhǔ rén kàn wǒ bǎ pán zi chī le gè dǐ ér cháo tiān, yǐ wéi wǒ yí dìng hái méi chī gòu, lián máng yòu gěi wǒ duān lái yī pán.
+
+其实那时我已经饱了，可是又不好意思说吃不下。
+<br>Qí shí nà shí wǒ yǐ jīng bǎo le, kě shì yòu bù hǎo yì sī shuō chī bù xià.
+
+生怕她误会我嫌她的饺子不好吃，只好勉强吃完。
+<br>Shēng pà tā wù huì wǒ xián tā de jiǎo zi bù hǎo chī, zhǐ hǎo miǎn qiǎng chī wán.
+
+结果那天，他家包的饺子几乎都让我一个人给吃了。
+<br>Jié guǒ nà tiān, tā jiā bāo de jiǎo zi jī hū dōu ràng wǒ yí gè rén gěi chī le.
+
+我自己吃得脸色发白，肚子撑得疼了一夜。
+<br>Wǒ zì jǐ chī dé liǎn sè fā bái, dǔ zi chēng dé téng le yī yè.
+
+那位朋友呢，也一定心想："这个人可真能吃啊！"
+<br>Nà wèi péng yǒu ne, yě yí dìng xīn xiǎng: "zhè ge rén kě zhēn néng chī a! "
 
 
 ## E42 要是当时小心点儿就好了！
-
-## E42 要是当时小心点儿就好了!
 
 **(说说让你感到后悔的事)**  
 <br>(shuō shuō ràng nǐ gǎn dào hòu huǐ de shì)
@@ -1349,26 +1486,42 @@
 
 ## E43 你觉不觉得……
 
-## E43 你觉不觉得. ..
-
 **(谈论现代社会的问题)**  
 <br>(tán lùn xiàn dài shè huì de wèn tí)
 
 
-主持人: 各位观众朋友，晚上好！欢迎收看《焦点》节目，今天我们请来的嘉宾是华宇大学的沈德教授，沈教授，您好！
-<br>Zhǔ chí rén: gè wèi guān zhòng péng yǒu, wǎn shàng hǎo! Huān yíng shōu kàn《 jiāo diǎn》 jié mù, jīn tiān wǒ men qǐng lái de jiā bīn shì huá yǔ dà xué de shěn dé jiào shòu, shěn jiào shòu, nín hǎo!
+主持人: 各位观众朋友，晚上好！
+<br>Zhǔ chí rén: gè wèi guān zhòng péng yǒu, wǎn shàng hǎo!
+
+欢迎收看《焦点》节目，今天我们请来的嘉宾是华宇大学的沈德教授。
+<br>Huān yíng shōu kàn《 jiāo diǎn》 jié mù, jīn tiān wǒ men qǐng lái de jiā bīn shì huá yǔ dà xué de shěn dé jiào shòu.
+
+沈教授，您好！
+<br>Shěn jiào shòu, nín hǎo!
 
 沈教授: 你好！
 <br>Shěn jiào shòu: nǐ hǎo!
 
-主持人: 今天我们想和您讨论一下孩子的教育问题。很多人都说现在孩子的学习压力越来越大，玩儿的时间越来越少。您觉得呢？
-<br>Zhǔ chí rén: jīn tiān wǒ men xiǎng hé nín tǎo lùn yī xià hái zi de jiào yù wèn tí. Hěn duō rén dōu shuō xiàn zài hái zi de xué xí yā lì yuè lái yuè dà, wán ér de shí jiān yuè lái yuè shǎo. Nín jué de ne?
+主持人: 今天我们想和您讨论一下孩子的教育问题。
+<br>Zhǔ chí rén: jīn tiān wǒ men xiǎng hé nín tǎo lùn yī xià hái zi de jiào yù wèn tí.
 
-沈教授: 是啊，确实是这样。很多孩子放学以后要去补习班补习，晚上回家要做作业，星期天还要去学弹钢琴、跳舞什么的，真的是很可怜。
-<br>Shěn jiào shòu: shì a, què shí shì zhè yàng. Hěn duō hái zi fàng xué yǐ hòu yào qù bǔ xí bān bǔ xí, wǎn shàng huí jiā yào zuò zuò yè, xīng qī tiān hái yào qù xué tán gāng qín、 tiào wǔ shén me de, zhēn de shì hěn kě lián.
+很多人都说现在孩子的学习压力越来越大，玩儿的时间越来越少。
+<br>Hěn duō rén dōu shuō xiàn zài hái zi de xué xí yā lì yuè lái yuè dà, wán ér de shí jiān yuè lái yuè shǎo.
 
-主持人: 我也觉得他们很可怜。我邻居家的孩子才六岁，已经开始学英语了。
-<br>Zhǔ chí rén: wǒ yě jué de tā men hěn kě lián. Wǒ lín jū jiā de hái zi cái liù suì, yǐ jīng kāi shǐ xué yīng yǔ le.
+您觉得呢？
+<br>Nín jué de ne?
+
+沈教授: 是啊，确实是这样。
+<br>Shěn jiào shòu: shì a, què shí shì zhè yàng.
+
+很多孩子放学以后要去补习班补习，晚上回家要做作业，星期天还要去学弹钢琴、跳舞什么的，真的是很可怜。
+<br>Hěn duō hái zi fàng xué yǐ hòu yào qù bǔ xí bān bǔ xí, wǎn shàng huí jiā yào zuò zuò yè, xīng qī tiān hái yào qù xué tán gāng qín、 tiào wǔ shén me de, zhēn de shì hěn kě lián.
+
+主持人: 我也觉得他们很可怜。
+<br>Zhǔ chí rén: wǒ yě jué de tā men hěn kě lián.
+
+我邻居家的孩子才六岁，已经开始学英语了。
+<br>Wǒ lín jū jiā de hái zi cái liù suì, yǐ jīng kāi shǐ xué yīng yǔ le.
 
 沈教授: 是啊，现在对孩子的教育抓得越来越早了。
 <br>Shěn jiào shòu: shì a, xiàn zài duì hái zi de jiào yù zhuā dé yuè lái yuè zǎo le.
@@ -1376,20 +1529,42 @@
 主持人: 那您觉得为什么现在的家长要让孩子学这么多东西呢？
 <br>Zhǔ chí rén: nà nín jué de wèi shén me xiàn zài de jiā zhǎng yào ràng hái zi xué zhè me duō dōng xī ne?
 
-沈教授: 现代社会竞争越来越激烈，很多家长为了不让自己的孩子在竞争中被淘汰，只能让他们从小就开始学习各种技能。
-<br>Shěn jiào shòu: xiàn dài shè huì jìng zhēng yuè lái yuè jī liè, hěn duō jiā zhǎng wèi le bù ràng zì jǐ de hái zi zài jìng zhēng zhōng bèi táo tài, zhǐ néng ràng tā men cóng xiǎo jiù kāi shǐ xué xí gè zhǒng jì néng.
+沈教授: 现代社会竞争越来越激烈。
+<br>Shěn jiào shòu: xiàn dài shè huì jìng zhēng yuè lái yuè jī liè.
+
+很多家长为了不让自己的孩子在竞争中被淘汰，只能让他们从小就开始学习各种技能。
+<br>Hěn duō jiā zhǎng wèi le bù ràng zì jǐ de hái zi zài jìng zhēng zhōng bèi táo tài, zhǐ néng ràng tā men cóng xiǎo jiù kāi shǐ xué xí gè zhǒng jì néng.
 
 
 ## E44 有了手机，联系朋友比以前方便多了
-
-## E44 有了手机, lián xì péng yǒu bǐ yǐ qián fāng biàn duō le
 
 **(谈谈发明)**  
 <br>(tán tán fā míng)
 
 
-在我看来还是有一辆自己的车比较好，想去哪儿就去哪儿，多自由啊！上班也不用担心赶不上地铁，或者等巴士车总不来。在中国，过去一般老百姓买不起车，现在一方面是车价便宜了，另一方面高收入的家庭比以前多了，所以虽然养一辆车费用并不低，但还是有越来越多的人加入到购买私家车的潮流里来。不过，随着汽车的增多，堵车的问题也变得严重起来。被堵在半路上的滋味儿实在不好受，心里特别烦，这时候又会想还不如坐地铁呢。总的来说，我觉得汽车是一项很好的发明。虽然它给人类社会带来了空气污染、噪音污染等很多问题，但同时也极大地方便了我们的生活。
-<br>Zài wǒ kàn lái hái shì yǒu yī liàng zì jǐ de chē bǐ jiào hǎo, xiǎng qù nǎ ér jiù qù nǎ ér, duō zì yóu a! Shàng bān yě bù yòng dān xīn gǎn bù shàng dì tiě, huò zhě děng bā shì chē zǒng bù lái. Zài zhōng guó, guò qù yì bān lǎo bǎi xìng mǎi bù qǐ chē, xiàn zài yì fāng miàn shì chē jià pián yi le, lìng yì fāng miàn gāo shōu rù de jiā tíng bǐ yǐ qián duō le, suǒ yǐ suī rán yǎng yī liàng chē fèi yòng bìng bù dī, dàn hái shì yǒu yuè lái yuè duō de rén jiā rù dào gòu mǎi sī jiā chē de cháo liú lǐ lái. Bù guò, suí zhe qì chē de zēng duō, dǔ chē de wèn tí yě biàn dé yán zhòng qǐ lái. Bèi dǔ zài bàn lù shàng de zī wèi ér shí zài bù hǎo shòu, xīn lǐ tè bié fán, zhè shí hòu yòu huì xiǎng hái bù rú zuò dì tiě ne. Zǒng de lái shuō, wǒ jué de qì chē shì yī xiàng hěn hǎo de fā míng. Suī rán tā gěi rén lèi shè huì dài lái le kōng qì wū rǎn、 zào yīn wū rǎn děng hěn duō wèn tí, dàn tóng shí yě jí dà dì fāng biàn liǎo wǒ men de shēng huó.
+在我看来还是有一辆自己的车比较好，想去哪儿就去哪儿，多自由啊！
+<br>Zài wǒ kàn lái hái shì yǒu yī liàng zì jǐ de chē bǐ jiào hǎo, xiǎng qù nǎ ér jiù qù nǎ ér, duō zì yóu a!
+
+上班也不用担心赶不上地铁，或者等巴士车总不来。
+<br>Shàng bān yě bù yòng dān xīn gǎn bù shàng dì tiě, huò zhě děng bā shì chē zǒng bù lái.
+
+在中国，过去一般老百姓买不起车，现在一方面是车价便宜了，另一方面高收入的家庭比以前多了。
+<br>Zài zhōng guó, guò qù yì bān lǎo bǎi xìng mǎi bù qǐ chē, xiàn zài yì fāng miàn shì chē jià pián yi le, lìng yì fāng miàn gāo shōu rù de jiā tíng bǐ yǐ qián duō le.
+
+所以虽然养一辆车费用并不低，但还是有越来越多的人加入到购买私家车的潮流里来。
+<br>Suǒ yǐ suī rán yǎng yī liàng chē fèi yòng bìng bù dī, dàn hái shì yǒu yuè lái yuè duō de rén jiā rù dào gòu mǎi sī jiā chē de cháo liú lǐ lái.
+
+不过，随着汽车的增多，堵车的问题也变得严重起来。
+<br>Bù guò, suí zhe qì chē de zēng duō, dǔ chē de wèn tí yě biàn dé yán zhòng qǐ lái.
+
+被堵在半路上的滋味儿实在不好受，心里特别烦，这时候又会想还不如坐地铁呢。
+<br>Bèi dǔ zài bàn lù shàng de zī wèi ér shí zài bù hǎo shòu, xīn lǐ tè bié fán, zhè shí hòu yòu huì xiǎng hái bù rú zuò dì tiě ne.
+
+总的来说，我觉得汽车是一项很好的发明。
+<br>Zǒng de lái shuō, wǒ jué de qì chē shì yī xiàng hěn hǎo de fā míng.
+
+虽然它给人类社会带来了空气污染、噪音污染等很多问题，但同时也极大地方便了我们的生活。
+<br>Suī rán tā gěi rén lèi shè huì dài lái le kōng qì wū rǎn、 zào yīn wū rǎn děng hěn duō wèn tí, dàn tóng shí yě jí dà dì fāng biàn liǎo wǒ men de shēng huó.
 
 
 ## E45 我觉得家庭是最重要的
@@ -1398,13 +1573,32 @@
 <br>(shuō shuō duì nǐ lái shuō shén me zuì zhòng yào)
 
 
-小路: 昨天晚上上网聊天的时候，朋友问我，如果买彩票中了300万，我想做什么。我说，我想买一套大房子，再带全家去旅游。朋友说我家庭观念强。确实是这样，我觉得家庭是最重要的。有的人觉得金钱最重要，但我觉得钱不用太多，够花就可以了。有的人认为事业最重要，但我觉得只要喜欢自己的工作就行，不必计较成不成功。所以对我来说，排在第一位的还是家庭，全家人能健健康康、开开心心地生活在一起，我就很满足了。
-<br>Xiǎo lù: zuó tiān wǎn shàng shàng wǎng liáo tiān de shí hòu, péng yǒu wèn wǒ, rú guǒ mǎi cǎi piào zhōng le 300万, wǒ xiǎng zuò shén me. Wǒ shuō, wǒ xiǎng mǎi yī tào dà fáng zi, zài dài quán jiā qù lǚ yóu. Péng yǒu shuō wǒ jiā tíng guān niàn qiáng. Què shí shì zhè yàng, wǒ jué de jiā tíng shì zuì zhòng yào de. Yǒu de rén jué de jīn qián zuì zhòng yào, dàn wǒ jué de qián bù yòng tài duō, gòu huā jiù kě yǐ le. Yǒu de rén rèn wéi shì yè zuì zhòng yào, dàn wǒ jué de zhǐ yào xǐ huān zì jǐ de gōng zuò jiù xíng, bù bì jì jiào chéng bù chéng gōng. Suǒ yǐ duì wǒ lái shuō, pái zài dì yī wèi de hái shì jiā tíng, quán jiā rén néng jiàn jiàn kāng kāng、 kāi kāi xīn xīn dì shēng huó zài yì qǐ, wǒ jiù hěn mǎn zú le.
+小路: 昨天晚上上网聊天的时候，朋友问我，如果买彩票中了300万，我想做什么。
+<br>Xiǎo lù: zuó tiān wǎn shàng shàng wǎng liáo tiān de shí hòu, péng yǒu wèn wǒ, rú guǒ mǎi cǎi piào zhōng le sān bǎi wàn, wǒ xiǎng zuò shén me.
+
+我说，我想买一套大房子，再带全家去旅游。
+<br>Wǒ shuō, wǒ xiǎng mǎi yī tào dà fáng zi, zài dài quán jiā qù lǚ yóu.
+
+朋友说我家庭观念强。
+<br>Péng yǒu shuō wǒ jiā tíng guān niàn qiáng.
+
+确实是这样，我觉得家庭是最重要的。
+<br>Què shí shì zhè yàng, wǒ jué de jiā tíng shì zuì zhòng yào de.
+
+有的人觉得金钱最重要，但我觉得钱不用太多，够花就可以了。
+<br>Yǒu de rén jué de jīn qián zuì zhòng yào, dàn wǒ jué de qián bù yòng tài duō, gòu huā jiù kě yǐ le.
+
+有的人认为事业最重要，但我觉得只要喜欢自己的工作就行，不必计较成不成功。
+<br>Yǒu de rén rèn wéi shì yè zuì zhòng yào, dàn wǒ jué de zhǐ yào xǐ huān zì jǐ de gōng zuò jiù xíng, bù bì jì jiào chéng bù chéng gōng.
+
+所以对我来说，排在第一位的还是家庭。
+<br>Suǒ yǐ duì wǒ lái shuō, pái zài dì yī wèi de hái shì jiā tíng.
+
+全家人能健健康康、开开心心地生活在一起，我就很满足了。
+<br>Quán jiā rén néng jiàn jiàn kāng kāng、 kāi kāi xīn xīn dì shēng huó zài yì qǐ, wǒ jiù hěn mǎn zú le.
 
 
 ## E46 可把我急死了！
-
-## E46 可把我急死了!
 
 **(讲讲自己遇到的事情)**  
 <br>(jiǎng jiǎng zì jǐ yù dào de shì qíng)
@@ -1416,53 +1610,81 @@
 男: 怎么了？
 <br>Nán: zěn me le?
 
-女: 我从日本出差回来，到家都晚上十一点多了。所以也没收拾东西，躺床上就睡了。
-<br>Nǚ: wǒ cóng rì běn chū chāi huí lái, dào jiā dōu wǎn shàng shí yì diǎn duō le. Suǒ yǐ yě mò shōu shí dōng xī, tǎng chuáng shàng jiù shuì le.
+女: 我从日本出差回来，到家都晚上十一点多了。
+<br>Nǚ: wǒ cóng rì běn chū chāi huí lái, dào jiā dōu wǎn shàng shí yì diǎn duō le.
+
+所以也没收拾东西，躺床上就睡了。
+<br>Suǒ yǐ yě méi shōu shí dōng xī, tǎng chuáng shàng jiù shuì le.
 
 男: 嗯。
 <br>Nán: ń.
 
-女: 第二天中午起来以后，我开始收拾东西。你猜怎么着？
-<br>Nǚ: dì èr tiān zhōng wǔ qǐ lái yǐ hòu, wǒ kāi shǐ shōu shí dōng xī. Nǐ cāi zěn me zhe?
+女: 第二天中午起来以后，我开始收拾东西。
+<br>Nǚ: dì èr tiān zhōng wǔ qǐ lái yǐ hòu, wǒ kāi shǐ shōu shí dōng xī.
+
+你猜怎么着？
+<br>Nǐ cāi zěn me zhe?
 
 男: 怎么了？
 <br>Nán: zěn me le?
 
-女: 行李箱的锁怎么也打不开了，我仔细一看，发现密码锁旁边贴着的名字不是我的。我才意识到，我在机场拿错行李了。
-<br>Nǚ: xíng lǐ xiāng de suǒ zěn me yě dǎ bù kāi le, wǒ zǐ xì yī kàn, fā xiàn mì mǎ suǒ páng biān tiē zhe de míng zì bú shì wǒ de. Wǒ cái yì shí dào, wǒ zài jī chǎng ná cuò xíng lǐ le.
+女: 行李箱的锁怎么也打不开了。
+<br>Nǚ: xíng lǐ xiāng de suǒ zěn me yě dǎ bù kāi le.
+
+我仔细一看，发现密码锁旁边贴着的名字不是我的。
+<br>Wǒ zǐ xì yī kàn, fā xiàn mì mǎ suǒ páng biān tiē zhe de míng zì bú shì wǒ de.
+
+我才意识到，我在机场拿错行李了。
+<br>Wǒ cái yì shí dào, wǒ zài jī chǎng ná cuò xíng lǐ le.
 
 男: 那后来呢？
 <br>Nán: nà hòu lái ne?
 
-女: 后来我就马上给机场打电话，他们问了我行李的样子，然后告诉我上午已经有人把我的行李送回机场了，让我尽快带着那个箱子去换。
-<br>Nǚ: hòu lái wǒ jiù mǎ shàng gěi jī chǎng dǎ diàn huà, tā men wèn le wǒ xíng lǐ de yàng zi, rán hòu gào sù wǒ shàng wǔ yǐ jīng yǒu rén bǎ wǒ de xíng lǐ sòng huí jī chǎng le, ràng wǒ jǐn kuài dài zhe nà ge xiāng zi qù huàn.
+女: 后来我就马上给机场打电话。
+<br>Nǚ: hòu lái wǒ jiù mǎ shàng gěi jī chǎng dǎ diàn huà.
+
+他们问了我行李的样子，然后告诉我上午已经有人把我的行李送回机场了，让我尽快带着那个箱子去换。
+<br>Tā men wèn le wǒ xíng lǐ de yàng zi, rán hòu gào sù wǒ shàng wǔ yǐ jīng yǒu rén bǎ wǒ de xíng lǐ sòng huí jī chǎng le, ràng wǒ jǐn kuài dài zhe nà ge xiāng zi qù huàn.
 
 男: 还不错，总算没弄丢。
 <br>Nán: hái bú cuò, zǒng suàn méi nòng diū.
 
-女: 对啊，如果丢了就麻烦了，公司的很多重要文件都在里面呢。
-<br>Nǚ: duì a, rú guǒ diū le jiù má fán le, gōng sī de hěn duō zhòng yào wén jiàn dōu zài lǐ miàn ne.
+女: 对啊，如果丢了就麻烦了。
+<br>Nǚ: duì a, rú guǒ diū le jiù má fán le.
+
+公司的很多重要文件都在里面呢。
+<br>Gōng sī de hěn duō zhòng yào wén jiàn dōu zài lǐ miàn ne.
 
 
 ## E47 最近小偷怎么这么多啊？
-
-## E47 最近小偷怎么这么多啊?
 
 **(谈论犯罪)**  
 <br>(tán lùn fàn zuì)
 
 
-孟珍: 哎，你看！王峰又因为酒后驾车被拘留了。
-<br>Mèng zhēn: āi, nǐ kàn! Wáng fēng yòu yīn wèi jiǔ hòu jià chē bèi jū liú le.
+孟珍: 哎，你看！
+<br>Mèng zhēn: āi, nǐ kàn!
 
-陈德: 是吗？他今年这都是第二次了吧？
-<br>Chén dé: shì ma? Tā jīn nián zhè dōu shì dì èr cì le ba?
+王峰又因为酒后驾车被拘留了。
+<br>Wáng fēng yòu yīn wèi jiǔ hòu jià chē bèi jū liú le.
 
-孟珍: 是啊，我看就是判得太轻了，所以他才不注意。要是送他去劳教几个月，他就不敢了。
-<br>Mèng zhēn: shì a, wǒ kàn jiù shì pàn dé tài qīng le, suǒ yǐ tā cái bù zhù yì. Yào shì sòng tā qù láo jiào jǐ gè yuè, tā jiù bù gǎn le.
+陈德: 是吗？
+<br>Chén dé: shì ma?
 
-陈德: 我觉得拘留已经不轻了。他们文艺圈的人，一旦被拘留，事业和名誉都会受到很大的影响。
-<br>Chén dé: wǒ jué de jū liú yǐ jīng bù qīng le. Tā men wén yì quān de rén, yí dàn bèi jū liú, shì yè hé míng yù dū huì shòu dào hěn dà de yǐng xiǎng.
+他今年这都是第二次了吧？
+<br>Tā jīn nián zhè dōu shì dì èr cì le ba?
+
+孟珍: 是啊，我看就是判得太轻了，所以他才不注意。
+<br>Mèng zhēn: shì a, wǒ kàn jiù shì pàn dé tài qīng le, suǒ yǐ tā cái bù zhù yì.
+
+要是送他去劳教几个月，他就不敢了。
+<br>Yào shì sòng tā qù láo jiào jǐ gè yuè, tā jiù bù gǎn le.
+
+陈德: 我觉得拘留已经不轻了。
+<br>Chén dé: wǒ jué de jū liú yǐ jīng bù qīng le.
+
+他们文艺圈的人，一旦被拘留，事业和名誉都会受到很大的影响。
+<br>Tā men wén yì quān de rén, yí dàn bèi jū liú, shì yè hé míng yù dū huì shòu dào hěn dà de yǐng xiǎng.
 
 孟珍: 那他怎么还不注意啊？
 <br>Mèng zhēn: nà tā zěn me hái bù zhù yì a?
@@ -1470,16 +1692,20 @@
 陈德: 咳，他们那些人在外面应酬也是工作，喝点儿酒也在所难免。
 <br>Chén dé: ké, tā men nà xiē rén zài wài miàn yìng chóu yě shì gōng zuò, hē diǎn ér jiǔ yě zài suǒ nán miǎn.
 
-孟珍: 不开车也可以去应酬啊，酒后驾车多危险啊！这次还好，刚上车就被警察发现了，要不然万一出了什么事儿，就不只是拘留这么简单了。
-<br>Mèng zhēn: bù kāi chē yě kě yǐ qù yìng chóu a, jiǔ hòu jià chē duō wēi xiǎn a! Zhè cì hái hǎo, gāng shàng chē jiù bèi jǐng chá fā xiàn le, yào bù rán wàn yī chū le shén me shì ér, jiù bù zhǐ shì jū liú zhè me jiǎn dān le.
+孟珍: 不开车也可以去应酬啊，酒后驾车多危险啊！
+<br>Mèng zhēn: bù kāi chē yě kě yǐ qù yìng chóu a, jiǔ hòu jià chē duō wēi xiǎn a!
+
+这次还好，刚上车就被警察发现了。
+<br>Zhè cì hái hǎo, gāng shàng chē jiù bèi jǐng chá fā xiàn le.
+
+要不然万一出了什么事儿，就不只是拘留这么简单了。
+<br>Yào bù rán wàn yī chū le shén me shì ér, jiù bù zhǐ shì jū liú zhè me jiǎn dān le.
 
 陈德: 嗯，要是真的发生交通事故，撞了人什么的，那他麻烦可就大了。
 <br>Chén dé: ń, yào shì zhēn de fā shēng jiāo tōng shì gù, zhuàng le rén shén me de, nà tā má fán kě jiù dà le.
 
 
 ## E48 红烧排骨怎么做啊？
-
-## E48 红烧排骨怎么做啊?
 
 **(谈论各色菜肴)**  
 <br>(tán lùn gè sè cài yáo)
@@ -1503,8 +1729,11 @@
 凯瑟琳: 梅菜扣肉是什么呀？
 <br>Kǎi sè lín: méi cài kòu ròu shì shén me ya?
 
-袁静: 梅菜扣肉就是把猪肉抹上酱油，放在梅菜上面一起蒸。听说这家餐厅的梅菜扣肉做得很地道，特别好吃，你可以尝尝看。
-<br>Yuán jìng: méi cài kòu ròu jiù shì bǎ zhū ròu mǒ shàng jiàng yóu, fàng zài méi cài shàng miàn yì qǐ zhēng. Tīng shuō zhè jiā cān tīng de méi cài kòu ròu zuò dé hěn dì dào, tè bié hǎo chī, nǐ kě yǐ cháng cháng kàn.
+袁静: 梅菜扣肉就是把猪肉抹上酱油，放在梅菜上面一起蒸。
+<br>Yuán jìng: méi cài kòu ròu jiù shì bǎ zhū ròu mǒ shàng jiàng yóu, fàng zài méi cài shàng miàn yì qǐ zhēng.
+
+听说这家餐厅的梅菜扣肉做得很地道，特别好吃，你可以尝尝看。
+<br>Tīng shuō zhè jiā cān tīng de méi cài kòu ròu zuò dé hěn dì dào, tè bié hǎo chī, nǐ kě yǐ cháng cháng kàn.
 
 凯瑟琳: 好啊！那就来一个吧！你点什么啊？
 <br>Kǎi sè lín: hǎo a! Nà jiù lái yí gè ba! Nǐ diǎn shén me a?
@@ -1519,8 +1748,26 @@
 <br>(tán lùn zì rán zāi hài)
 
 
-播音员: 十几年不遇的暴风雨昨天袭击了东南沿海的几个城市。截至记者发稿时间，在受灾最为严重的台州市，已有四人死亡，十人失踪。大风还刮倒了该市近郊的一些电线杆，使该地区的近千户人家陷于停电状态。南部沿海的几个渔村已有数百间房屋被洪水淹没。台州机场所有航班停飞，几条主要高速公路也被紧急关闭。据悉这种状态将持续到明天早上。这是近年来东南沿海城市所遭受的最猛烈的一次暴风雨袭击。
-<br>Bō yīn yuán: shí jǐ nián bù yù de bào fēng yǔ zuó tiān xí jī le dōng nán yán hǎi de jǐ gè chéng shì. Jié zhì jì zhě fā gǎo shí jiān, zài shòu zāi zuì wèi yán zhòng de tāi zhōu shì, yǐ yǒu sì rén sǐ wáng, shí rén shī zōng. Dà fēng hái guā dào le gāi shì jìn jiāo de yī xiē diàn xiàn gān, shǐ gāi dì qū de jìn qiān hù rén jiā xiàn yú tíng diàn zhuàng tài. Nán bù yán hǎi de jǐ gè yú cūn yǐ yǒu shù bǎi jiān fáng wū bèi hóng shuǐ yān mò. Tāi zhōu jī chǎng suǒ yǒu háng bān tíng fēi, jǐ tiáo zhǔ yào gāo sù gōng lù yě bèi jǐn jí guān bì. Jù xī zhè zhǒng zhuàng tài jiāng chí xù dào míng tiān zǎo shàng. Zhè shì jìn nián lái dōng nán yán hǎi chéng shì suǒ zāo shòu de zuì měng liè de yī cì bào fēng yǔ xí jī.
+播音员: 十几年不遇的暴风雨昨天袭击了东南沿海的几个城市。
+<br>Bō yīn yuán: shí jǐ nián bù yù de bào fēng yǔ zuó tiān xí jī le dōng nán yán hǎi de jǐ gè chéng shì.
+
+截至记者发稿时间，在受灾最为严重的台州市，已有四人死亡，十人失踪。
+<br>Jié zhì jì zhě fā gǎo shí jiān, zài shòu zāi zuì wèi yán zhòng de tāi zhōu shì, yǐ yǒu sì rén sǐ wáng, shí rén shī zōng.
+
+大风还刮倒了该市近郊的一些电线杆，使该地区的近千户人家陷于停电状态。
+<br>Dà fēng hái guā dào le gāi shì jìn jiāo de yī xiē diàn xiàn gān, shǐ gāi dì qū de jìn qiān hù rén jiā xiàn yú tíng diàn zhuàng tài.
+
+南部沿海的几个渔村已有数百间房屋被洪水淹没。
+<br>Nán bù yán hǎi de jǐ gè yú cūn yǐ yǒu shù bǎi jiān fáng wū bèi hóng shuǐ yān mò.
+
+台州机场所有航班停飞，几条主要高速公路也被紧急关闭。
+<br>Tāi zhōu jī chǎng suǒ yǒu háng bān tíng fēi, jǐ tiáo zhǔ yào gāo sù gōng lù yě bèi jǐn jí guān bì.
+
+据悉这种状态将持续到明天早上。
+<br>Jù xī zhè zhǒng zhuàng tài jiāng chí xù dào míng tiān zǎo shàng.
+
+这是近年来东南沿海城市所遭受的最猛烈的一次暴风雨袭击。
+<br>Zhè shì jìn nián lái dōng nán yán hǎi chéng shì suǒ zāo shòu de zuì měng liè de yī cì bào fēng yǔ xí jī.
 
 
 ## E50 建化工厂肯定会造成污染
@@ -1547,9 +1794,15 @@
 黄威: 而且，动工后每天来往的车辆一定不少，我们镇那条路还不得天天塞车呀！
 <br>Huáng wēi: ér qiě, dòng gōng hòu měi tiān lái wǎng de chē liàng yí dìng bù shǎo, wǒ men zhèn nà tiáo lù hái bù dé tiān tiān sāi chē ya!
 
-陈立: 是啊，那每天去上班就得早点儿起了。不过电视里说，这是家大工厂，建成后一定会带动地区经济发展、提供更多的就业机会。
-<br>Chén lì: shì a, nà měi tiān qù shàng bān jiù dé zǎo diǎn ér qǐ le. Bù guò diàn shì lǐ shuō, zhè shì jiā dà gōng chǎng, jiàn chéng hòu yí dìng huì dài dòng dì qū jīng jì fā zhǎn、 tí gōng gèng duō de jiù yè jī huì.
+陈立: 是啊，那每天去上班就得早点儿起了。
+<br>Chén lì: shì a, nà měi tiān qù shàng bān jiù dé zǎo diǎn ér qǐ le.
 
-黄威: 那可不一定，要是经营不好呢？再说，他们也雇不了多少人吧？
-<br>Huáng wēi: nà kě bù yí dìng, yào shì jīng yíng bù hǎo ne? Zài shuō, tā men yě gù bù liǎo duō shǎo rén ba?
+不过电视里说，这是家大工厂，建成后一定会带动地区经济发展、提供更多的就业机会。
+<br>Bù guò diàn shì lǐ shuō, zhè shì jiā dà gōng chǎng, jiàn chéng hòu yí dìng huì dài dòng dì qū jīng jì fā zhǎn、 tí gōng gèng duō de jiù yè jī huì.
+
+黄威: 那可不一定，要是经营不好呢？
+<br>Huáng wēi: nà kě bù yí dìng, yào shì jīng yíng bù hǎo ne?
+
+再说，他们也雇不了多少人吧？
+<br>Zài shuō, tā men yě gù bù liǎo duō shǎo rén ba?
 
