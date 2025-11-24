@@ -1,5 +1,4 @@
-# Zone E 听力内容 - 朗読練習用
-*Pinyin Reading Practice Materials*
+# Zone E 笔记
 
 ---
 
@@ -270,7 +269,131 @@
 单行线  
 *dānxíng xiàn*
 
+# 20251124
 
+---
 
+多下一些面  
+*Duō xià yìxiē miàn*
 
+自己做的比冷冻的好吃  
+*Zìjǐ zuò de bǐ lěngdòng de hǎochī*
 
+❌自己做的比冷冻的不好吃
+
+冷冻的没有自己做的好吃  
+*Lěngdòng de méiyǒu zìjǐ zuò de hǎochī*
+
+自己做的比冷冻的好吃得多。  
+*Zìjǐ zuò de bǐ lěngdòng de hǎochī de duō.*
+
+自己做的比冷冻的好吃很多。  
+*Zìjǐ zuò de bǐ lěngdòng de hǎochī hěn duō.*
+
+自己做的比冷冻的好吃多了。  
+*Zìjǐ zuò de bǐ lěngdòng de hǎochī duō le.*
+
+自己做的比冷冻的好吃一些。  
+*Zìjǐ zuò de bǐ lěngdòng de hǎochī yìxiē.*
+
+---
+
+上次看的那个电影叫什么来着？一下子想不起来。  
+*Shàng cì kàn de nàge diànyǐng jiào shénme láizhe? Yíxiàzi xiǎng bu qǐlai.*
+
+叫《两个土豆一样大》，怎么了？  
+*Jiào "Liǎng ge tǔdòu yíyàng dà", zěnme le?*
+
+我想推荐给陈红。  
+*Wǒ xiǎng tuījiàn gěi Chén Hóng.*
+
+她不会喜欢这种奇怪的电影吧？  
+*Tā bú huì xǐhuan zhè zhǒng qíguài de diànyǐng ba?*
+
+我想听她说说她看完后的感想。  
+*Wǒ xiǎng tīng tā shuōshuo tā kànwán hòu de gǎnxiǎng.*
+
+（我想听听她说她看完后的感想。）  
+*(Wǒ xiǎng tīngting tā shuō tā kànwán hòu de gǎnxiǎng.)*
+
+她看完后有什么感想。  
+*Tā kànwán hòu yǒu shénme gǎnxiǎng.*
+
+---
+
+过：  
+我去那家超市买东西  
+*Wǒ qù nà jiā chāoshì mǎi dōngxi*
+
+→我去那家超市买过东西  
+*Wǒ qù nà jiā chāoshì mǎiguo dōngxi*
+
+---
+
+哎，小北的老公是哪国人来着？  
+*Éi, Xiǎo Běi de lǎogōng shì nǎ guó rén láizhe?*
+
+瑞典人，你怎么连这个都忘了？  
+*Ruìdiǎn rén, nǐ zěnme lián zhège dōu wàng le?*
+
+我只记得他是欧洲人。瑞典在欧洲的哪里啊？  
+*Wǒ zhǐ jìde tā shì Ōuzhōu rén. Ruìdiǎn zài Ōuzhōu de nǎlǐ a?*
+
+北欧，夹在芬兰和挪威（的）中间。  
+*Běi Ōu, jiā zài Fēnlán hé Nuówēi (de) zhōngjiān.*
+
+这么简单的问题连小学生都懂。  
+*Zhème jiǎndān de wèntí lián xiǎoxuéshēng dōu dǒng.*
+
+---
+
+小北说啥时候来大阪来着？  
+*Xiǎo Běi shuō shá shíhou lái Dàbǎn láizhe?*
+
+4月份。  
+*Sì yuèfèn.*
+
+怎么4月份才来？4月份樱花都谢了吧？  
+*Zěnme sì yuèfèn cái lái? Sì yuèfèn yīnghuā dōu xiè le ba?*
+
+她说3月份请不到假。  
+*Tā shuō sān yuèfèn qǐng bu dào jià.*
+
+肯定：请得到假  
+*Kěndìng: Qǐng de dào jià*
+
+---
+
+打完疫苗后，我的胳膊痛得都抬不起来了  
+*Dǎwán yìmiáo hòu, wǒ de gēbo tòng de dōu tái bu qǐlai le*
+
+都：程度很高
+
+太高了，我都不敢往下看  
+*Tài gāo le, wǒ dōu bù gǎn wǎng xià kàn*
+
+昨晚的雨太大了，我家前面的路都被淹没了  
+*Zuówǎn de yǔ tài dà le, wǒ jiā qiánmiàn de lù dōu bèi yānmò le*
+
+---
+
+你在干吗呢？  
+*Nǐ zài gànmá ne?*
+
+在逛街买东西呢。买了个包，挺好看的。  
+*Zài guàngjiē mǎi dōngxi ne. Mǎile ge bāo, tǐng hǎokàn de.*
+
+什么样的？  
+*Shénme yàng de?*
+
+黑白方格，提手是红色的，我发给你看看。  
+*Hēibái fānggé, tíshǒu shì hóngsè de, wǒ fā gěi nǐ kànkan.*
+
+好啊，什么质料的？  
+*Hǎo a, shénme zhìliào de?*
+
+（这个包）应该是人造革的吧。  
+*(Zhège bāo) yīnggāi shì rénzàogé de ba.*
+
+现在这个时间他应该已经到东京了吧？  
+*Xiànzài zhège shíjiān tā yīnggāi yǐjīng dào Dōngjīng le ba?*
