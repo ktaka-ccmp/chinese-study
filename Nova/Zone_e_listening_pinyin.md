@@ -95,7 +95,7 @@
 <br>Jié guǒ gāng xià diàn tī, wǒ men jiù bèi rén qún jǐ sàn le.
 
 我找不着我妈，就开始一边哭一边叫妈妈，当时真是害怕极了。
-<br>Wǒ zhǎo bù zhe wǒ mā, jiù kāi shǐ yī biān kū yī biān jiào mā mā, dāng shí zhēn shì hài pà jí le.
+<br>Wǒ zhǎo bù zháo wǒ mā, jiù kāi shǐ yī biān kū yī biān jiào mā mā, dāng shí zhēn shì hài pà jí le.
 
 后来，一个阿姨把我带到了商场的广播室，他们就用扩音器通知了我妈来接我。
 <br>Hòu lái, yí gè ā yí bǎ wǒ dài dào le shāng chǎng de guǎng bō shì, tā men jiù yòng kuò yīn qì tōng zhī le wǒ mā lái jiē wǒ.

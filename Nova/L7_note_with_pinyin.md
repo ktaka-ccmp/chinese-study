@@ -397,3 +397,152 @@
 
 现在这个时间他应该已经到东京了吧？  
 *Xiànzài zhège shíjiān tā yīnggāi yǐjīng dào Dōngjīng le ba?*
+
+# 20251125 中文课笔记 - 电脑用语
+
+---
+
+## 学习反思
+
+中文方面，汉语方面有没有什么问题？  
+*Zhōngwén fāngmiàn, Hànyǔ fāngmiàn yǒu méiyǒu shénme wèntí?*
+
+偶尔遇到，想不起来了声调，还要提高。  
+*Ǒu'ěr yùdào, xiǎng bu qǐlai le shēngdiào, hái yào tígāo.*
+
+想办法，还没想好怎么提高声调？  
+*Xiǎng bànfǎ, hái méi xiǎnghǎo zěnme tígāo shēngdiào?*
+
+句子的理解比较慢，优先理解意思，记住句子的构成，没有考虑到声调不能分辨，分辨不出来。  
+*Jùzi de lǐjiě bǐjiào màn, yōuxiān lǐjiě yìsi, jìzhù jùzi de gòuchéng, méiyǒu kǎolǜ dào shēngdiào bù néng fēnbiàn, fēnbiàn bu chūlai.*
+
+---
+
+## 电脑用语
+
+鼠标  
+*shǔbiāo*
+
+键盘  
+*jiànpán*
+
+摄像头  
+*shèxiàngtóu*
+
+桌面  
+*zhuōmiàn*
+
+图标  
+*túbiāo*
+
+文件夹  
+*wénjiànjiā*
+
+保存  
+*bǎocún*
+
+删除  
+*shānchú*
+
+复印  
+*fùyìn*
+
+粘贴  
+*zhāntiē*
+
+备份  
+*bèifèn*
+
+杀毒  
+*shādú*
+
+上传  
+*shàngchuán*
+
+网页  
+*wǎngyè*
+
+栏目  
+*lánmù*
+
+下载  
+*xiàzài*
+
+首页  
+*shǒuyè*
+
+论坛  
+*lùntán*
+
+留言  
+*liúyán*
+
+网速  
+*wǎngsù*
+
+版面  
+*bǎnmiàn*
+
+博客  
+*bókè*
+
+点击率  
+*diǎnjīlǜ*
+
+微博  
+*wēibó*
+
+---
+
+## 对话：电脑病毒问题
+
+**陈红：** 我家的电脑好像感染上病毒了，怎么办啊？  
+*Chén Hóng: Wǒ jiā de diànnǎo hǎoxiàng gǎnrǎn shàng bìngdú le, zěnme bàn a?*
+
+**郑义：** 现在是什么样的情况呢？  
+*Zhèng Yì: Xiànzài shì shénme yàng de qíngkuàng ne?*
+
+**陈红：** 鼠标有时候能动，有时候动不了，不太好使。  
+*Chén Hóng: Shǔbiāo yǒu shíhou néng dòng, yǒu shíhou dòng bu liǎo, bú tài hǎoshǐ.*
+
+好使 = 好用  
+*hǎoshǐ = hǎoyòng*
+
+**郑义：** 你用的是无线鼠标吗？  
+*Zhèng Yì: Nǐ yòng de shì wúxiàn shǔbiāo ma?*
+
+**陈红：** 无线的。  
+*Chén Hóng: Wúxiàn de.*
+
+**郑义：** 是不是电池没电了？  
+*Zhèng Yì: Shì bu shì diànchí méi diàn le?*
+
+**陈红：** 不是不是，我爸也那么说，他特意去买了新电池，结果换上了还那样。  
+*Chén Hóng: Bú shì bú shì, wǒ bà yě nàme shuō, tā tèyì qù mǎile xīn diànchí, jiéguǒ huàn shàng le hái nàyàng.*
+
+**郑义：** 怎么感染上的？你下载什么东西了吗？  
+*Zhèng Yì: Zěnme gǎnrǎn shàng de? Nǐ xiàzài shénme dōngxi le ma?*
+
+**陈红：** 下了个播放器，看电影用的。  
+*Chén Hóng: Xiàle ge bōfàngqì, kàn diànyǐng yòng de.*
+
+**郑义：** 有些网站挺危险的，不能随便下东西。  
+*Zhèng Yì: Yǒuxiē wǎngzhàn tǐng wēixiǎn de, bù néng suíbiàn xià dōngxi.*
+
+**陈红：** 那怎么办啊？  
+*Chén Hóng: Nà zěnme bàn a?*
+
+**郑义：** 赶紧卸载吧，然后杀杀毒，再不行就把系统还原一下。  
+*Zhèng Yì: Gǎnjǐn xièzài ba, ránhòu shāshā dú, zài bù xíng jiù bǎ xìtǒng huányuán yíxià.*
+
+还原 = 复原  
+*huányuán = fùyuán*
+
+APP软件  
+*APP ruǎnjiàn*
+
+消除 = 删除  
+*xiāochú = shānchú*
+
+**陈红：** 你说的我一句也听不懂，哪天你来我家帮我弄吧。  
+*Chén Hóng: Nǐ shuō de wǒ yí jù yě tīng bu dǒng, nǎ tiān nǐ lái wǒ jiā bāng wǒ nòng ba.*
