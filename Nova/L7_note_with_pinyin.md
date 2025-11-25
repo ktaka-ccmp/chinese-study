@@ -546,3 +546,57 @@ APP软件
 
 **陈红：** 你说的我一句也听不懂，哪天你来我家帮我弄吧。  
 *Chén Hóng: Nǐ shuō de wǒ yí jù yě tīng bu dǒng, nǎ tiān nǐ lái wǒ jiā bāng wǒ nòng ba.*
+
+
+# 20251125-02 家电・设备用语 / 中国四大美女 / 谚语
+
+---
+
+## 家电・设备用语
+
+电磁炉灶  
+*diàncí lúzào*
+
+水槽的水龙头嘀嗒水  
+*shuǐcáo de shuǐlóngtóu dīda shuǐ*
+
+拆  
+*chāi*
+
+翻盖  
+*fāngài*
+
+重建 / 重盖  
+*chóngjiàn / chónggài*
+
+---
+
+## 中国古代四大美女
+
+西施  
+*Xī Shī*
+
+王昭君  
+*Wáng Zhāojūn*
+
+貂蝉  
+*Diāo Chán*
+
+杨玉环 / 杨贵妃  
+*Yáng Yùhuán / Yáng Guìfēi*
+
+---
+
+## 谚语
+
+谚语  
+*yànyǔ*
+
+关系疏远  
+*guānxi shūyuǎn*
+
+"远亲不如近邻"这句话该怎么理解呢？这么说是想强调……  
+*"Yuǎnqīn bùrú jìnlín" zhè jù huà gāi zěnme lǐjiě ne? Zhème shuō shì xiǎng qiángdiào......*
+
+"情人眼里出西施"这句话是不是说在恋人的眼里，对方总是完美的？  
+*"Qíngrén yǎnlǐ chū Xī Shī" zhè jù huà shì bu shì shuō zài liànrén de yǎnlǐ, duìfāng zǒngshì wánměi de?*
