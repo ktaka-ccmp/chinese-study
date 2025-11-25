@@ -1,5 +1,7 @@
 # Zone E 笔记
 
+# 2025
+
 ---
 
 ## 广告文案
@@ -146,11 +148,307 @@
 
 ---
 
-## 语法例句
-*Yǔfǎ lìjù*
+# 20251031-01 中文课笔记
 
-### "会"的用法
-*"Huì" de yòngfǎ*
+---
+
+## 时事话题：政治领导人
+
+美国特朗普总统和日本高市首相一起去视察横须贺美国海军基地的时候，他们身体之间的距离很近，给人一种非常亲密的感觉。  
+*Měiguó Tèlǎngpǔ zǒngtǒng hé Rìběn Gāoshì shǒuxiàng yìqǐ qù shìchá Hénɡxūhè Měiguó hǎijūn jīdì de shíhou, tāmen shēntǐ zhījiān de jùlí hěn jìn, gěi rén yì zhǒng fēicháng qīnmì de gǎnjué.*
+
+作为一名日本的首相，这样的态度让人觉得尴尬，太轻浮了。  
+*Zuòwéi yì míng Rìběn de shǒuxiàng, zhèyàng de tàidù ràng rén juéde gāngà, tài qīngfú le.*
+
+作为一名首相应该有政治家的分量，国家的分量。  
+*Zuòwéi yì míng shǒuxiàng yīnggāi yǒu zhèngzhìjiā de fènliàng, guójiā de fènliàng.*
+
+我感觉高市政府的政策很受欢迎。  
+*Wǒ gǎnjué Gāoshì zhèngfǔ de zhèngcè hěn shòu huānyíng.*
+
+日本政府将降低汽油暂定税率，以此向日本人民表示：示意暗示新政府愿意减轻国民的负担。  
+*Rìběn zhèngfǔ jiāng jiàngdī qìyóu zàndìng shuìlǜ, yǐcǐ xiàng Rìběn rénmín biǎoshì: shìyì ànshì xīn zhèngfǔ yuànyì jiǎnqīng guómín de fùdān.*
+
+---
+
+## 词汇
+
+视察  
+*shìchá*
+
+横须贺  
+*Hénɡxūhè*
+
+分量  
+*fènliàng*
+
+政府  
+*zhèngfǔ*
+
+将  
+*jiāng*
+
+降低  
+*jiàngdī*
+
+汽油  
+*qìyóu*
+
+暂定  
+*zàndìng*
+
+税率  
+*shuìlǜ*
+
+以此  
+*yǐcǐ*
+
+示意  
+*shìyì*
+
+暗示  
+*ànshì*
+
+减轻  
+*jiǎnqīng*
+
+---
+
+## 对话：毕业后的选择
+
+**杨兰：** 陈宇，你说毕业以后是留在日本好，还是回去好？  
+*Yáng Lán: Chén Yǔ, nǐ shuō bìyè yǐhòu shì liú zài Rìběn hǎo, háishi huíqù hǎo?*
+
+**陈宇：** 让我选的话，我可能会选择留在日本。虽说现在经济不景气，工作不好找，但长远地看发展机会还是比国内多。  
+*Chén Yǔ: Ràng wǒ xuǎn dehuà, wǒ kěnéng huì xuǎnzé liú zài Rìběn. Suīshuō xiànzài jīngjì bù jǐngqì, gōngzuò bù hǎo zhǎo, dàn chángyuǎn de kàn fāzhǎn jīhuì háishi bǐ guónèi duō.*
+
+**杨兰：** 我也是这么想的，但是张维说想回去，他说国内朋友多，生活也习惯。  
+*Yáng Lán: Wǒ yě shì zhème xiǎng de, dànshì Zhāng Wéi shuō xiǎng huíqù, tā shuō guónèi péngyou duō, shēnghuó yě xíguàn.*
+
+**陈宇：** 嗯，也有一定的道理吧。你们打算回哪儿啊？  
+*Chén Yǔ: Ǹg, yě yǒu yídìng de dàolǐ ba. Nǐmen dǎsuàn huí nǎr a?*
+
+**杨兰：** 要回当然还是回老窝儿北京了。  
+*Yáng Lán: Yào huí dāngrán háishi huí lǎowōr Běijīng le.*
+
+**陈宇：** 我觉得如果可能，先留下来工作几年最理想。现在国内竞争也挺激烈的，除了看专业，还特别重视工作经验。  
+*Chén Yǔ: Wǒ juéde rúguǒ kěnéng, xiān liúxialai gōngzuò jǐ nián zuì lǐxiǎng. Xiànzài guónèi jìngzhēng yě tǐng jīliè de, chúle kàn zhuānyè, hái tèbié zhòngshì gōngzuò jīngyàn.*
+
+**杨兰：** 嗯，说的就是呢。  
+*Yáng Lán: Ǹg, shuō de jiùshì ne.*
+
+**陈宇：** 而且回去的话一般也是找日企，那有没有在日本工作过就很重要了。听说日本人比较喜欢用在日本工作过的人，因为他们比较了解日本人的想法，沟通起来容易。  
+*Chén Yǔ: Érqiě huíqù dehuà yībān yě shì zhǎo Rì qǐ, nà yǒu méiyǒu zài Rìběn gōngzuòguo jiù hěn zhòngyào le. Tīngshuō Rìběn rén bǐjiào xǐhuan yòng zài Rìběn gōngzuòguo de rén, yīnwèi tāmen bǐjiào liǎojiě Rìběn rén de xiǎngfǎ, gōutōng qǐlai róngyì.*
+
+
+# 20251111 中文课笔记
+
+---
+
+## 词汇
+
+具体说的话  
+*jùtǐ shuō dehuà*
+
+剪短  
+*jiǎnduǎn*
+
+植物  
+*zhíwù*
+
+花盆  
+*huāpén*
+
+山东省  
+*Shāndōng shěng*
+
+青岛  
+*Qīngdǎo*
+
+软件  
+*ruǎnjiàn*
+
+互相学习外语  
+*hùxiāng xuéxí wàiyǔ*
+
+把女儿的西服送到干洗店去洗  
+*bǎ nǚ'ér de xīfú sòng dào gānxǐdiàn qù xǐ*
+
+投币式洗衣房  
+*tóubì shì xǐyīfáng*
+
+自助式洗衣房  
+*zìzhù shì xǐyīfáng*
+
+节奏的原因  
+*jiézòu de yuányīn*
+
+两个音节  
+*liǎng ge yīnjié*
+
+日语课  
+*Rìyǔ kè*
+
+出差  
+*chūchāi*
+
+新找到的客户  
+*xīn zhǎodào de kèhù*
+
+拜访客户的客户  
+*bàifǎng kèhù de kèhù*
+
+---
+
+## 对话：买高铁票
+
+我要一张明天下午到北京的高铁票。  
+*Wǒ yào yì zhāng míngtiān xiàwǔ dào Běijīng de gāotiě piào.*
+
+您要几点的？  
+*Nín yào jǐ diǎn de?*
+
+都有什么时间的？  
+*Dōu yǒu shénme shíjiān de?*
+
+两点，3点半，4点，4点半，6点，6点20分。  
+*Liǎng diǎn, sān diǎn bàn, sì diǎn, sì diǎn bàn, liù diǎn, liù diǎn èrshí fēn.*
+
+我要3点半的，二等座。  
+*Wǒ yào sān diǎn bàn de, èrděng zuò.*
+
+好的。看一下您的证件。  
+*Hǎo de. Kàn yíxià nín de zhèngjiàn.*
+
+（噢，）好。好的。  
+*(Ò,) hǎo. Hǎo de.*
+
+---
+
+## 相关词汇：证件与座位
+
+身份证  
+*shēnfènzhèng*
+
+最新指纹  
+*zuìxīn zhǐwén*
+
+国籍  
+*guójí*
+
+可靠  
+*kěkào*
+
+制度  
+*zhìdù*
+
+实名制  
+*shímíngzhì*
+
+从来没有申请过护照  
+*cónglái méiyǒu shēnqǐngguo hùzhào*
+
+一等座  
+*yīděng zuò*
+
+二等座  
+*èrděng zuò*
+
+猜一下  
+*cāi yíxià*
+
+比较宽  
+*bǐjiào kuān*
+
+提供饮食  
+*tígōng yǐnshí*
+
+一节车厢  
+*yì jié chēxiāng*
+
+---
+
+## 购票方式
+
+新干线怎么买票？  
+*Xīngànxiàn zěnme mǎi piào?*
+
+在网上买  
+*zài wǎngshang mǎi*
+
+交通卡  
+*jiāotōngkǎ*
+
+软件+交通卡绑定在一起  
+*ruǎnjiàn + jiāotōngkǎ bǎngdìng zài yìqǐ*
+
+---
+
+## 对话：买普快火车票
+
+去北京的普快，路上得多长时间？  
+*Qù Běijīng de pǔkuài, lùshang děi duō cháng shíjiān?*
+
+5个半小时。  
+*Wǔ ge bàn xiǎoshí.*
+
+多少钱一张票？  
+*Duōshao qián yì zhāng piào?*
+
+硬座100，软座130。  
+*Yìngzuò yībǎi, ruǎnzuò yībǎi sānshí.*
+
+下午3点多4点的有吗？  
+*Xiàwǔ sān diǎn duō sì diǎn de yǒu ma?*
+
+3点半有一趟。  
+*Sān diǎn bàn yǒu yí tàng.*
+
+我要一张软座，3点半的。  
+*Wǒ yào yì zhāng ruǎnzuò, sān diǎn bàn de.*
+
+---
+
+## 数量表达
+
+30多40个人  
+*sānshí duō sìshí ge rén*
+
+300多400块钱  
+*sānbǎi duō sìbǎi kuài qián*
+
+# 20251118-02 中文课笔记
+
+---
+
+## 对话：移民话题
+
+我高中时候的同学，差不多有一半移民去了国外。  
+*Wǒ gāozhōng shíhou de tóngxué, chàbuduō yǒu yībàn yímín qùle guówài.*
+
+去哪里的最多呢？  
+*Qù nǎlǐ de zuì duō ne?*
+
+去美国的最多，其次是澳大利亚。也有去欧洲的。  
+*Qù Měiguó de zuì duō, qícì shì Àodàlìyà. Yě yǒu qù Ōuzhōu de.*
+
+我的高中同学，移民到国外的挺少的，加起来可能只有五六个。  
+*Wǒ de gāozhōng tóngxué, yímín dào guówài de tǐng shǎo de, jiā qǐlai kěnéng zhǐyǒu wǔ liù ge.*
+
+---
+
+如果有很多钱的话，你会到国外定居吗？  
+*Rúguǒ yǒu hěn duō qián dehuà, nǐ huì dào guówài dìngjū ma?*
+
+我想不会吧？到了国外，人生地不熟（的），语言上又有障碍，可能会过得不开心。  
+*Wǒ xiǎng bú huì ba? Dàole guówài, rénshēng-dì-bùshú (de), yǔyán shang yòu yǒu zhàng'ài, kěnéng huì guò de bù kāixīn.*
+
+我也觉得是，还是在自己国家最好。不过，我可能会去世界各地旅游，看看别的国家的人是怎么生活的。  
+*Wǒ yě juéde shì, háishi zài zìjǐ guójiā zuì hǎo. Bùguò, wǒ kěnéng huì qù shìjiè gèdì lǚyóu, kànkan bié de guójiā de rén shì zěnme shēnghuó de.*
+
+---
+
+## 语法："会"的用法
 
 1. 我觉得明天的比赛日本队会赢。  
    *Wǒ juéde míngtiān de bǐsài Rìběn duì huì yíng.*
@@ -161,35 +459,236 @@
 3. 你们公司上班迟到了会怎么样？  
    *Nǐmen gōngsī shàngbān chídào le huì zěnmeyàng?*
 
-### 兴趣表达
-*Xìngqù biǎodá*
+---
 
-- 我对明星没有兴趣。  
-  *Wǒ duì míngxīng méiyǒu xìngqù.*
+## 对话：思念家乡美食
 
-- 我对明星没有什么兴趣。  
-  *Wǒ duì míngxīng méiyǒu shénme xìngqù.*
+真的去国外定居的话，我会想念西安的，那么多好吃的东西，全都吃不着了。  
+*Zhēn de qù guówài dìngjū dehuà, wǒ huì xiǎngniàn Xī'ān de, nàme duō hǎochī de dōngxi, quán dōu chī bu zháo le.*
 
-- 我对明星不感兴趣。  
-  *Wǒ duì míngxīng bù gǎn xìngqù.*
+你可以学着自己做呀。  
+*Nǐ kěyǐ xuézhe zìjǐ zuò ya.*
 
-- 我对明星不太感兴趣。  
-  *Wǒ duì míngxīng bú tài gǎn xìngqù.*
+怎么可能呢？就算能买到材料，也做不出来那个味道。  
+*Zěnme kěnéng ne? Jiùsuàn néng mǎidào cáiliào, yě zuò bu chūlai nàge wèidao.*
 
-### "连着"
-*"Liánzhe"*
+---
 
-- 连着休息三四天  
-  *Liánzhe xiūxi sān sì tiān*
+## 表达兴趣
 
-- 连着下了三天（的）雨  
-  *Liánzhe xiàle sān tiān (de) yǔ*
+我对明星没有兴趣。  
+*Wǒ duì míngxīng méiyǒu xìngqù.*
 
-- 连着抽了三根烟  
-  *Liánzhe chōule sān gēn yān*
+我对明星没有什么兴趣。  
+*Wǒ duì míngxīng méiyǒu shénme xìngqù.*
 
-- 连着洗了十多件衣服  
-  *Liánzhe xǐle shí duō jiàn yīfu*
+我对明星不感兴趣。  
+*Wǒ duì míngxīng bù gǎn xìngqù.*
+
+我对明星不太感兴趣。  
+*Wǒ duì míngxīng bú tài gǎn xìngqù.*
+
+---
+
+## "连着"的用法
+
+连着休息三四天  
+*Liánzhe xiūxi sān sì tiān*
+
+连着下了三天（的）雨  
+*Liánzhe xiàle sān tiān (de) yǔ*
+
+连着抽了三根烟  
+*Liánzhe chōule sān gēn yān*
+
+连着洗了十多件衣服  
+*Liánzhe xǐle shí duō jiàn yīfu*
+
+---
+
+## 其他词汇
+
+公众号  
+*gōngzhònghào*
+
+收入  
+*shōurù*
+
+
+# 20251119 中文课笔记
+
+---
+
+## 语法点
+
+不用和不要的区别
+
+要不和不如的区别
+
+---
+
+## 交通用语
+
+有没有座位？  
+*Yǒu méiyǒu zuòwèi?*
+
+终点站  
+*zhōngdiǎnzhàn*
+
+起点站  
+*qǐdiǎnzhàn*
+
+上下班高峰时间  
+*shàngxiàbān gāofēng shíjiān*
+
+---
+
+## 其他用语
+
+处理  
+*chǔlǐ*
+
+不如起来处理一下  
+*Bùrú qǐlai chǔlǐ yíxià*
+
+要不……，怎么样？  
+*Yàobù......, zěnmeyàng?*
+
+消磨时间  
+*xiāomó shíjiān*
+
+打发时间  
+*dǎfa shíjiān*
+
+赌钱  
+*dǔ qián*
+
+赌博  
+*dǔbó*
+
+在中国的女演员里边，她不算漂亮。  
+*Zài Zhōngguó de nǚ yǎnyuán lǐbian, tā bú suàn piàoliang.*
+
+---
+
+## 对话：打麻将
+
+周末做什么了？  
+*Zhōumò zuò shénme le?*
+
+约了几个朋友，在家打麻将。  
+*Yuēle jǐ ge péngyou, zài jiā dǎ májiàng.*
+
+没想到你还有这个爱好。  
+*Méi xiǎngdào nǐ hái yǒu zhège àihào.*
+
+算不上是爱好，只是没事做，消磨时间而已。  
+*Suàn bu shàng shì àihào, zhǐshì méi shì zuò, xiāomó shíjiān éryǐ.*
+
+你们赌钱吗？  
+*Nǐmen dǔ qián ma?*
+
+赌一点儿，不赌的话没意思。  
+*Dǔ yìdiǎnr, bù dǔ dehuà méi yìsi.*
+
+---
+
+## 语法："过"的用法
+
+我（有）30年没打（过）麻将了。  
+*Wǒ (yǒu) sānshí nián méi dǎ (guo) májiàng le.*
+
+我（有）五六年没去国外旅行（过）了。  
+*Wǒ (yǒu) wǔ liù nián méi qù guówài lǚxíng (guo) le.*
+
+我去美国留过学。  
+*Wǒ qù Měiguó liúguo xué.*
+
+学过汉语  
+*Xuéguo Hànyǔ*
+
+结过婚  
+*Jiéguo hūn*
+
+游过泳  
+*Yóuguo yǒng*
+
+滑过雪  
+*Huáguo xuě*
+
+洗过澡  
+*Xǐguo zǎo*
+
+离合词
+
+旅行  
+*lǚxíng*
+
+工作过  
+*gōngzuòguo*
+
+---
+
+## 对话：看画展
+
+星期天我跟几个朋友去看了个画展。  
+*Xīngqītiān wǒ gēn jǐ ge péngyou qù kànle ge huàzhǎn.*
+
+什么画展？  
+*Shénme huàzhǎn?*
+
+美院几个没什么名气的画家的。  
+*Měiyuàn jǐ ge méi shénme míngqi de huàjiā de.*
+
+怎么样？  
+*Zěnmeyàng?*
+
+挺好的，有个叫周伟的年轻画家，他的作品我特别喜欢。  
+*Tǐng hǎo de, yǒu ge jiào Zhōu Wěi de niánqīng huàjiā, tā de zuòpǐn wǒ tèbié xǐhuan.*
+
+他都画什么样的画儿呢？  
+*Tā dōu huà shénme yàng de huàr ne?*
+
+他喜欢画太阳，五颜六色的房子，还有被风吹着的树木。  
+*Tā xǐhuan huà tàiyáng, wǔyán-liùsè de fángzi, háiyǒu bèi fēng chuīzhe de shùmù.*
+
+---
+
+## 对话：晚饭
+
+晚饭吃什么了？  
+*Wǎnfàn chī shénme le?*
+
+吃了个三明治。  
+*Chīle ge sānmíngzhì.*
+
+自己做的吗？  
+*Zìjǐ zuò de ma?*
+
+不是，在超市买的。  
+*Bú shì, zài chāoshì mǎi de.*
+
+好吃吗？  
+*Hǎochī ma?*
+
+还行，西红柿馅儿的。  
+*Hái xíng, xīhóngshì xiànr de.*
+
+就吃一个三明治啊？吃得饱吗？  
+*Jiù chī yí ge sānmíngzhì a? Chī de bǎo ma?*
+
+吃得饱，这么大一个。  
+*Chī de bǎo, zhème dà yí ge.*
+
+---
+
+## 疑问句
+
+1. 你星期几去啊？  
+   *Nǐ xīngqī jǐ qù a?*
+
+2. 你星期三去啊？  
+   *Nǐ xīngqīsān qù a?*
 
 ### 时间表达
 *Shíjiān biǎodá*
@@ -221,6 +720,7 @@
 2. 你星期三去啊？  
    *Nǐ xīngqīsān qù a?*
 
+# 20251121
 ---
 
 我觉得要提高GDP国内总生产值，应该增加出口量。  
