@@ -1,10 +1,67 @@
 # Nova汉语Work E（拼音版）
 
+## 目次
+
+- [E01](#e01)
+- [E02](#e02)
+- [E03](#e03)
+- [E04](#e04)
+- [E05](#e05)
+- [E06](#e06)
+- [E07](#e07)
+- [E08](#e08)
+- [E09](#e09)
+- [E10](#e10)
+- [E11](#e11)
+- [E12](#e12)
+- [E13](#e13)
+- [E14](#e14)
+- [E15](#e15)
+- [E16](#e16)
+- [E17](#e17)
+- [E18](#e18)
+- [E19](#e19)
+- [E20](#e20)
+- [E21](#e21)
+- [E22](#e22)
+- [E23](#e23)
+- [E24](#e24)
+- [E25](#e25)
+- [E26](#e26)
+- [E27](#e27)
+- [E28](#e28)
+- [E29](#e29)
+- [E30](#e30)
+- [E31](#e31)
+- [E32](#e32)
+- [E33](#e33)
+- [E34](#e34)
+- [E35](#e35)
+- [E36](#e36)
+- [E37](#e37)
+- [E38](#e38)
+- [E39](#e39)
+- [E40](#e40)
+- [E41](#e41)
+- [E42](#e42)
+- [E43](#e43)
+- [E44](#e44)
+- [E45](#e45)
+- [E46](#e46)
+- [E47](#e47)
+- [E48](#e48)
+- [E49](#e49)
+- [E50](#e50)
+
+---
+
+
+
 **Nova汉语Work E**
 <br>**Nova hàn yǔ Work E**  
 
 
-## E-01
+## E01
 
 你好！小颖经常提起你，今天终于见到你了。
 <br>nǐ hǎo ！ xiǎo yǐng jīng cháng tí qǐ nǐ ， jīn tiān zhōng yú jiàn dào nǐ le 。  
@@ -88,7 +145,7 @@
 <br>hǎo a ， dào shí hòu hái qǐng nǐ duō zhǐ jiào 。  
 
 
-## E-02
+## E02
 
 我们先去坐过山车，好不好？
 <br>wǒ men xiān qù zuò guò shān chē ， hǎo bù hǎo ？  
@@ -128,7 +185,7 @@
 <br>yào shì xiān wán ér de huà ， jiù méi yǒu shí jiān kàn dòng wù biǎo yǎn le 。  
 
 
-## E-03
+## E03
 
 我不敢站在高处往下看，因为我有恐高症。
 <br>wǒ bù gǎn zhàn zài gāo chù wǎng xià kàn ， yīn wèi wǒ yǒu kǒng gāo zhèng 。  
@@ -210,7 +267,7 @@
 <br>yī bǎ bǎ tā lāo zhù 。ぐいっと bǐ を bǔ まえた  
 
 
-## E-04
+## E04
 
 听陈平说老张心脏病发作，昨天住院了。
 <br>tīng chén píng shuō lǎo zhāng xīn zàng bìng fā zuò ， zuó tiān zhù yuàn le 。  
@@ -291,7 +348,7 @@
 <br>shì a 。 dàn tā nán péng yǒu xiàng tā qiú hūn le 。  
 
 
-## E-05
+## E05
 
 张强来信了，他说打算明年去美国留学。
 <br>zhāng qiáng lái xìn le ， tā shuō dǎ suàn míng nián qù měi guó liú xué 。  
@@ -369,7 +426,7 @@
 <br>wǒ yě shì 。 tā hái shuō gāng dào xī zàng de shí hòu ， gāo yuán fǎn yìng hěn lì hài ， xiàn zài yǐ jīng shì yìng le 。  
 
 
-## E-06
+## E06
 
 我觉得保持好的生活习惯挺重要的。
 <br>wǒ jué de bǎo chí hǎo de shēng huó xí guàn tǐng zhòng yào de 。  
@@ -413,7 +470,7 @@ xù jiǔ  xùjiǔ
 酗酒 xùjiǔ
 
 
-## E-07
+## E07
 
 快到母亲节了，我送什么给我妈妈呢？
 <br>kuài dào mǔ qīn jié le ， wǒ sòng shén me gěi wǒ mā mā ne ？  
@@ -494,7 +551,7 @@ xù jiǔ  xùjiǔ
 <br>ń ， xíng 。  
 
 
-## E-08
+## E08
 
 我不敢玩儿蹦极，因为我总担心绳子会断。
 <br>wǒ bù gǎn wán ér bèng jí ， yīn wèi wǒ zǒng dān xīn shéng zi huì duàn 。  
@@ -592,7 +649,7 @@ bèi shuǐ qiāng zhe  bèi shuǐ qiāngzhe
 被水呛着 bèi shuǐ qiāngzhe
 
 
-## E-09
+## E09
 
 不好意思。能不能借您的打火机用一下？
 <br>bù hǎo yì sī 。 néng bù néng jiè nín de dǎ huǒ jī yòng yī xià ？  
@@ -683,7 +740,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>xiè xiè ！  
 
 
-## E-10
+## E10
 
 小林下班的时候好像不太高兴。是不是今天挨老板说了？
 <br>xiǎo lín xià bān de shí hòu hǎo xiàng bù tài gāo xìng 。 shì bú shì jīn tiān āi lǎo bǎn shuō le ？  
@@ -761,7 +818,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>zhè nán shuō ， wǒ jué de xiǎo zhào yào shì zhēn ài shàng shuí le ， tā huì shén me yě bù guǎn de 。  
 
 
-## E-11
+## E11
 
 这次比赛最后白云队赢了。
 <br>zhè cì bǐ sài zuì hòu bái yún duì yíng le 。  
@@ -845,7 +902,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>shì ma ， nà zhè cì lán fēng duì bèi táo tài ， méi fǎ jìn rù jué sài le 。 zhēn yí hàn ！  
 
 
-## E-12
+## E12
 
 听说你以前在一家公司里从事推销工作。
 <br>tīng shuō nǐ yǐ qián zài yī jiā gōng sī lǐ cóng shì tuī xiāo gōng zuò 。  
@@ -929,7 +986,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>zhè ge wèn tí wǒ bù xiǎng zài zhè lǐ zuò chū huí dá 。  
 
 
-## E-13
+## E13
 
 可能是因为司机喝酒了吧。
 <br>kě néng shì yīn wèi sī jī hē jiǔ le ba 。  
@@ -1010,7 +1067,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>shì a 。 sī jī shā chē de shēng yīn kě dà le ， mǎn jiē de rén dōu wǎng wǒ men zhè biān kàn 。 nà ge sī jī yě xià huài le ， tā tiào xià chē lái wèn wǒ yǒu méi yǒu shì de shí hòu ， shēng yīn dōu fā dǒu le 。  
 
 
-## E-14
+## E14
 
 招日语翻译的公司真多啊，要是会说日语就好了。
 <br>zhāo rì yǔ fān yì de gōng sī zhēn duō a ， yào shì huì shuō rì yǔ jiù hǎo le 。  
@@ -1091,7 +1148,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>ń ， tā shuō tā mā mā tè bié huì zuò cài ， tā shì gēn tā mā mā xué de 。  
 
 
-## E-15
+## E15
 
 有件事儿想请你帮个忙，不知道行不行？
 <br>yǒu jiàn shì ér xiǎng qǐng nǐ bāng gè máng ， bù zhī dào xíng bù xíng ？  
@@ -1125,7 +1182,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>nǐ shàng wǎng bāng wǒ chá yī xià zī liào ， xíng ma ？  
 
 
-## E-16
+## E16
 
 不知道为什么，我刚买的电脑总是死机。
 <br>bù zhī dào wèi shén me ， wǒ gāng mǎi de diàn nǎo zǒng shì sǐ jī 。  
@@ -1206,7 +1263,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>nà ， wǒ men jǐn liàng gǎn zài zhōu èr guò qù ， nín kàn kě yǐ ma ？  
 
 
-## E-17
+## E17
 
 我的电子字典不小心摔坏了，想借你的用一下。
 <br>wǒ de diàn zi zì diǎn bù xiǎo xīn shuāi huài le ， xiǎng jiè nǐ de yòng yī xià 。  
@@ -1284,7 +1341,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>zěn me yòu jiè a ？ shàng cì nǐ qù hē xǐ jiǔ shí ， wǒ jiè gěi nǐ de nà tiáo qún zi ， bèi nǐ nòng shàng le yí gè yóu yìn zi ， hài wǒ xǐ dōu xǐ bù diào 。  
 
 
-## E-18
+## E18
 
 能再给我来杯咖啡吗？
 <br>néng zài gěi wǒ lái bēi kā fēi ma ？  
@@ -1324,7 +1381,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>zhè ér tài rè le ， bǎ kōng tiáo dà diǎn ér kāi ， xíng ma ？  
 
 
-## E-19
+## E19
 
 中国人在大年夜喜欢全家人聚在一起吃团圆饭。
 <br>zhōng guó rén zài dà nián yè xǐ huān quán jiā rén jù zài yì qǐ chī tuán yuán fàn 。  
@@ -1402,7 +1459,7 @@ Duìbùqǐ, nín néng bùnéng bāng wǒ bǎ zhè yībǎi kuài qián pò kāi?
 <br>duì ， zhǔ yào shì zài nián qīng rén dāng zhōng hěn liú xíng ， tā men xǐ huān yì qǐ qù jiǔ bā qìng zhù 。  
 
 
-## E-20
+## E20
 
 我家隔壁的人经常在家里大声放音乐。
 <br>wǒ jiā gé bì de rén jīng cháng zài jiā lǐ dà shēng fàng yīn yuè 。  
@@ -1488,7 +1545,7 @@ Tāmen zǒng shì bǎ shī tuōbù liàng dào yángtái shàng.
 <br>hǎo ba ， nà wǒ qù zhǎo tā men shuō shuō 。  
 
 
-## E-21
+## E21
 
 一千年以后人类可能已经不存在了。
 <br>yī qiān nián yǐ hòu rén lèi kě néng yǐ jīng bù cún zài le 。  
@@ -1575,7 +1632,7 @@ sì zhī  sìzhī
 四肢 sìzhī
 
 
-## E-22
+## E22
 
 你喜欢看哪方面的书？
 <br>nǐ xǐ huān kàn nǎ fāng miàn de shū ？  
@@ -1650,7 +1707,7 @@ sì zhī  sìzhī
 <br>wǒ méi shì ér de huà xīng qī liù ， xīng qī tiān kàn yì diǎn ér 。 píng shí xià bān tǐng wǎn de ， huí dào jiā dōu jiǔ diǎn duō le ， xǐ gè zǎo ， kàn yī huì er diàn shì ， jiù chà bu duō yào shuì jiào le ， méi yǒu shí jiān 。  
 
 
-## E-23
+## E23
 
 我有点儿咳嗽，嗓子里好像有痰。
 <br>wǒ yǒu diǎn ér ké sòu ， sǎng zi lǐ hǎo xiàng yǒu tán 。  
@@ -1737,7 +1794,7 @@ sì zhī  sìzhī
 <br>yào duō chī shū cài ， shǎo chī cì jī xìng de shí pǐn ， là jiāo a ， dà suàn a shén me de dōu shǎo chī diǎn ér 。 lìng wài bù néng hē jiǔ 。  
 
 
-## E-24
+## E24
 
 我怕自己经验不够。
 <br>wǒ pà zì jǐ jīng yàn bù gòu 。  
@@ -1795,7 +1852,7 @@ sì zhī  sìzhī
 事情挺复杂的，我怕自己处理不好。/ 没事儿，你肯定能处理好。
 <br>shì qíng tǐng fù zá de ， wǒ pà zì jǐ chǔ lǐ bù hǎo 。/  méi shì ér ， nǐ kěn dìng néng chǔ lǐ hǎo 。  
 
-## E-25
+## E25
 
 我家周围环境很好，但离车站比较远。
 <br>wǒ jiā zhōu wéi huán jìng hěn hǎo ， dàn lí chē zhàn bǐ jiào yuǎn 。  
@@ -1880,7 +1937,7 @@ sì zhī  sìzhī
 <br>あんなに ān く mài ってるのも wú lǐ はない。  
 
 
-## E-26
+## E26
 
 我该走了。
 <br>wǒ gāi zǒu le 。  
@@ -1982,7 +2039,7 @@ sì zhī  sìzhī
 <br>huí tóu jiàn ！  
 
 
-## E-27
+## E27
 
 我以前有个同事特别会做菜。
 <br>wǒ yǐ qián yǒu gè tóng shì tè bié huì zuò cài 。  
@@ -2054,7 +2111,7 @@ sì zhī  sìzhī
 <br>shì ma ？ wǒ zài yǐ qián de gōng sī zuò de shí hòu ， yě yǒu gè fǎ guó tóng shì hàn yǔ fā yīn tè bié dì dào ， bù zǐ xì tīng tīng bù chū lái shì wài guó rén 。 tā nà shí hòu zǒng shuō yào bǎ gōng zuò cí le ， zhuān mén qù xué jǐ nián hàn yǔ ， yě bù zhī dào jié guǒ qù méi qù 。  
 
 
-## E-28
+## E28
 
 今天白天晴转多云，最高气温30度。
 <br>jīn tiān bái tiān qíng zhuǎn duō yún ， zuì gāo qì wēn 30 dù 。  
@@ -2132,7 +2189,7 @@ sì zhī  sìzhī
 <br>kě yǐ xīng qī tiān qù a ， xīng qī tiān tiān qíng 。  
 
 
-## E-29
+## E29
 
 本台消息，今晨警方在中央车站逮捕了一名男子。
 <br>běn tái xiāo xī ， jīn chén jǐng fāng zài zhōng yāng chē zhàn dài bǔ le yī míng nán zi 。  
@@ -2238,7 +2295,7 @@ zhuā jǐn  zhuājǐn  jí いでやる
 抓紧 zhuājǐn 急いでやる
 
 
-## E-30
+## E30
 
 你怎样看待管理工作？
 <br>nǐ zěn yàng kàn dài guǎn lǐ gōng zuò ？  
@@ -2316,7 +2373,7 @@ zhuā jǐn  zhuājǐn  jí いでやる
 <br>wǒ méi yǒu cān jiā guò zhuān yè jì suàn jī kǎo shì ， dàn wǒ dà xué qī jiān zài yī jiā IT gōng sī shí xí guò bàn nián ， suǒ yǐ shǐ yòng gè zhǒng bàn gōng ruǎn jiàn dōu méi yǒu shén me wèn tí 。  
 
 
-## E-31
+## E31
 
 到了那天会有大型的游行表演。
 <br>dào le nà tiān huì yǒu dà xíng de yóu xíng biǎo yǎn 。  
@@ -2397,7 +2454,7 @@ zhuā jǐn  zhuājǐn  jí いでやる
 <br>hǎo xiàng shì zài bā yuè ba ， jì bù qīng le 。  
 
 
-## E-32
+## E32
 
 很多中国人都不喜欢乌鸦，认为看到它不吉利。
 <br>hěn duō zhōng guó rén dōu bù xǐ huān wū yā ， rèn wéi kàn dào tā bù jí lì 。  
@@ -2495,7 +2552,7 @@ zhuā jǐn  zhuājǐn  jí いでやる
 <br>shì ya ， wǒ de chē hào yǒu liǎng gè “8” ne ， yě méi yǒu fā cái ya 。  
 
 
-## E-33
+## E33
 
 今天切菜的时候不小心，把手切破了。
 <br>jīn tiān qiè cài de shí hòu bù xiǎo xīn ， bǎ shǒu qiè pò le 。  
@@ -2580,7 +2637,7 @@ yòng chuí zi chuízi dīng  dìng  dīng  dīng  zi 。
 用锤子chuízi钉 dìng 钉 dīng 子。
 
 
-## E-34
+## E34
 
 我是邓丽君的歌迷，我觉得她很会唱歌。
 <br>wǒ shì dèng lì jūn de gē mí ， wǒ jué de tā hěn huì chàng gē 。  
@@ -2667,7 +2724,7 @@ yòng chuí zi chuízi dīng  dìng  dīng  dīng  zi 。
 <br>nà duō kě xī a ！  
 
 
-## E-35
+## E35
 
 你知道今年流行什么样的衣服吗？
 <br>nǐ zhī dào jīn nián liú xíng shén me yàng de yī fú ma ？  
@@ -2751,7 +2808,7 @@ yòng chuí zi chuízi dīng  dìng  dīng  dīng  zi 。
 <br>shì a ， jiù shì tài guì le 。  
 
 
-## E-36
+## E36
 
 这部电影无聊透了，看到一半就不想看了。
 <br>zhè bù diàn yǐng wú liáo tòu le ， kàn dào yí bàn jiù bù xiǎng kàn le 。  
@@ -2850,7 +2907,7 @@ shuì jiào  shuìjiào
 <br>shì a 。  
 
 
-## E-37
+## E37
 
 她给人感觉挺内向的，很少主动跟别人说话。
 <br>tā gěi rén gǎn jué tǐng nèi xiàng de ， hěn shǎo zhǔ dòng gēn bié rén shuō huà 。  
@@ -2928,7 +2985,7 @@ shuì jiào  shuìjiào
 <br>zhēn de ？ yì diǎn ér dōu kàn bù chū lái 。  
 
 
-## E-38
+## E38
 
 我想问问有没有去城东的车。
 <br>wǒ xiǎng wèn wèn yǒu méi yǒu qù chéng dōng de chē 。  
@@ -3024,7 +3081,7 @@ shuì jiào  shuìjiào
 <br>hǎo de ， xiè xiè ！  
 
 
-## E-39
+## E39
 
 对不起，上次你借给我的CD让我弄丢了。
 <br>duì bù qǐ ， shàng cì nǐ jiè gěi wǒ de CD ràng wǒ nòng diū le 。  
@@ -3132,7 +3189,7 @@ shuì jiào  shuìjiào
 <br>gān xǐ  ドライクリーニング  
 
 
-## E-40
+## E40
 
 像个微型的金字塔。
 <br>xiàng gè wēi xíng de jīn zì tǎ 。  
@@ -3238,7 +3295,7 @@ shuì jiào  shuìjiào
 <br>kē dǒu  おたまじゃくし  
 
 
-## E-41
+## E41
 
 在中国，在街上吃东西是很平常的事儿。
 <br>zài zhōng guó ， zài jiē shàng chī dōng xī shì hěn píng cháng de shì ér 。  
@@ -3303,7 +3360,7 @@ shuì jiào  shuìjiào
 <br>wǒ jué de shì xí guàn de wèn tí ba 。 jiǎo zi xiàn ér bú shì ròu zuò de ma ？ nà nǐ bù bǎ tā dāng zhǔ shí kàn ， ér shì kàn chéng yī dào cài ， hǎo xiàng yě kě yǐ 。  
 
 
-## E-42
+## E42
 
 我今天出门没带雨伞，结果全身都被淋湿了。
 <br>wǒ jīn tiān chū mén méi dài yǔ sǎn ， jié guǒ quán shēn dōu bèi lín shī le 。  
@@ -3407,7 +3464,7 @@ shuì jiào  shuìjiào
 <br>yǐ hòu yǒu shén me shì ér bié gēn tā shuō le 。  
 
 
-## E-43
+## E43
 
 我想离婚怎么说都不是什么好是儿吧？
 <br>wǒ xiǎng lí hūn zěn me shuō dōu bú shì shén me hǎo shì ér ba ？  
@@ -3501,7 +3558,7 @@ shuì jiào  shuìjiào
 <br>shì a ， duì hái zi shì bù hǎo 。 suǒ yǐ nà xiē yǐ jīng yǒu le hái zi de ， néng bù lí de huà hái shì jǐn liàng bù lí bǐ jiào hǎo ba 。  
 
 
-## E-44
+## E44
 
 有了因特网，查资料比以前方便多了。
 <br>yǒu le yīn tè wǎng ， chá zī liào bǐ yǐ qián fāng biàn duō le 。  
@@ -3573,7 +3630,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>ń ， suǒ yǐ wǒ zài jiā yào shì kāi kōng tiáo de huà ， xǐ huān bǎ xǐ hǎo de yī fú liàng zài fáng jiān lǐ miàn ， nà yàng huì hǎo diǎn ér 。  
 
 
-## E-45
+## E45
 
 我觉得名誉比地位更重要。
 <br>wǒ jué de míng yù bǐ dì wèi gèng zhòng yào 。  
@@ -3674,7 +3731,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>dàn rú guǒ nǐ néng yǒu yí gè zhī xīn de hǎo péng yǒu ， nà jiāng shì nǐ yī shēng de cái fù 。  
 
 
-## E-46
+## E46
 
 我回到家想打开行李，才发现行李不是我的。
 <br>wǒ huí dào jiā xiǎng dǎ kāi xíng lǐ ， cái fā xiàn xíng lǐ bú shì wǒ de 。  
@@ -3759,7 +3816,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>yǔ shì ，そして、そこで  
 
 
-## E-47
+## E47
 
 最近，国内的电话诈骗案件越来越多。
 <br>zuì jìn ， guó nèi de diàn huà zhà piàn àn jiàn yuè lái yuè duō 。  
@@ -3861,7 +3918,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>duì ， duì zhè xiē tān wū shòu huì de rén jiù shì yīng gāi pàn zhòng diǎn ér 。  
 
 
-## E-48
+## E48
 
 古老肉是用猪肉，青椒和洋葱做的。
 <br>gǔ lǎo ròu shì yòng zhū ròu ， qīng jiāo hé yáng cōng zuò de 。  
@@ -3971,7 +4028,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>dāng rán hǎo chī la ， zuò fǎ yě bǐ jiào jiǎn dān ， nǐ duō zuò jǐ cì jiù huì le 。  
 
 
-## E-49
+## E49
 
 乌元河的水位还在持续上涨。
 <br>wū yuán hé de shuǐ wèi hái zài chí xù shàng zhǎng 。  
@@ -4065,7 +4122,7 @@ CD比磁带好多了，过多久音质都不会变。
 <br>xí zi 　ござ  
 
 
-## E-50
+## E50
 
 建化工厂肯定会造成污染。
 <br>jiàn huà gōng chǎng kěn dìng huì zào chéng wū rǎn 。  
