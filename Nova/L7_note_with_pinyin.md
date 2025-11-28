@@ -157,8 +157,74 @@
 **部下：** 是啊，时间确实太紧了！我昨天琢磨了一下，觉得或许可以把任务分几次分配下去，那样大家就不会望而却步了。  
 *Bùxià: Shì a, shíjiān quèshí tài jǐn le! Wǒ zuótiān zhuómole yíxià, juéde huòxǔ kěyǐ bǎ rènwu fēn jǐ cì fēnpèi xiàqu, nàyàng dàjiā jiù bú huì wàng'érquèbù le.*
 
-**上司：** 谢谢你的提醒，我会重新安排工作。你让几个班长马上来开个会。  
+**上司：** 谢谢你的提醒，我会重新安排工作。你让几个班长马上来开个会。
 *Shàngsī: Xièxie nǐ de tíxǐng, wǒ huì chóngxīn ānpái gōngzuò. Nǐ ràng jǐ ge bānzhǎng mǎshàng lái kāi ge huì.*
+
+---
+
+## 对话：餐厅预约失误
+*Duìhuà: Cāntīng yùyuē shīwù*
+
+**经理：** 你是怎么搞的嘛！
+*Jīnglǐ: Nǐ shì zěnme gǎo de ma!*
+
+**职员：** 这事儿真不怪我，是南山酒家那边的人不负责任，当时接电话那小姐说得特别肯定，说绝对没问题。
+*Zhíyuán: Zhè shìr zhēn bú guài wǒ, shì Nánshān jiǔjiā nàbiān de rén bù fù zérèn, dāngshí jiē diànhuà nà xiǎojiě shuō de tèbié kěndìng, shuō juéduì méi wèntí.*
+
+**经理：** 那你也该再确认一下啊。
+*Jīnglǐ: Nà nǐ yě gāi zài quèrèn yíxià a.*
+
+**职员：** 嗯，昨天是想打电话来着，可是正赶着处理季度报告，等想起来的时候已经是晚上11点了，我想都这个时间了，就是打电话那边可能也没人了。
+*Zhíyuán: Ǹg, zuótiān shì xiǎng dǎ diànhuà láizhe, kěshì zhèng gǎnzhe chǔlǐ jìdù bàogào, děng xiǎng qǐlai de shíhou yǐjīng shì wǎnshang shíyī diǎn le, wǒ xiǎng dōu zhège shíjiān le, jiùshì dǎ diànhuà nàbiān kěnéng yě méi rén le.*
+
+**经理：** 本来上哪儿吃都一样，不是非去南山不可，可是把人带去了，又说没位子，这不是给咱公司丢脸吗？
+*Jīnglǐ: Běnlái shàng nǎr chī dōu yíyàng, bú shì fēi qù Nánshān bù kě, kěshì bǎ rén dài qù le, yòu shuō méi wèizi, zhè bú shì gěi zán gōngsī diūliǎn ma?*
+
+---
+
+## 对话：网络新闻真假
+*Duìhuà: Wǎngluò xīnwén zhēnjiǎ*
+
+**男：** 前两天我在网上看到条新闻，说伊朗有个男的，靠吃泥巴生活，从来不吃饭。
+*Nán: Qián liǎng tiān wǒ zài wǎngshang kàndào tiáo xīnwén, shuō Yīlǎng yǒu ge nán de, kào chī níbā shēnghuó, cónglái bù chīfàn.*
+
+**女：** 你别逗我了，哪有这种事？
+*Nǚ: Nǐ bié dòu wǒ le, nǎ yǒu zhè zhǒng shì?*
+
+**男：** 真的，还有他正在吃泥巴的视频呢，吃得津津有味儿的。
+*Nán: Zhēn de, hái yǒu tā zhèngzài chī níbā de shìpín ne, chī de jīnjīn-yǒuwèir de.*
+
+**女：** 网上说的事不能信，现在吃饱了没事做，成天在互联网上瞎闹的人多着呢。
+*Nǚ: Wǎngshang shuō de shì bù néng xìn, xiànzài chībǎo le méi shì zuò, chéngtiān zài hùliánwǎng shang xiānào de rén duōzhe ne.*
+
+**男：** 可看那视频不像是假的。
+*Nán: Kě kàn nà shìpín bú xiàng shì jiǎ de.*
+
+**女：** 一个视频能说明什么？你要愿意我也可以给你拍一个。
+*Nǚ: Yí ge shìpín néng shuōmíng shénme? Nǐ yào yuànyì wǒ yě kěyǐ gěi nǐ pāi yí ge.*
+
+---
+
+## 对话：麦田圈事件
+*Duìhuà: Màitián quān shìjiàn*
+
+**男：** 你听说过麦田圈事件吗？
+*Nán: Nǐ tīngshuōguo màitián quān shìjiàn ma?*
+
+**女：** 听说过，不过了解得不多。
+*Nǚ: Tīngshuōguo, bùguò liǎojiě de bù duō.*
+
+**男：** 网上说最近在中国也发现了，是在青海那边。压倒一大片青稞地，显示出来的图案是只大熊猫。
+*Nán: Wǎngshang shuō zuìjìn zài Zhōngguó yě fāxiàn le, shì zài Qīnghǎi nàbiān. Yādǎo yí dà piàn qīngkē dì, xiǎnshì chūlai de tú'àn shì zhī dà xióngmāo.*
+
+**女：** 怎么会是大熊猫？肯定是谁搞的恶作剧吧？
+*Nǚ: Zěnme huì shì dà xióngmāo? Kěndìng shì shéi gǎo de èzuòjù ba?*
+
+**男：** 我看也像。不过从照片看，那现场做得挺不错的，真像那么回事儿。
+*Nán: Wǒ kàn yě xiàng. Bùguò cóng zhàopiàn kàn, nà xiànchǎng zuò de tǐng bùcuò de, zhēn xiàng nàme huí shìr.*
+
+**女：** 或许连照片都是假的呢？现在用电脑PS照片太容易了。
+*Nǚ: Huòxǔ lián zhàopiàn dōu shì jiǎ de ne? Xiànzài yòng diànnǎo PS zhàopiàn tài róngyì le.*
 
 ---
 

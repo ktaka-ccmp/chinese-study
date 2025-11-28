@@ -129,7 +129,7 @@
 <br>Qī zǐ: ń, xíng, nà mǎi wán dōng xī wǒ qù nǎ ér zhǎo nǐ men?
 
 丈夫: 嗯……去完梦幻城堡再说吧。
-<br>Zhàng fū: ń. .. Qù wán mèng huàn chéng bǎo zài shuō ba.
+<br>Zhàng fū: ń... Qù wán mèng huàn chéng bǎo zài shuō ba.
 
 
 ## E03 我有恐高症
@@ -241,7 +241,7 @@
 
 
 **张健彬:** 以前我生活习惯不太好，抽烟、喝酒，还经常熬夜。
-<br>Zhāng jiàn bīn: yǐ qián wǒ shēng huó xí guàn bù tài hǎo, chōu yān、 hē jiǔ, hái jīng cháng áo yè.
+<br>Zhāng jiàn bīn: yǐ qián wǒ shēng huó xí guàn bù tài hǎo, chōu yān, hē jiǔ, hái jīng cháng áo yè.
 
 那时我还在一家律师事务所工作，每天上班特别累，压力也很大，身体经常不舒服，后来我就辞职了，在一家健身俱乐部找了份新工作。
 <br>Nà shí wǒ hái zài yī jiā lǜ shī shì wù suǒ gōng zuò, měi tiān shàng bān tè bié lèi, yā lì yě hěn dà, shēn tǐ jīng cháng bù shū fú, hòu lái wǒ jiù cí zhí le, zài yī jiā jiàn shēn jù lè bù zhǎo le fèn xīn gōng zuò.
@@ -298,7 +298,7 @@
 <br>Chén jūn: bāo a? Tīng shuō tā nán péng yǒu yǐ jīng gěi tā mǎi le.
 
 孙宇: 是吗？那你给她买套化妆品怎么样？女孩子不是就喜欢包啊、化妆品什么的吗？
-<br>Sūn yǔ: shì ma? Nà nǐ gěi tā mǎi tào huà zhuāng pǐn zěn me yàng? Nǚ hái zi bú shì jiù xǐ huān bāo a、 huà zhuāng pǐn shén me de ma?
+<br>Sūn yǔ: shì ma? Nà nǐ gěi tā mǎi tào huà zhuāng pǐn zěn me yàng? Nǚ hái zi bú shì jiù xǐ huān bāo a, huà zhuāng pǐn shén me de ma?
 
 陈军: 对呀，我怎么就没想到呢！
 <br>Chén jūn: duì ya, wǒ zěn me jiù méi xiǎng dào ne!
@@ -367,7 +367,7 @@
 <br>Jiǔ diàn fú wù yuán: duì bù qǐ, àn guī dìng zhǐ yǒu zhù zài zhè lǐ de kè rén cái néng jì cún xíng lǐ.
 
 请求帮助的人: 嗯……我知道。但是我赶着去银行，包儿太重，拿着不方便。
-<br>Qǐng qiú bāng zhù de rén: ń. .. Wǒ zhī dào. Dàn shì wǒ gǎn zhe qù yín háng, bāo ér tài zhòng, ná zhe bù fāng biàn.
+<br>Qǐng qiú bāng zhù de rén: ń... Wǒ zhī dào. Dàn shì wǒ gǎn zhe qù yín háng, bāo ér tài zhòng, ná zhe bù fāng biàn.
 
 酒店服务员: 对不起，真的不行。
 <br>Jiǔ diàn fú wù yuán: duì bù qǐ, zhēn de bù xíng.
@@ -400,7 +400,7 @@
 <br>Lì huá: bú huì shì chū shén me shì ér le ba?
 
 劲松: 嗯……要不给他打个电话？
-<br>Jìng sōng: ń. .. Yào bù gěi tā dǎ gè diàn huà?
+<br>Jìng sōng: ń... Yào bù gěi tā dǎ gè diàn huà?
 
 ## E11 昨天晚上那场足球赛你看了吗?
 
@@ -497,7 +497,7 @@
 <br>Jiāo jǐng: nà shuō shuō dāng shí de qíng kuàng ba.
 
 司机: 好，当时我正沿着这条路往西开……
-<br>Sī jī: hǎo, dāng shí wǒ zhèng yán zhe zhè tiáo lù wǎng xī kāi. ..
+<br>Sī jī: hǎo, dāng shí wǒ zhèng yán zhe zhè tiáo lù wǎng xī kāi...
 
 交警: 车速是多少？
 <br>Jiāo jǐng: chē sù shì duō shǎo?
@@ -509,10 +509,10 @@
 <br>Jiāo jǐng: ń, rán hòu ne?
 
 司机: 然后……突然有条狗蹿出来了，我为了躲它就赶紧往左一拐。正好他那辆车从对面开过来，就撞上了。
-<br>Sī jī: rán hòu. .. Tū rán yǒu tiáo gǒu cuān chū lái le, wǒ wèi le duǒ tā jiù gǎn jǐn wǎng zuǒ yī guǎi. Zhèng hǎo tā nà liàng chē cóng duì miàn kāi guò lái, jiù zhuàng shàng le.
+<br>Sī jī: rán hòu... Tū rán yǒu tiáo gǒu cuān chū lái le, wǒ wèi le duǒ tā jiù gǎn jǐn wǎng zuǒ yī guǎi. Zhèng hǎo tā nà liàng chē cóng duì miàn kāi guò lái, jiù zhuàng shàng le.
 
 交警: 嗯……把你的驾照给我看一下。
-<br>Jiāo jǐng: ń. .. Bǎ nǐ de jià zhào gěi wǒ kàn yī xià.
+<br>Jiāo jǐng: ń... Bǎ nǐ de jià zhào gěi wǒ kàn yī xià.
 
 司机: 好的，给你。
 <br>Sī jī: hǎo de, gěi nǐ.
@@ -533,7 +533,7 @@
 <br>Sūn lì: duì ya, duō le hǎo jǐ gè ne. Nǐ xiǎng xué shén me?
 
 李玲: 嗯……还没想好。哎，你说学电脑怎么样？
-<br>Lǐ líng: ń. .. Hái méi xiǎng hǎo. āi, nǐ shuō xué diàn nǎo zěn me yàng?
+<br>Lǐ líng: ń... Hái méi xiǎng hǎo. āi, nǐ shuō xué diàn nǎo zěn me yàng?
 
 孙丽: 电脑有什么好学的？自己在家看看书就会了。
 <br>Sūn lì: diàn nǎo yǒu shén me hào xué de? Zì jǐ zài jiā kàn kàn shū jiù huì le.
@@ -545,7 +545,7 @@
 <br>Sūn lì: jiù nà me jiǎn dān. Mǎi diàn nǎo yǐ qián wǒ yě yì diǎn ér dōu bù dǒng, hòu lái fā xiàn qí shí méi xiǎng xiàng de nà me nán.
 
 李玲: 嗯……我一看书就困，还是听老师讲有意思。
-<br>Lǐ líng: ń. .. Wǒ yī kàn shū jiù kùn, hái shì tīng lǎo shī jiǎng yǒu yì si.
+<br>Lǐ líng: ń... Wǒ yī kàn shū jiù kùn, hái shì tīng lǎo shī jiǎng yǒu yì si.
 
 孙丽: 那你报名吧，反正也不贵。
 <br>Sūn lì: nà nǐ bào míng ba, fǎn zhèng yě bù guì.
@@ -626,10 +626,10 @@
 <br>Gù kè: míng tiān a? Míng tiān wǒ bù zài jiā, má fán nǐ zài bāng wǒ què rèn yī xià, kàn kàn jīn tiān xíng bù xíng, hǎo ma?
 
 工作人员: 嗯……这样吧，我和技术部联系一下，再给您打电话，好吗？
-<br>Gōng zuò rén yuán: ń. .. Zhè yàng ba, wǒ hé jì shù bù lián xì yī xià, zài gěi nín dǎ diàn huà, hǎo ma?
+<br>Gōng zuò rén yuán: ń... Zhè yàng ba, wǒ hé jì shù bù lián xì yī xià, zài gěi nín dǎ diàn huà, hǎo ma?
 
 顾客: 那好吧。我的电话号码是……
-<br>Gù kè: nà hǎo ba. Wǒ de diàn huà hào mǎ shì. ..
+<br>Gù kè: nà hǎo ba. Wǒ de diàn huà hào mǎ shì...
 
 ## E17 能把你的帐篷借给我吗?
 
@@ -650,7 +650,7 @@
 <br>Xiào yǎ: wǒ yī huì er dé qù yòu ér yuán jiē hái zi, kě wǒ de chē sòng qù xiū lǐ le, jiè nǐ de yòng yī xià xíng ma?
 
 陈琳: 嗯……过会儿我得去机场接个朋友。
-<br>Chén lín: ń. .. Guò huì er wǒ dé qù jī chǎng jiē gè péng yǒu.
+<br>Chén lín: ń... Guò huì er wǒ dé qù jī chǎng jiē gè péng yǒu.
 
 肖雅: 是吗，你几点去？我一个小时左右就能回来。
 <br>Xiào yǎ: shì ma, nǐ jǐ diǎn qù? Wǒ yí gè xiǎo shí zuǒ yòu jiù néng huí lái.
@@ -693,7 +693,7 @@
 <br>Kè rén: duì le, hái dé má fán nǐ yī xià. Zhè ér yǒu diǎn ér lěng, bǎ kōng tiáo guān xiǎo diǎn ér, xíng ma?
 
 服务员: 好的，我去看看。嗯……如果您想换到那边去也可以。
-<br>Fú wù yuán: hǎo de, wǒ qù kàn kàn. ń. .. Rú guǒ nín xiǎng huàn dào nà biān qù yě kě yǐ.
+<br>Fú wù yuán: hǎo de, wǒ qù kàn kàn. ń... Rú guǒ nín xiǎng huàn dào nà biān qù yě kě yǐ.
 
 客人: 那给我换到那边儿吧。
 <br>Kè rén: nà gěi wǒ huàn dào nà biān ér ba.
@@ -729,7 +729,7 @@
 <br>Xiào fāng: hé xī fāng de qíng rén jié yī yàng.
 
 还是恋人啊，夫妻一起去吃顿烛光晚餐，互相送送玫瑰花、巧克力什么的来表达一下爱意。
-<br>Hái shì liàn rén a, fū qī yì qǐ qù chī dùn zhú guāng wǎn cān, hù xiāng sòng sòng méi guī huā、 qiǎo kè lì shén me de lái biǎo dá yī xià ài yì.
+<br>Hái shì liàn rén a, fū qī yì qǐ qù chī dùn zhú guāng wǎn cān, hù xiāng sòng sòng méi guī huā, qiǎo kè lì shén me de lái biǎo dá yī xià ài yì.
 
 洋子: 是吗？
 <br>Yáng zi: shì ma?
@@ -775,7 +775,7 @@
 <br>Zhǔ chí rén: a, wáng xiǎo jiě, nín hǎo! Zài lín lǐ guān xì shàng nín yù dào le shén me wèn tí ma?
 
 听众: 嗯……是这样的，我的邻居经常往我院子里扔垃圾。
-<br>Tīng zhòng: ń. .. Shì zhè yàng de, wǒ de lín jū jīng cháng wǎng wǒ yuàn zi lǐ rēng lā jī.
+<br>Tīng zhòng: ń... Shì zhè yàng de, wǒ de lín jū jīng cháng wǎng wǒ yuàn zi lǐ rēng lā jī.
 
 主持人: 是吗？您亲眼看到了吗？
 <br>Zhǔ chí rén: shì ma? Nín qīn yǎn kàn dào le ma?
@@ -802,7 +802,7 @@
 <br>Xiè xiè nín cān yù wǒ men de jié mù, zài jiàn!
 
 好，下面我们来接听下一位听众的电话……
-<br>Hǎo, xià miàn wǒ men lái jiē tīng xià yī wèi tīng zhòng de diàn huà. ..
+<br>Hǎo, xià miàn wǒ men lái jiē tīng xià yī wèi tīng zhòng de diàn huà...
 
 ## E21 我觉得50年后……
 
@@ -851,10 +851,10 @@
 
 
 汪露露: 我特别爱看书，什么书都看，我家的书柜里放满了小说、人物传记、散文集、历史书、哲学书……
-<br>Wāng lù lù: wǒ tè bié ài kàn shū, shén me shū dōu kàn, wǒ jiā de shū guì lǐ fàng mǎn le xiǎo shuō、 rén wù zhuàn jì、 sǎn wén jí、 lì shǐ shū、 zhé xué shū. ..
+<br>Wāng lù lù: wǒ tè bié ài kàn shū, shén me shū dōu kàn, wǒ jiā de shū guì lǐ fàng mǎn le xiǎo shuō, rén wù zhuàn jì, sǎn wén jí, lì shǐ shū, zhé xué shū...
 
 实用性的书我也爱看，比方说经济方面的、旅游方面的，有时还看一些科技方面的。
-<br>Shí yòng xìng de shū wǒ yě ài kàn, bǐ fāng shuō jīng jì fāng miàn de、 lǚ yóu fāng miàn de, yǒu shí hái kàn yī xiē kē jì fāng miàn de.
+<br>Shí yòng xìng de shū wǒ yě ài kàn, bǐ fāng shuō jīng jì fāng miàn de, lǚ yóu fāng miàn de, yǒu shí hái kàn yī xiē kē jì fāng miàn de.
 
 朋友都管我叫书虫，说我家都可以开书店了。
 <br>Péng yǒu dōu guǎn wǒ jiào shū chóng, shuō wǒ jiā dōu kě yǐ kāi shū diàn le.
@@ -863,7 +863,7 @@
 <br>Wǒ kàn shū yì bān méi yǒu shén me gù dìng de shí jiān, zhǐ yào shāo wēi yǒu diǎn ér kòng xián, bǐ rú shàng bān lù shàng zuò zài diàn chē lǐ de shí hòu, hái yǒu wǎn shàng shuì jiào qián, wǒ dū huì ná běn shū lái fān fān.
 
 每当我看到一本精彩的好书，我就会觉得很高兴、很充实。
-<br>Měi dāng wǒ kàn dào yī běn jīng cǎi de hǎo shū, wǒ jiù huì jué de hěn gāo xìng、 hěn chōng shí.
+<br>Měi dāng wǒ kàn dào yī běn jīng cǎi de hǎo shū, wǒ jiù huì jué de hěn gāo xìng, hěn chōng shí.
 
 
 ## E23 怎么了？
@@ -888,7 +888,7 @@
 <br>Yī shēng: nǐ chī shén me tè bié de dōng xī le ma?
 
 病人: 嗯……没有。
-<br>Bìng rén: ń. .. Méi yǒu.
+<br>Bìng rén: ń... Méi yǒu.
 
 医生: 你对什么过敏吗？
 <br>Yī shēng: nǐ duì shén me guò mǐn ma?
@@ -900,7 +900,7 @@
 <br>Yī shēng: yǒu shí hòu chū zhěn zi shì yīn wèi jīng shén yā lì tài dà. Nǐ zuì jìn yǒu shén me bù shùn xīn de shì ma?
 
 病人: 嗯……那倒没有。就是工作太忙，总休息不好。
-<br>Bìng rén: ń. .. Nà dào méi yǒu. Jiù shì gōng zuò tài máng, zǒng xiū xī bù hǎo.
+<br>Bìng rén: ń... Nà dào méi yǒu. Jiù shì gōng zuò tài máng, zǒng xiū xī bù hǎo.
 
 医生: 是吗？你吃什么药了吗？
 <br>Yī shēng: shì ma? Nǐ chī shén me yào le ma?
@@ -1011,13 +1011,13 @@
 <br>Liú ān: zhèng lán! Xiàn zài yǒu shí jiān ma?
 
 郑兰: 嗯……我正要走。有什么事儿吗？
-<br>Zhèng lán: ń. .. Wǒ zhèng yào zǒu. Yǒu shén me shì ér ma?
+<br>Zhèng lán: ń... Wǒ zhèng yào zǒu. Yǒu shén me shì ér ma?
 
 刘安: 我刚从客户那儿回来，想和你谈谈明天开会的事儿，要是你赶时间的话就算了。
 <br>Liú ān: wǒ gāng cóng kè hù nà ér huí lái, xiǎng hé nǐ tán tán míng tiān kāi huì de shì ér, yào shì nǐ gǎn shí jiān de huà jiù suàn le.
 
 郑兰: 嗯……今天我得陪孩子去英语学习班。
-<br>Zhèng lán: ń. .. Jīn tiān wǒ dé péi hái zi qù yīng yǔ xué xí bān.
+<br>Zhèng lán: ń... Jīn tiān wǒ dé péi hái zi qù yīng yǔ xué xí bān.
 
 刘安: 噢，是吗？那明天会议的资料你都准备出来了吗？
 <br>Liú ān: ō, shì ma? Nà míng tiān huì yì de zī liào nǐ dōu zhǔn bèi chū lái le ma?
@@ -1079,7 +1079,7 @@
 
 
 预报员: 从气象图上看，今日冷空气前锋将进入我国东北地区，内蒙古东部、黑龙江西南部和吉林北部将有中到大雪。
-<br>Yù bào yuán: cóng qì xiàng tú shàng kàn, jīn rì lěng kōng qì qián fēng jiāng jìn rù wǒ guó dōng běi dì qū, nèi méng gǔ dōng bù、 hēi lóng jiāng xī nán bù hé jí lín běi bù jiāng yǒu zhōng dào dà xuě.
+<br>Yù bào yuán: cóng qì xiàng tú shàng kàn, jīn rì lěng kōng qì qián fēng jiāng jìn rù wǒ guó dōng běi dì qū, nèi méng gǔ dōng bù, hēi lóng jiāng xī nán bù hé jí lín běi bù jiāng yǒu zhōng dào dà xuě.
 
 华北地区天气晴朗，但在下午的晚些时候会转为多云。
 <br>Huá běi dì qū tiān qì qíng lǎng, dàn zài xià wǔ de wǎn xiē shí hòu huì zhuǎn wéi duō yún.
@@ -1088,7 +1088,7 @@
 <br>Huá dōng hé xī nán dì qū lián rì de yīn yǔ tiān qì hái jiāng chí xù, yù jì píng jūn qì wēn jiāng huì xià jiàng 2到3度.
 
 下面我们来看一下全国部分主要城市的天气情况……
-<br>Xià miàn wǒ men lái kàn yī xià quán guó bù fèn zhǔ yào chéng shì de tiān qì qíng kuàng. ..
+<br>Xià miàn wǒ men lái kàn yī xià quán guó bù fèn zhǔ yào chéng shì de tiān qì qíng kuàng...
 
 
 ## E29 昨天电视上说
@@ -1110,7 +1110,7 @@
 <br>Tǐ yù xīn wén, zài zuó wǎn jǔ xíng de jù rén bēi quán guó zhí yè nán zi pái qiú bàn jué sài zhōng, fēi lóng duì yǐ sān bǐ yī zhàn shèng měng hǔ duì, jìn rù jué sài.
 
 下面我们来看看全国的天气情况……
-<br>Xià miàn wǒ men lái kàn kàn quán guó de tiān qì qíng kuàng. ..
+<br>Xià miàn wǒ men lái kàn kàn quán guó de tiān qì qíng kuàng...
 
 
 ## E30 我有英语六级证书
@@ -1147,7 +1147,7 @@
 <br>Zhāo pìn fù zé rén: wǒ men zhè cì zhāo pìn de shì yè wù bù jīng lǐ, nǐ yǒu zhè fāng miàn de guǎn lǐ jīng yàn ma?
 
 陈东健: 嗯……我在人事部工作过一段时间，我相信自己能胜任这份工作。
-<br>Chén dōng jiàn: ń. .. Wǒ zài rén shì bù gōng zuò guò yī duàn shí jiān, wǒ xiāng xìn zì jǐ néng shèng rèn zhè fèn gōng zuò.
+<br>Chén dōng jiàn: ń... Wǒ zài rén shì bù gōng zuò guò yī duàn shí jiān, wǒ xiāng xìn zì jǐ néng shèng rèn zhè fèn gōng zuò.
 
 
 ## E31 你听说过奔牛节吗？
@@ -1259,10 +1259,10 @@
 
 
 我很爱逛街，把大部分业余时间都花在逛街、买东西上了，所以有些朋友开玩笑叫我购物狂。
-<br>Wǒ hěn ài guàng jiē, bǎ dà bù fèn yè yú shí jiān dōu huā zài guàng jiē、 mǎi dōng xī shàng le, suǒ yǐ yǒu xiē péng yǒu kāi wán xiào jiào wǒ gòu wù kuáng.
+<br>Wǒ hěn ài guàng jiē, bǎ dà bù fèn yè yú shí jiān dōu huā zài guàng jiē, mǎi dōng xī shàng le, suǒ yǐ yǒu xiē péng yǒu kāi wán xiào jiào wǒ gòu wù kuáng.
 
 平时我会很留心报纸、杂志上的购物指南，一休息就去逛商场。
-<br>Píng shí wǒ huì hěn liú xīn bào zhǐ、 zá zhì shàng de gòu wù zhǐ nán, yī xiū xī jiù qù guàng shāng chǎng.
+<br>Píng shí wǒ huì hěn liú xīn bào zhǐ, zá zhì shàng de gòu wù zhǐ nán, yī xiū xī jiù qù guàng shāng chǎng.
 
 看到喜欢的东西我一般不会马上买，会多看几个地方，货比三家，然后选最便宜的。
 <br>Kàn dào xǐ huān de dōng xī wǒ yì bān bú huì mǎ shàng mǎi, huì duō kàn jǐ gè dì fāng, huò bǐ sān jiā, rán hòu xuǎn zuì pián yi de.
@@ -1281,16 +1281,16 @@
 
 
 方浩: 我在一家贸易公司工作，平时上班必须穿西装，可是，我不太喜欢穿西装，因为觉得太拘束，还总担心会把衣服弄脏、弄皱。
-<br>Fāng hào: wǒ zài yī jiā mào yì gōng sī gōng zuò, píng shí shàng bān bì xū chuān xī zhuāng, kě shì, wǒ bù tài xǐ huān chuān xī zhuāng, yīn wèi jué de tài jū shù, hái zǒng dān xīn huì bǎ yī fú nòng zāng、 nòng zhòu.
+<br>Fāng hào: wǒ zài yī jiā mào yì gōng sī gōng zuò, píng shí shàng bān bì xū chuān xī zhuāng, kě shì, wǒ bù tài xǐ huān chuān xī zhuāng, yīn wèi jué de tài jū shù, hái zǒng dān xīn huì bǎ yī fú nòng zāng, nòng zhòu.
 
 平时在家，或者和朋友出去玩儿的时候，我都穿宽松、随便的休闲服。
-<br>Píng shí zài jiā, huò zhě hé péng yǒu chū qù wán ér de shí hòu, wǒ dōu chuān kuān sōng、 suí biàn de xiū xián fú.
+<br>Píng shí zài jiā, huò zhě hé péng yǒu chū qù wán ér de shí hòu, wǒ dōu chuān kuān sōng, suí biàn de xiū xián fú.
 
 我每个月花在买衣服上的钱不算多，可能是因为我很少买名牌吧。
 <br>Wǒ měi gè yuè huā zài mǎi yī fú shàng de qián bù suàn duō, kě néng shì yīn wèi wǒ hěn shǎo mǎi míng pái ba.
 
 我觉得衣服只要干净整齐、穿起来舒服就行了，是不是名牌不重要。
-<br>Wǒ jué de yī fú zhǐ yào gān jìng zhěng qí、 chuān qǐ lái shū fú jiù xíng le, shì bú shì míng pái bú zhòng yào.
+<br>Wǒ jué de yī fú zhǐ yào gān jìng zhěng qí, chuān qǐ lái shū fú jiù xíng le, shì bú shì míng pái bú zhòng yào.
 
 
 ## E36 你觉得这部电影怎么样？
@@ -1321,7 +1321,7 @@
 <br>Xiǎo huān: wǒ jué de kāi shǐ de nà jǐ gè zhàn zhēng chǎng miàn pāi dé yě tǐng bī zhēn de, nǐ jué de ne?
 
 小乐: 嗯……还行吧，但没有广告宣传的那么好！
-<br>Xiǎo lè: ń. .. Hái xíng ba, dàn méi yǒu guǎng gào xuān chuán de nà me hǎo!
+<br>Xiǎo lè: ń... Hái xíng ba, dàn méi yǒu guǎng gào xuān chuán de nà me hǎo!
 
 
 ## E37 他一看就是那种特别聪明的人
@@ -1346,10 +1346,10 @@
 <br>Sūn xiá: shì ma? Zěn me kàn bù chū lái a?
 
 郑通: 听说属牛的人缺点很多，数都数不清：固执、爱面子、粗心大意……
-<br>Zhèng tōng: tīng shuō shǔ niú de rén quē diǎn hěn duō, shù dōu shǔ bù qīng: gù zhí、 ài miàn zi、 cū xīn dà yì. ..
+<br>Zhèng tōng: tīng shuō shǔ niú de rén quē diǎn hěn duō, shù dōu shǔ bù qīng: gù zhí, ài miàn zi, cū xīn dà yì...
 
 孙霞: 什么呀！这里写着呢，属牛的人勤快、善良、乐观、大方、漂亮……
-<br>Sūn xiá: shén me ya! Zhè lǐ xiě zhe ne, shǔ niú de rén qín kuài、 shàn liáng、 lè guān、 dà fāng、 piào liàng. ..
+<br>Sūn xiá: shén me ya! Zhè lǐ xiě zhe ne, shǔ niú de rén qín kuài, shàn liáng, lè guān, dà fāng, piào liàng...
 
 郑通: 让我看看。
 <br>Zhèng tōng: ràng wǒ kàn kàn.
@@ -1380,7 +1380,7 @@
 <br>Gōng zuò rén yuán: hǎo de.
 
 报名者: 嗯……现在已经开课了吗？
-<br>Bào míng zhě: ń. .. Xiàn zài yǐ jīng kāi kè le ma?
+<br>Bào míng zhě: ń... Xiàn zài yǐ jīng kāi kè le ma?
 
 工作人员: 还没有，下个月一号开课。
 <br>Gōng zuò rén yuán: hái méi yǒu, xià gè yuè yī hào kāi kè.
@@ -1389,7 +1389,7 @@
 <br>Bào míng zhě: yí gè xīng qī shàng jǐ cì kè a?
 
 工作人员: 三次，每周的一、三、五，晚上七点到九点。
-<br>Gōng zuò rén yuán: sān cì, měi zhōu de yī、 sān、 wǔ, wǎn shàng qī diǎn dào jiǔ diǎn.
+<br>Gōng zuò rén yuán: sān cì, měi zhōu de yī, sān, wǔ, wǎn shàng qī diǎn dào jiǔ diǎn.
 
 报名者: 噢，是吗？一期多长时间啊？
 <br>Bào míng zhě: ō, shì ma? Yī qī duō zhǎng shí jiān a?
@@ -1404,7 +1404,7 @@
 <br>Gōng zuò rén yuán: 2000元. Rú guǒ nín hái xiǎng liǎo jiě kè chéng de xiáng xì nèi róng, wǒ men kě yǐ gěi nín jì yī fèn kè chéng jiǎn jiè.
 
 报名者: 好的，那麻烦你们给我寄一份吧。我的地址是……
-<br>Bào míng zhě: hǎo de, nà má fán nǐ men gěi wǒ jì yī fèn ba. Wǒ de dì zhǐ shì. ..
+<br>Bào míng zhě: hǎo de, nà má fán nǐ men gěi wǒ jì yī fèn ba. Wǒ de dì zhǐ shì...
 
 
 ## E39 真不好意思！
@@ -1420,7 +1420,7 @@
 <br>Liú hóng: shì ma?
 
 张燕: 嗯……星期天和朋友出去玩儿，回来的时候忘在地铁上了。
-<br>Zhāng yàn: ń. .. Xīng qī tiān hé péng yǒu chū qù wán ér, huí lái de shí hòu wàng zài dì tiě shàng le.
+<br>Zhāng yàn: ń... Xīng qī tiān hé péng yǒu chū qù wán ér, huí lái de shí hòu wàng zài dì tiě shàng le.
 
 刘红: 那去地铁的失物认领处问问吧，没准儿谁捡到送那儿去了呢？
 <br>Liú hóng: nà qù dì tiě de shī wù rèn lǐng chù wèn wèn ba, méi zhǔn ér shuí jiǎn dào sòng nà ér qù le ne?
@@ -1473,7 +1473,7 @@
 <br>Lái zhōng guó liú xué yǐ hòu, wǒ yīn wèi wén huà hé xí guàn de bù tóng nào guò hěn duō xiào huà.
 
 比如说吧，中国人非常热情好客，每次请客的时候，总是担心客人吃不饱、吃不好。
-<br>Bǐ rú shuō ba, zhōng guó rén fēi cháng rè qíng hào kè, měi cì qǐng kè de shí hòu, zǒng shì dān xīn kè rén chī bù bǎo、 chī bù hǎo.
+<br>Bǐ rú shuō ba, zhōng guó rén fēi cháng rè qíng hào kè, měi cì qǐng kè de shí hòu, zǒng shì dān xīn kè rén chī bù bǎo, chī bù hǎo.
 
 所以都会尽量多做几个菜，多准备些点心水果，好让客人不用客气地尽情吃。
 <br>Suǒ yǐ dū huì jǐn liàng duō zuò jǐ gè cài, duō zhǔn bèi xiē diǎn xīn shuǐ guǒ, hǎo ràng kè rén bù yòng kè qì dì jìn qíng chī.
@@ -1519,13 +1519,13 @@
 <br>Hán yíng: gōng sī jiā bān, yì zhí máng dào wǎn shàng shí yì diǎn. Zěn me yàng? Shì bú shì tè bié rè nào?
 
 吴鹏: 哎呀，别提了，才去了七、八个人，早知道人那么少，我就不去了。
-<br>Wú péng: āi yā, bié tí le, cái qù le qī、 bā gè rén, zǎo zhī dào rén nà me shǎo, wǒ jiù bù qù le.
+<br>Wú péng: āi yā, bié tí le, cái qù le qī, bā gè rén, zǎo zhī dào rén nà me shǎo, wǒ jiù bù qù le.
 
 韩莹: 才去了七、八个人啊？都谁去了？
-<br>Hán yíng: cái qù le qī、 bā gè rén a? Dōu shuí qù le?
+<br>Hán yíng: cái qù le qī, bā gè rén a? Dōu shuí qù le?
 
 吴鹏: 咱们班的就陈力、张梅和我，另外几个都是外班的，不认识。
-<br>Wú péng: zán men bān de jiù chén lì、 zhāng méi hé wǒ, lìng wài jǐ gè dōu shì wài bān de, bù rèn shí.
+<br>Wú péng: zán men bān de jiù chén lì, zhāng méi hé wǒ, lìng wài jǐ gè dōu shì wài bān de, bù rèn shí.
 
 韩莹: 是吗？哎，陈力怎么样？听说他当上教授了？
 <br>Hán yíng: shì ma? āi, chén lì zěn me yàng? Tīng shuō tā dāng shàng jiào shòu le?
@@ -1574,7 +1574,7 @@
 <br>Shěn jiào shòu: shì a, què shí shì zhè yàng.
 
 很多孩子放学以后要去补习班补习，晚上回家要做作业，星期天还要去学弹钢琴、跳舞什么的，真的是很可怜。
-<br>Hěn duō hái zi fàng xué yǐ hòu yào qù bǔ xí bān bǔ xí, wǎn shàng huí jiā yào zuò zuò yè, xīng qī tiān hái yào qù xué tán gāng qín、 tiào wǔ shén me de, zhēn de shì hěn kě lián.
+<br>Hěn duō hái zi fàng xué yǐ hòu yào qù bǔ xí bān bǔ xí, wǎn shàng huí jiā yào zuò zuò yè, xīng qī tiān hái yào qù xué tán gāng qín, tiào wǔ shén me de, zhēn de shì hěn kě lián.
 
 主持人: 我也觉得他们很可怜。
 <br>Zhǔ chí rén: wǒ yě jué de tā men hěn kě lián.
@@ -1623,7 +1623,7 @@
 <br>Zǒng de lái shuō, wǒ jué de qì chē shì yī xiàng hěn hǎo de fā míng.
 
 虽然它给人类社会带来了空气污染、噪音污染等很多问题，但同时也极大地方便了我们的生活。
-<br>Suī rán tā gěi rén lèi shè huì dài lái le kōng qì wū rǎn、 zào yīn wū rǎn děng hěn duō wèn tí, dàn tóng shí yě jí dà dì fāng biàn liǎo wǒ men de shēng huó.
+<br>Suī rán tā gěi rén lèi shè huì dài lái le kōng qì wū rǎn, zào yīn wū rǎn děng hěn duō wèn tí, dàn tóng shí yě jí dà dì fāng biàn liǎo wǒ men de shēng huó.
 
 
 ## E45 我觉得家庭是最重要的
@@ -1654,7 +1654,7 @@
 <br>Suǒ yǐ duì wǒ lái shuō, pái zài dì yī wèi de hái shì jiā tíng.
 
 全家人能健健康康、开开心心地生活在一起，我就很满足了。
-<br>Quán jiā rén néng jiàn jiàn kāng kāng、 kāi kāi xīn xīn dì shēng huó zài yì qǐ, wǒ jiù hěn mǎn zú le.
+<br>Quán jiā rén néng jiàn jiàn kāng kāng, kāi kāi xīn xīn dì shēng huó zài yì qǐ, wǒ jiù hěn mǎn zú le.
 
 
 ## E46 可把我急死了！
@@ -1857,7 +1857,7 @@
 <br>Chén lì: shì a, nà měi tiān qù shàng bān jiù dé zǎo diǎn ér qǐ le.
 
 不过电视里说，这是家大工厂，建成后一定会带动地区经济发展、提供更多的就业机会。
-<br>Bù guò diàn shì lǐ shuō, zhè shì jiā dà gōng chǎng, jiàn chéng hòu yí dìng huì dài dòng dì qū jīng jì fā zhǎn、 tí gōng gèng duō de jiù yè jī huì.
+<br>Bù guò diàn shì lǐ shuō, zhè shì jiā dà gōng chǎng, jiàn chéng hòu yí dìng huì dài dòng dì qū jīng jì fā zhǎn, tí gōng gèng duō de jiù yè jī huì.
 
 黄威: 那可不一定，要是经营不好呢？
 <br>Huáng wēi: nà kě bù yí dìng, yào shì jīng yíng bù hǎo ne?
