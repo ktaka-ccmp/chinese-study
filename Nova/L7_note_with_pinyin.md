@@ -11,6 +11,7 @@
 - [20251124](#20251124)
 - [20251125 中文课笔记 - 电脑用语](#20251125-中文课笔记---电脑用语)
 - [20251125-02 家电・设备用语 / 中国四大美女 / 谚语](#20251125-02-家电设备用语--中国四大美女--谚语)
+- [20251203 中文课笔记 - 回忆往事](#20251203-中文课笔记--回忆往事)
 
 ---
 
@@ -1180,3 +1181,107 @@ APP软件
 
 "情人眼里出西施"这句话是不是说在恋人的眼里，对方总是完美的？  
 *"Qíngrén yǎnlǐ chū Xī Shī" zhè jù huà shì bu shì shuō zài liànrén de yǎnlǐ, duìfāng zǒngshì wánměi de?*
+
+# 20251203 中文课笔记 - 回忆往事
+
+---
+
+## 声调练习
+
+失 实 史 事  
+*shī shí shǐ shì*  
+(1声 2声 3声 4声)
+
+---
+
+## 回想的故事
+
+那是十多年以前的事了。想不起来他的名字了，好像是叫张维吧。  
+*Nà shì shí duō nián yǐqián de shì le. Xiǎng bu qǐlai tā de míngzi le, hǎoxiàng shì jiào Zhāng Wéi ba.*
+
+记得那天还下着鹅毛大雪，张维手里捧着自己亲手做的蛋糕，最让我吃惊的是，大冬天的，他连大衣也没穿，手套、围脖儿也没戴。说了你可能都不相信，那天他就那么站在大雪里等他女朋友，足足等了大半天！  
+*Jìde nà tiān hái xiàzhe émáo dàxuě, Zhāng Wéi shǒu lǐ pěngzhe zìjǐ qīnshǒu zuò de dàngāo, zuì ràng wǒ chījīng de shì, dà dōngtiān de, tā lián dàyī yě méi chuān, shǒutào, wéibór yě méi dài. Shuōle nǐ kěnéng dōu bù xiāngxìn, nà tiān tā jiù nàme zhàn zài dàxuě lǐ děng tā nǚpéngyou, zúzú děngle dà bàntiān!*
+
+---
+
+## 记忆模糊时的表达
+
+### 一下子想不起来了
+*yíxiàzi xiǎng bu qǐlai le*
+
+那个演员的名字，我一下子想不起来了。  
+*Nàge yǎnyuán de míngzi, wǒ yíxiàzi xiǎng bu qǐlai le.*
+
+他住在哪儿？我一下子想不起来了。  
+*Tā zhù zài nǎr? Wǒ yíxiàzi xiǎng bu qǐlai le.*
+
+### ……来着？记不清了
+*......láizhe? Jì bu qīng le*
+
+那部电影叫什么来着？记不清了。  
+*Nà bù diànyǐng jiào shénme láizhe? Jì bu qīng le.*
+
+他是哪个公司的来着？记不清了。  
+*Tā shì nǎge gōngsī de láizhe? Jì bu qīng le.*
+
+### 不记得……了
+*bù jìde......le*
+
+我不记得他什么时候结婚的了。  
+*Wǒ bù jìde tā shénme shíhou jiéhūn de le.*
+
+我不记得把钥匙放在哪儿了。  
+*Wǒ bù jìde bǎ yàoshi fàng zài nǎr le.*
+
+### 忘了……了，反正……
+*wàngle......le, fǎnzhèng......*
+
+忘了他叫什么名字了，反正是姓张。  
+*Wàngle tā jiào shénme míngzi le, fǎnzhèng shì xìng Zhāng.*
+
+忘了具体是哪一天了，反正是去年夏天的事。  
+*Wàngle jùtǐ shì nǎ yì tiān le, fǎnzhèng shì qùnián xiàtiān de shì.*
+
+---
+
+## 对话：说明事情的经过
+
+**民警：** 你再说说事情的经过吧，慢点儿说，说详细点儿。  
+*Mínjǐng: Nǐ zài shuōshuo shìqing de jīngguò ba, màn diǎnr shuō, shuō xiángxì diǎnr.*
+
+**周辉：** 好的。嗯……要是没记错的话，应该是上个月八号吧。我早上起来给张俊打了个电话，约他见面。他态度挺冷淡的，好像不太想出来。我就说事情很急，必须见一面，他听我那样说才答应晚上一起吃饭。  
+*Zhōu Huī: Hǎo de. Ǹg......yàoshi méi jìcuò dehuà, yīnggāi shì shàng ge yuè bā hào ba. Wǒ zǎoshang qǐlai gěi Zhāng Jùn dǎle ge diànhuà, yuē tā jiànmiàn. Tā tàidù tǐng lěngdàn de, hǎoxiàng bú tài xiǎng chūlai. Wǒ jiù shuō shìqing hěn jí, bìxū jiàn yí miàn, tā tīng wǒ nàyàng shuō cái dāying wǎnshang yìqǐ chīfàn.*
+
+**民警：** 打电话的时候你觉得他身边有别人吗？  
+*Mínjǐng: Dǎ diànhuà de shíhou nǐ juéde tā shēnbiān yǒu biérén ma?*
+
+**周辉：** 这个还真不好说，我好像听到点儿声音了，像是女人的说话声，但是也有可能是电视的声音。  
+*Zhōu Huī: Zhège hái zhēn bù hǎo shuō, wǒ hǎoxiàng tīngdào diǎnr shēngyīn le, xiàng shì nǚrén de shuōhuà shēng, dànshì yě yǒu kěnéng shì diànshì de shēngyīn.*
+
+**民警：** 后来晚上就一起吃饭了？就你们俩吗？  
+*Mínjǐng: Hòulái wǎnshang jiù yìqǐ chīfàn le? Jiù nǐmen liǎ ma?*
+
+**周辉：** 对，就我们俩。  
+*Zhōu Huī: Duì, jiù wǒmen liǎ.*
+
+---
+
+## 发音练习笔记
+
+好像  
+*hǎoxiàng*
+
+详细  
+*xiángxì*
+
+外国人读不好  
+*wàiguórén dú bu hǎo*
+
+娇  
+*jiāo*
+
+终于读对了  
+*zhōngyú dú duì le*
+
+比较一下，容易明白区别  
+*bǐjiào yíxià, róngyì míngbai qūbié*
