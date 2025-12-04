@@ -40,10 +40,7 @@
 
 
 
-[Image of educational illustration of a standing human figure for a language textbook]
-
-
-> **[画像生成プロンプト]**: An educational illustration of a standing human figure for a language textbook. Simple, clean, flat vector style on a white background. No text labels.
+> **[画像生成プロンプト]**: An educational diagram of the human body for a Chinese language textbook. A clear, gender-neutral figure standing facing forward. The image should highlight specific body parts with lines or arrows pointing to them for labeling: head, neck, shoulder, chest, back, waist, hand, and fingers. Clean vector line art style on a white background, no text labels included.
 
 * **参考词汇 (Vocabulary)**:
     * **头/脸部**: 脑袋 (nǎodai - head), 眉毛 (méimao - eyebrow), 牙齿 (yáchǐ - tooth), 嗓子 (sǎngzi - throat)
@@ -157,8 +154,7 @@
 
 **1. 你了解汉语中表示亲戚关系的词语吗？**
 
-![家系図](family_tree.png)
-> **[画像生成プロンプト]**: A simple family tree diagram for learning Chinese kinship terms. Top: Grandparents. Middle: Parents, Uncles, Aunts. Bottom: Children (Me, Brother, Cousin). Line art style.
+> **[画像生成プロンプト]**: A family tree diagram illustrating Chinese kinship terms. The layout should be hierarchical: Top row showing Paternal Grandparents (Grandpa, Grandma) and Maternal Grandparents. Middle row showing Parents (Father, Mother) and their siblings (Father's older/younger brothers, Father's sisters, Mother's brothers, Mother's sisters). Bottom row showing 'Me' in the center, with an Older Brother and a Cousin. Simple, clear infographic style with icons for each family member.
 
 * **参考词汇**: 爷爷 (Grandpa), 奶奶 (Grandma), 姥姥 (Maternal Grandma), 舅舅 (Uncle), 姑姑 (Aunt).
 
@@ -245,8 +241,13 @@
 
 **1. 请说说下列图标各代表什么样的天气现象。**
 
-![天气图标](weather_icons.png)
-> **[画像生成プロンプト]**: A set of 6 simple weather icons: Overcast, Sunny, Cloudy, Rainbow, Thunderstorm, Rain clearing up.
+> **[画像生成プロンプト]**: A set of 6 distinct weather icons in a flat, colorful vector style.
+> 1. **Overcast**: A grey cloud covering the sky.
+> 2. **Sunny**: A bright yellow sun with rays.
+> 3. **Cloudy**: A sun partially hidden behind a white cloud.
+> 4. **Rainbow**: A colorful rainbow arching over a small cloud.
+> 5. **Thunder Shower**: A dark cloud with a lightning bolt and rain drops.
+> 6. **Rain turning Sunny**: A rain cloud moving away to reveal a bright sun.
 
 * **词汇**: 阴 (Overcast), 晴 (Sunny), 多云 (Cloudy), 彩虹 (Rainbow), 雷阵雨 (Thunder shower).
 
@@ -344,9 +345,7 @@
 
 
 
-[Image of an ancient Chinese scholar illustration]
-
-> **[画像生成プロンプト]**: Traditional Chinese ink wash painting style illustration of Zilu (a disciple of Confucius) in ancient clothing, carrying a heavy bag of rice on his back, walking on a snowy path.
+> **[画像生成プロンプト]**: A traditional Chinese ink wash painting illustrating the story of 'Zilu Carrying Rice'. The scene depicts Zilu, a young scholar in ancient Hanfu clothing, walking on a snowy path carrying a heavy sack of rice on his back. The background features a wintry landscape with distant mountains. The atmosphere should convey hardship and filial piety.
 
 * **相关生词**: 古代 (Ancient times), 背 (To carry on back), 米 (Rice).
 
@@ -497,7 +496,7 @@
 *(Do a small survey to find out what spring groups are in Ji'nan.)*
 
 
-> **[画像生成プロンプト]**: A scenic photo-style illustration of Baotu Spring in Ji'nan, China. Traditional Chinese pavilion by the water, three spouts of spring water gushing up, willow trees in the background.
+> **[画像生成プロンプト]**: A scenic illustration of the Baotu Spring in Ji'nan, China. The image features a traditional Chinese pavilion with a tiled roof standing by a clear blue pool. In the center of the pool, three distinct spouts of spring water are vigorously gushing upwards. Weeping willow trees surround the water. Realistic, serene landscape style.
 
 **2. 如果请你形容一下天然的泉水，你会想到哪些词语呢？**
 
@@ -601,9 +600,7 @@
 
 
 
-[Image of Chinese New Year Celebration]
-
-> **[画像生成プロンプト]**: Chinese New Year celebration scene. Family having dinner (dumplings), red lanterns, firecrackers, paper cutouts on windows. Warm and festive atmosphere.
+> **[画像生成プロンプト]**: A festive illustration of a Chinese New Year (Spring Festival) celebration. A Chinese family is gathered around a round table filled with traditional food like dumplings (jiaozi). Red lanterns hang from the ceiling, and 'Fu' (fortune) characters are on the wall. Outside the window, colorful fireworks are lighting up the night sky. Warm, joyful, and red-themed color palette.
 
 | 类别 | 中国 | 本国 |
 |---|---|---|
@@ -702,8 +699,7 @@
 **1. 请看下面的图片，试着找出本课跟它有关的生词。**
 *(Look at the picture below and try to find new words from this lesson related to it.)*
 
-![大象](elephant.png)
-> **[画像生成プロンプト]**: A realistic illustration of an elephant standing in a natural setting. The image should clearly show its tusks, trunk, ears, legs, and tail, suitable for a language textbook exercise about "Blind Men Touching an Elephant".
+> **[画像生成プロンプト]**: An illustration of the fable 'Blind Men and an Elephant'. A large, gentle elephant stands in the center. Four or five blind men in ancient robes are touching different parts of the elephant: one touching the trunk, one the tusk, one the ear, one the leg, and one the tail. Each man has an expression of discovery. Storybook illustration style.
 
 * **生词**: 大象 (Elephant), 牙齿 (Tooth), 耳朵 (Ear), 尾巴 (Tail), 腿 (Leg).
 
@@ -817,8 +813,12 @@
 
 **1. 你能用中文说出下面图片中的食物吗？**
 
-![食物金字塔](food_pyramid.png)
-> **[画像生成プロンプト]**: A food pyramid illustration with blank labels. Show sections for: Grains/Bread at the bottom, Fruits and Vegetables next, Fish/Meat/Milk in the middle, and Sweets/Ice cream at the very top. Simple cartoon style.
+> **[画像生成プロンプト]**: A nutritional food pyramid diagram divided into four sections.
+> * **Bottom (Base)**: Grains like bread, rice, and noodles.
+> * **Second Tier**: A variety of fresh fruits and vegetables.
+> * **Third Tier**: Proteins like fish, meat, milk, and eggs.
+> * **Top (Tip)**: Sweets, candy, and ice cream.
+> * **Style**: Simple, colorful cartoon style suitable for vocabulary learning.
 
 * **词汇**: 糖 (Candy), 冰激凌 (Ice cream), 蔬菜 (Vegetables), 鱼 (Fish), 肉 (Meat), 面包 (Bread).
 
@@ -921,8 +921,7 @@
 
 **1. 请说说照片里的人物是谁。关于他，你知道些什么？**
 
-![鲁迅](lu_xun.png)
-> **[画像生成プロンプト]**: A portrait illustration of the famous Chinese writer Lu Xun. He has a mustache, short hair, and is wearing a traditional Chinese long gown (changshan). Serious expression. Black and white sketch or ink style.
+> **[画像生成プロンプト]**: A portrait of the famous Chinese writer Lu Xun. He has short hair, a thick mustache, and a serious, intense expression. He is wearing a traditional Chinese long gown (changshan). The style should be a black and white sketch or charcoal drawing, reflecting the early 20th-century historical and literary context.
 
 ---
 
@@ -1004,8 +1003,7 @@
 
 **1. 请试着用本课的生词来描述下面的图片。**
 
-![奔跑的马](galloping_horse.png)
-> **[画像生成プロンプト]**: A realistic illustration of a brown horse galloping in a field. The horse's front legs are raised high, showing dynamic movement.
+> **[画像生成プロンプト]**: A dynamic, realistic illustration of a brown horse in full gallop. The horse is captured mid-stride with all four hooves off the ground, emphasizing speed and motion. The background is a blurred grassy field to suggest movement. This references Eadweard Muybridge's famous photographic experiment.
 
 * **描述**: 这是一位摄影师**拍**的照片。
 
@@ -1100,8 +1098,10 @@
 
 **2. 请从生词表中找出与睡眠有关的词语。**
 
-![睡眠](sleep.png)
-> **[画像生成プロンプト]**: A flat vector illustration of a person sleeping peacefully in a comfortable bed, with a digital alarm clock on the nightstand showing 7:00 AM. Soft morning light coming through the window.
+> **[画像生成プロンプト]**: A conceptual illustration of "Sleep and Alarm Clocks". A split composition.
+> * **Left side**: A person sleeping peacefully in a comfortable bed with soft, warm morning sunlight gently entering through the window (representing "Natural Waking").
+> * **Right side**: A close-up of a jarring, ringing alarm clock on a nightstand, with jagged lines indicating loud noise, contrasting with the peaceful scene (representing "Forced Waking").
+> * **Style**: Clean vector art or soft digital illustration suitable for a health topic.
 
 * **词语**: 闹钟 (Alarm clock), 睡眠 (Sleep), 失眠 (Insomnia), 睡懒觉 (Sleep in).
 
@@ -1218,8 +1218,7 @@
 
 **1. 你认识照片中的这个人吗？他在干什么？他跟本课的内容有什么关系？**
 
-![梅西](messi.png)
-> **[画像生成プロンプト]**: Illustration of Lionel Messi juggling a soccer ball, wearing a sports jersey. In the background or corner, a smartphone with the WeChat logo on the screen.
+> **[画像生成プロンプト]**: A realistic illustration or digital painting of the famous soccer player Lionel Messi. He is wearing a blue and red sports jersey, skillfully juggling a soccer ball with his knee or foot. In the foreground or corner, a smartphone screen is visible displaying the WeChat logo and a chat interface, linking the sport star to the app as described in the text.
 
 **2. 你平时主要通过什么方式跟家人或朋友联系？你使用过或正在使用微信这类产品吗？**
 
@@ -1324,8 +1323,7 @@
 
 **1. 请从生词表中找出合适的词语写在横线上。**
 
-![篮球框](basketball_hoop.png)
-> **[画像生成プロンプト]**: A simple diagram of a basketball hoop and backboard. Labels pointing to the backboard and the basket (net/rim).
+> **[画像生成プロンプト]**: A historical illustration depicting the invention of basketball in 1891. Inside an old-fashioned gymnasium, a wooden peach basket (not a modern net) is nailed to a balcony railing. A soccer ball (as used originally) is hovering near the rim. A ladder is leaning nearby, suggesting the manual retrieval of the ball. The atmosphere should feel vintage and educational.
 
 * **词语**: 篮板 (Backboard), 筐/篮筐 (Basket), 投篮 (Shoot), 球 (Ball).
 
@@ -1418,10 +1416,16 @@
 
 **1. 下面图片中的建筑，你知道哪些？请说一说它们分别是哪个国家的。**
 
-![世界建筑](landmarks.png)
-> **[画像生成プロンプト]**: Icons of world landmarks: Taj Mahal, Eiffel Tower, Pyramids, Statue of Liberty, Christ the Redeemer, Colosseum, Leaning Tower of Pisa, Sydney Opera House, Brandenburg Gate, Great Wall of China.
+> **[画像生成プロンプト]**: A collection of flat, colorful vector icons representing famous world landmarks, arranged in a grid.
+> * **Items to include**: The Eiffel Tower (Paris), The Statue of Liberty (New York), The Sydney Opera House (Sydney), The Colosseum (Rome), The Taj Mahal (India), The Great Wall (China), The Pyramids (Egypt), Christ the Redeemer (Rio), The Leaning Tower of Pisa.
+> * **Background**: White or light neutral color.
 
 **2. 你知道中国北京的四合院吗？**
+
+> **[画像生成プロンプト]**: A detailed architectural illustration of a traditional Beijing Quadrangle Courtyard (Siheyuan).
+> * **Perspective**: Isometric or bird's-eye view to show the layout clearly.
+> * **Elements**: Grey tiled roofs, a central square courtyard enclosed by four buildings (North, South, East, West rooms). In the center of the courtyard, there is a large tree (like a pomegranate or crabapple tree) and a goldfish bowl. Red doors and pillars.
+> * **Atmosphere**: Peaceful and traditional Chinese residential vibe.
 
 ---
 
@@ -1516,8 +1520,10 @@
 **1. 战国末期，秦国渐渐强大，最后打败其他六国，统一了中国。这段时期的历史你了解吗？请从图中找到秦国和赵国的位置。**
 *(In the late Warring States Period, the State of Qin gradually became powerful and finally defeated the other six states, unifying China. Do you know the history of this period? Please find the locations of Qin and Zhao in the map.)*
 
-![战国地图](warring_states_map.png)
-> **[画像生成プロンプト]**: A historical map of the Warring States Period in China. Highlighting the territories of the "Qin State" (West) and "Zhao State" (North). Simple, educational style with clear labels in Chinese characters "秦" (Qin) and "赵" (Zhao).
+> **[画像生成プロンプト]**: A historical map of China during the late Warring States Period. The map should look like an ancient scroll or parchment. It needs to clearly highlight two specific territories with Chinese labels:
+> * **秦 (Qin)**: Located in the West.
+> * **赵 (Zhao)**: Located in the North/Central area.
+> * **Style**: Educational map style, clear boundaries, muted historical colors (browns, beiges, faded greens).
 
 **2. 请从生词表中找出与军事有关的词语写在横线上。**
 
@@ -1619,8 +1625,10 @@
 
 **1. 看图片，说说你想到的与这张图片有关的词语。**
 
-![体重秤](food_scale.png)
-> **[画像生成プロンプト]**: A top-down view photo illustration of a bathroom scale or a kitchen food scale with an apple and a measuring tape next to it. Theme: Diet and weight control.
+> **[画像生成プロンプト]**: A top-down photography-style illustration representing "Weight and Diet".
+> * **Center**: A white bathroom scale showing a weight reading.
+> * **Surroundings**: Arranged neatly around the scale are healthy diet items: a green apple, a measuring tape curled into a shape, a fork and knife, and perhaps a glass of water.
+> * **Lighting**: Bright, clean, high-key lighting implying health and scientific research.
 
 * **词语**: 体重 (Weight), 减肥 (Lose weight), 卡路里 (Calories), 健康 (Health).
 
@@ -1717,8 +1725,10 @@
 
 **1. 请看下面的图片，试着找出本课生词中跟它们有关的词语。**
 
-![开幕式](opening_ceremony.png)
-> **[画像生成プロンプト]**: A grand stage scene of a Beijing Opera performance with colorful costumes and makeup. Next to it, a photo of a formal opening ceremony conference with leaders sitting at a long table with microphones.
+> **[画像生成プロンプト]**: A composite image showing two different types of "performances" mentioned in the lesson.
+> * **Left**: A performer in traditional Beijing Opera costume (elaborate headdress, colorful face paint) performing on stage.
+> * **Right**: A formal opening ceremony scene. Officials in suits sitting at a long table with microphones, a red banner with Chinese characters in the background.
+> * **Style**: Realistic digital illustration.
 
 * **生词**: 戏剧 (Drama/Opera), 开幕式 (Opening ceremony), 化妆 (Make-up), 服装 (Costume).
 
@@ -1810,8 +1820,10 @@
 
 **1. 请看下面的图片，说一说哪一幅是抽象艺术的作品，哪一幅是古典艺术的作品。**
 
-![艺术作品](art_styles.png)
-> **[画像生成プロンプト]**: Two framed paintings side-by-side. Left: Abstract art style (colorful geometric shapes, irregular lines, like Picasso or Kandinsky). Right: Classical art style (realistic portrait of a man in vintage clothing, like 19th-century realism).
+> **[画像生成プロンプト]**: An image comparing two framed paintings hanging on a gallery wall side-by-side.
+> * **Left Painting (Abstract)**: A chaotic but artistic composition of colorful geometric shapes, irregular lines, and splashes of paint (resembling Kandinsky or Pollock).
+> * **Right Painting (Classical)**: A realistic, traditional oil painting of a person sitting in a chair (resembling 19th-century realism).
+> * **Context**: A museum setting with soft lighting focusing on the artwork.
 
 **2. 你最喜欢你们国家的哪位著名艺术家？**
 
