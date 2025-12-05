@@ -2,56 +2,42 @@
 
 ## 目次
 
-- [Unit 1: 了解生活](#hsk-standard-course-5-part-a---unit-1-了解生活)
-  - [第1课 爱的细节](#第1课-爱的细节-details-of-love)
-  - [第2课 留串钥匙给父母](#第2课-留串钥匙给父母-leaving-a-bunch-of-keys-to-our-parents)
-  - [第3课 人生有选择, 一切可改变](#第3课-人生有选择-一切可改变)
-- [Unit 2: 谈古说今](#hsk-standard-course-5-part-a---unit-2-谈古说今-talking-about-the-past-and-the-present)
-  - [第4课 子路背米](#第4课-子路背米-zilu-carrying-rice)
-  - [第5课 济南的泉水](#第5课-济南的泉水-spring-water-in-jinan)
-  - [第6课 除夕的由来](#第6课-除夕的由来-origin-of-chuxi)
-- [Unit 3: 倾听故事](#hsk-standard-course-5-part-a---unit-3-倾听故事-listening-to-stories-and-anecdotes)
-  - [第7课 成语故事两则](#第7课-成语故事两则-two-idiom-stories)
-  - [第8课 "朝三暮四"的古今义](#第8课-朝三暮四的古今义-three-at-dawn-and-four-at-dusk)
-  - [第9课 别样鲁迅](#第9课-别样鲁迅-the-lu-xun-you-dont-know)
-  - [第10课 争论的奇迹](#第10课-争论的奇迹-miracle-of-debate)
-- [Unit 4: 走近科学](#hsk-standard-course-5-part-a---unit-4-走近科学-approaching-science)
-  - [第11课 闹钟的危害](#第11课-闹钟的危害-harm-of-alarm-clocks)
-  - [第12课 海外用户玩儿微信](#第12课-海外用户玩儿微信-overseas-users-of-wechat)
-- [Unit 5: 放眼世界](#hsk-standard-course-5-part-a---unit-5-放眼世界-seeing-the-world)
-  - [第13课 锯掉生活的"筐底"](#第13课-锯掉生活的筐底-cutting-off-the-bottom-of-the-basket-in-life)
-  - [第14课 北京的四合院](#第14课-北京的四合院-quadrangle-courtyards-in-beijing)
-- [Unit 6: 修养身心](#hsk-standard-course-5-part-a---unit-6-修养身心-cultivating-physical-and-mental-health)
-  - [第15课 纸上谈兵](#第15课-纸上谈兵-being-an-armchair-strategist)
-  - [第16课 体重与节食](#第16课-体重与节食-weight-and-diet)
-  - [第17课 在最美好的时刻离开](#第17课-在最美好的时刻离开-ending-at-the-best-moment)
-  - [第18课 抽象艺术美不美](#第18课-抽象艺术美不美-abstract-art-beautiful-or-not)
+- [第1课 爱的细节](#第1课-爱的细节-details-of-love)
+- [第2课 留串钥匙给父母](#第2课-留串钥匙给父母-leaving-a-bunch-of-keys-to-our-parents)
+- [第3课 人生有选择, 一切可改变](#第3课-人生有选择-一切可改变-having-choices-in-life-makes-change-possible)
+- [第4课 子路背米](#第4课-子路背米-zilu-carrying-rice)
+- [第5课 济南的泉水](#第5课-济南的泉水-spring-water-in-jinan)
+- [第6课 除夕的由来](#第6课-除夕的由来-origin-of-chuxi)
+- [第7课 成语故事两则](#第7课-成语故事两则-two-idiom-stories)
+- [第8课 "朝三暮四"的古今义](#第8课-朝三暮四的古今义-three-at-dawn-and-four-at-dusk)
+- [第9课 别样鲁迅](#第9课-别样鲁迅-the-lu-xun-you-dont-know)
+- [第10课 争论的奇迹](#第10课-争论的奇迹-miracle-of-debate)
+- [第11课 闹钟的危害](#第11课-闹钟的危害-harm-of-alarm-clocks)
+- [第12课 海外用户玩儿微信](#第12课-海外用户玩儿微信-overseas-users-of-wechat)
+- [第13课 锯掉生活的"筐底"](#第13课-锯掉生活的筐底-cutting-off-the-bottom-of-the-basket-in-life)
+- [第14课 北京的四合院](#第14课-北京的四合院-quadrangle-courtyards-in-beijing)
+- [第15课 纸上谈兵](#第15课-纸上谈兵-being-an-armchair-strategist)
+- [第16课 体重与节食](#第16课-体重与节食-weight-and-diet)
+- [第17课 在最美好的时刻离开](#第17课-在最美好的时刻离开-ending-at-the-best-moment)
+- [第18课 抽象艺术美不美](#第18课-抽象艺术美不美-abstract-art-beautiful-or-not)
 
----
-
-# HSK Standard Course 5 (Part A) - Unit 1: 了解生活
+-----
 
 ## 第1课 爱的细节 (Details of Love)
 
 ### 【热身】 (Warm-up)
 
-**1. 你知道人体各个部位用汉语怎么说吗？**
-*(Do you know the Chinese names for various body parts?)*
+**1. 你知道人体各个部位用汉语怎么说吗？请试着为下图这些部位填上中文名称。**
 
+![人体部位図](body_parts_diagram.png)
+> **[画像生成プロンプト]**: An educational diagram of the human body (male figure, standing, front view) for a Chinese language textbook. The image features blank lines pointing to specific body parts for labeling. The parts indicated are: head (脑袋), neck (脖子), shoulder (肩膀), chest (胸), back (后背), waist (腰), hand (手指), and leg. The style is clean, simple line art suitable for a language learning context.
 
+* **参考词汇**: 脑袋 (nǎodai), 脖子 (bózi), 肩膀 (jiānbǎng), 胸 (xiōng), 腰 (yāo), 后背 (hòubèi), 手指 (shǒuzhǐ).
 
-> **[画像生成プロンプト]**: An educational diagram of the human body for a Chinese language textbook. A clear, gender-neutral figure standing facing forward. The image should highlight specific body parts with lines or arrows pointing to them for labeling: head, neck, shoulder, chest, back, waist, hand, and fingers. Clean vector line art style on a white background, no text labels included.
+**2. 你知道哪些与说话或口部动作有关的动词？请写在下面的横线上，并说说它们是什么意思。**
 
-* **参考词汇 (Vocabulary)**:
-    * **头/脸部**: 脑袋 (nǎodai - head), 眉毛 (méimao - eyebrow), 牙齿 (yáchǐ - tooth), 嗓子 (sǎngzi - throat)
-    * **上半身**: 脖子 (bózi - neck), 肩膀 (jiānbǎng - shoulder), 胸 (xiōng - chest), 后背 (hòubèi - back)
-    * **手/腕**: 手指 (shǒuzhǐ - finger)
-    * **下半身**: 腰 (yāo - waist)
-
-**2. 你知道哪些与说话或口部动作有关的动词？**
-
-* **本课生词中的**: 抱怨 (bàoyuàn - to complain)
-* **其他**: 喊 (shout), 吵 (quarrel), 咬 (bite), 吃 (eat), 喝 (drink).
+* **本课生词中的**: 抱怨
+* **其他你知道的**: ____________________
 
 ---
 
@@ -73,7 +59,7 @@
 
 最后的结果是，电台增加了两项奖项，将第一对夫妻评为“患难与共夫妻”，将第二对夫妻评为“相敬如宾夫妻”，而真正的“最恩爱夫妻”奖，却给了第三对夫妻。
 
-*(改编自《今日文摘》)*
+[cite_start][cite: 36-93]
 
 ---
 
@@ -83,68 +69,192 @@
 |---|---|---|---|---|
 | 1 | 细节 | xìjié | n. | detail |
 | 2 | 电台 | diàntái | n. | radio station |
-| 3 | *恩爱 | ēn'ài | adj. | loving (spouses) |
-| 4 | 对比 | duìbǐ | v. | to compare |
+| 3 | *恩爱 | ēn'ài | adj. | (of husband and wife) loving |
+| 4 | 对比 | duìbǐ | v. | to compare, to contrast |
 | 5 | *入围 | rùwéi | v. | to be shortlisted |
-| 6 | *评委 | píngwěi | n. | judge/panel member |
+| 6 | *评委 | píngwěi | n. | judge, member of a judging panel |
 | 7 | 如何 | rúhé | pron. | how |
 | 8 | 瘫痪 | tānhuàn | v. | to be paralyzed |
 | 9 | 离婚 | lí hūn | v. | to divorce |
 | 10 | 自杀 | zìshā | v. | to commit suicide |
 | 11 | 抱怨 | bàoyuàn | v. | to complain |
-| 12 | 爱护 | àihù | v. | to take care of |
+| 12 | 爱护 | àihù | v. | to take good care of |
 | 13 | 婚姻 | hūnyīn | n. | marriage |
 | 14 | 吵架 | chǎo jià | v. | to quarrel |
-| 15 | 相敬如宾 | xiāngjìng-rúbīn | | respect each other like guests |
-| 16 | 暗暗 | àn'àn | adv. | secretly |
+| 15 | 相敬如宾 | xiāngjìng-rúbīn | | (of husband and wife) to respect each other like guests |
+| 16 | 暗暗 | àn'àn | adv. | secretly, to oneself |
 | 17 | 轮 | lún | v. | to take turns |
 | 18 | 不耐烦 | bú nàifán | | impatient |
 | 19 | 靠 | kào | v. | to lean against |
 | 20 | 肩膀 | jiānbǎng | n. | shoulder |
-| 21 | 喊 | hǎn | v. | to shout |
-| 22 | 伸 | shēn | v. | to stretch/extend |
+| 21 | 喊 | hǎn | v. | to shout, to call |
+| 22 | 伸 | shēn | v. | to stretch, to extend |
 | 23 | 手指 | shǒuzhǐ | n. | finger |
-| 24 | 歪歪扭扭 | wāiwāiniǔniǔ | adj. | crooked |
-| 25 | 递 | dì | v. | to hand over |
+| 24 | 歪歪扭扭 | wāiwāiniǔniǔ | adj. | crooked, askew |
+| 25 | 递 | dì | v. | to hand over, to pass |
 | 26 | 脑袋 | nǎodai | n. | head |
-| 27 | 女士 | nǚshì | n. | lady/madam |
+| 27 | 女士 | nǚshì | n. | lady, madam |
 | 28 | 叙述 | xùshù | v. | to narrate |
-| 29 | 居然 | jūrán | adv. | unexpectedly |
-| 30 | 催 | cuī | v. | to urge |
+| 29 | 居然 | jūrán | adv. | indicating unexpectedness |
+| 30 | 催 | cuī | v. | to urge, to push |
 | 31 | 等待 | děngdài | v. | to wait |
 | 32 | 蚊子 | wénzi | n. | mosquito |
 | 33 | 半夜 | bànyè | n. | midnight |
-| 34 | *叮 | dīng | v. | to sting/bite |
+| 34 | *叮 | dīng | v. | to bite, to sting |
 | 35 | 老婆 | lǎopo | n. | wife |
-| 36 | 吵 | chǎo | v./adj. | to make noise/noisy |
-| 37 | 项 | xiàng | m. | item measure word |
-| 38 | *患难与共 | huànnàn-yǔgòng | | share weal and woe |
+| 36 | 吵 | chǎo | v./adj. | to make a noise; noisy |
+| 37 | 项 | xiàng | m. | used for itemized things |
+| 38 | *患难与共 | huànnàn-yǔgòng | | to share weal and woe |
 
 ---
 
 ### 【注释】 (Notes)
 
-1.  **如何 (rúhé)**: How. (Formal). Used to ask about method or condition.
-    * *Ex:* 这个问题该**如何**解决？
-2.  **靠 (kào)**: To lean against; to rely on; near.
-    * *Ex:* **靠**着桌子; 在家**靠**父母; 座位是**靠**窗的。
-3.  **居然 (jūrán)**: Unexpectedly; to one's surprise.
-    * *Ex:* 你**居然**也不会做？
+#### 1. 如何 (rúhé)
+“如何”，代词，用来询问方式。例如：
+(1) 我们明天举行会议，讨论这个问题该**如何**解决。
+(2) 评委叫第一对夫妻说说他俩是**如何**恩爱的。
+
+“如何”也常用于句末，用来征求意见或询问状况。例如：
+(3) 我们希望由你来负责解决这个问题，**如何**？
+(4) “80后”们月收入情况**如何**？
+
+* **练一练**: 完成句子或对话
+    (1) 请你说一说，__________________？ (如何)
+    (2) A: __________________？ (如何)
+        B: 他们相敬如宾，关系很好。
+    (3) A: 你能不能简单地叙述一下那部电影的内容？
+        B: __________________ (如何)
+
+#### 2. 靠 (kào)
+“靠”，动词，常见格式为“靠着/在……”，把身体的部分重量让别人或物体支撑。例如：
+(1) 王老师喜欢**靠**着桌子讲课。
+(2) ……男人的头**靠**在女人的肩膀上，睡着了。
+
+“靠”，也表示依靠，得益于。例如：
+(3) “在家**靠**父母，出门**靠**朋友”，有什么事情我能帮忙的，你们尽管开口。
+(4) 没有一个人可以完全不**靠**别人而生活。
+
+“靠”，还表示接近。例如：
+(5) 我的座位是17号，是**靠**窗的座位。
+(6) 以后我一定要买一个**靠**海的房子，这样我每天都能听到大海的声音。
+
+* **练一练**: 完成句子或对话
+    (1) 快要到站了，你别__________________，不安全。 (靠)
+    (2) A: 下个星期的考试，你需要我帮忙吗？
+        B: __________________ (靠)
+    (3) A: 您好，请给我登机牌。
+        B: 好的，__________________？ (靠)
+
+#### 3. 居然 (jūrán)
+“居然”，副词，表示没想到、出乎意料。例如：
+(1) 这么简单的题，你**居然**也不会做？上课时都干什么去了？
+(2) 没想到**居然**在这儿碰到你！你也去上海？
+(3) 这个女人为了不影响丈夫睡觉，**居然**放弃这次机会！
+
+* **练一练**: 完成句子或对话
+    (1) 我快被气死了！__________________ (居然)
+    (2) A: 你听说了吗？小王和小李离婚了！
+        B: __________________ (居然)
+    (3) A: __________________ (居然)
+        B: 是啊，比赛之前我以为他肯定会赢呢。
+
+---
+
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **抱怨** 别人/妻子/餐厅的菜不好吃 <br> **爱护** 环境/花草树木/公物/学生 |
+| **定语 + 中心语** | 电影(的)/小说(的)/生活(的) **细节** <br> **电台**(的) 记者/广播/新闻 |
+| **状语 + 中心语** | 简单(地)/详细(地) **对比** <br> 大声(地)/兴奋地/对他 **喊** |
+| **中心语 + 补语** | **伸** 出(来)/进(去)/开/到…… <br> **吵** 醒/死了 |
+| **数量词 + 名词** | **一项** 运动/工作/任务/计划/技术/研究/调查/奖项 |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**如何 (rúhé) vs 怎么 (zěnme)**
+
+| 特点 | 如何 | 怎么 |
+|---|---|---|
+| **共同点** | 都是代词，都可用于询问方式。<br>如：只有知道**如何/怎么**停止的人，才知道**如何/怎么**高速前进。 | |
+| **不同点** | 1. 多用于书面语。<br>如：该**如何**爱护我们的地球？ | 1. 可用于口语。<br>如：你今天是**怎么**来的？ |
+| | 2. 不能用于询问原因。 | 2. 可用于询问原因。<br>如：今天**怎么**这么冷？ |
+| | 3. 可用于句末表示询问状况或征求意见。<br>如：最近身体**如何**？ | 3. 可用于句首表示惊讶。<br>如：**怎么**，你不认识我了？！ |
+
+* **做一做**: 选词填空 (如何 / 怎么)
+    (1) 他向经理叙述了自己是______解决这个问题的。
+    (2) 你______这么不耐烦？
+    (3) 谁知道他们是______吵起来的？
+    (4) 听说你去电台工作了？情况______？
 
 ---
 
 ### 【练习】 (Exercises)
 
-**1. 选词填空 (催, 递, 喊, 项, 爱护, 抱怨, 等待)**
-* 她从小就 ( ) 小动物。
-* 请大家耐心地 ( ) 一会儿，不要 ( ) 他。
-* 请把那本杂志 ( ) 给我。
-* 不要总是 ( ) 别人，要想想能不能改变自己。
+**1. 选择合适的词语填空**
+(催, 递, 喊, 项, 爱护, 抱怨, 等待)
 
-**2. 辨析: 如何 vs 怎么**
-* 他向经理叙述了自己是 ( ) 解决这个问题的。(Both ok)
-* 你 ( ) 这么不耐烦？(怎么 - asking cause)
-* 听说你去电台工作了？情况 ( ) ？(如何 - asking condition)
+1. 她从小就 ( ) 小动物。
+2. 关于这段对话，下面哪 ( ) 是正确的？
+3. 请大家耐心地 ( ) 一会儿，不要 ( ) 他。
+4. 请把那本杂志 ( ) 给我。
+5. 火车快到的时候你 ( ) 我一声。
+6. 不要总是 ( ) 别人，要想想能不能改变自己。
+
+**2. 选择正确答案**
+
+1. 你的病都好了吗？现在感觉 ( ) ？ (A. 如何 B. 怎么)
+2. 电视里广告太多让观众感到很不 ( ) (A. 耐心 B. 耐烦)
+3. 这儿太 ( ) 了，我们换个地方吧。 (A. 吵 B. 吵架)
+4. 他这么年轻，没想到 ( ) 是一位著名的作家。(A. 居然 B. 仍然)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 如果A是你B，你会选择C如何D呢？ (如何)
+2. 你跟A你的同屋B吵C架D吗？ (过)
+3. A机会是要B自己努力C去D获得的。 (靠)
+4. 请不要把头B到车窗外C去D。 (伸)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 第一对夫妻 | 离婚、自杀、抱怨、爱护 | |
+| 第二对夫妻 | 婚姻、吵架、暗暗 | |
+| 第三对夫妻 | 不耐烦、靠、喊、伸、催、等待、半夜、吵 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 人体 (Human Body)**
+
+* **词语**: 脑袋 (nǎodai), 脖子 (bózi), 肩膀 (jiānbǎng), 胸 (xiōng), 腰 (yāo), 后背 (hòubèi), 手指 (shǒuzhǐ), 眉毛 (méimao), 嗓子 (sǎngzi), 牙齿 (yáchǐ).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 你的 ( ) 好像一边高一边低，我建议你去买个双肩包。
+2. 早上起来，伸个懒 ( )，真舒服！
+3. 他长着两条又黑又粗的 ( )，一双大大的眼睛。
+4. 讲了一天的课，老师的 ( ) 都疼了。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+在这个世界上，人和人之间会有各种各样的关系，比如同学关系、同事关系、邻居关系等，而人际关系中最亲密的一种关系，应该是夫妻关系了。无论是中国人还是外国人，都很重视自己的婚姻。有人认为夫妻之间最重要的是恩爱，有人说是诚实，也有人说是关爱和理解。相信你对课文中讲的三对夫妻的故事也会有自己的看法。
+
+**话题讨论: 理想的夫妻关系是什么样的?**
+1. 本文提到的三对夫妻中，哪对夫妻给你留下的印象最深？
+2. 这对夫妻的什么地方让你感动？为什么？
+3. 你认为理想的夫妻关系应该是什么样的？
+
+**命题写作:**
+请以“**理想的夫妻关系**”为题写一段话。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -152,11 +262,18 @@
 
 ### 【热身】 (Warm-up)
 
-**1. 你了解汉语中表示亲戚关系的词语吗？**
+**1. 你了解汉语中表示亲戚关系的词语吗？请试着为下边的关系树填上合适的称呼。**
 
-> **[画像生成プロンプト]**: A family tree diagram illustrating Chinese kinship terms. The layout should be hierarchical: Top row showing Paternal Grandparents (Grandpa, Grandma) and Maternal Grandparents. Middle row showing Parents (Father, Mother) and their siblings (Father's older/younger brothers, Father's sisters, Mother's brothers, Mother's sisters). Bottom row showing 'Me' in the center, with an Older Brother and a Cousin. Simple, clear infographic style with icons for each family member.
+![家系図](family_tree_diagram.png)
+> **[画像生成プロンプト]**: A family tree diagram illustrating Chinese kinship terms. The layout is hierarchical.
+> * **Top row**: "爷爷" and "奶奶" (Paternal Grandparents) on the left, "姥爷" and "姥姥" (Maternal Grandparents) on the right.
+> * **Second row**: Lines connecting grandparents to parents. "爸爸" and "妈妈" in the center. On Father's side: "伯伯/叔叔" and "姑姑". On Mother's side: "舅舅" and "姨妈".
+> * **Third row**: "我" in the center. "哥哥" and "嫂子" (Sister-in-law) on one side. "堂妹" (Cousin) on the other.
+> * **Style**: Clear, educational infographic style with blank boxes for the user to fill in, or icons representing each family member.
 
 * **参考词汇**: 爷爷 (Grandpa), 奶奶 (Grandma), 姥姥 (Maternal Grandma), 舅舅 (Uncle), 姑姑 (Aunt).
+
+**2. 在你们国家，一般怎么称呼家人和亲戚？跟中国人的称呼有什么不同？**
 
 ---
 
@@ -174,7 +291,7 @@
 
 父亲说：“你妈昨天接到电话，知道你们今晚回来，今天来新房忙了一天了。”原来父母要我留下串钥匙，只是为了让我们回来时，能立刻感受到家的温暖！我鼻子一酸，流下了热泪……
 
-*(改编自《中国电视报》)*
+[cite_start]*(改编自《中国电视报》，作者：陈程)* [cite: 178-223]
 
 ---
 
@@ -182,65 +299,200 @@
 
 | # | 词语 | 拼音 | 词性 | 英文释义 |
 |---|---|---|---|---|
-| 1 | 串 | chuàn | m. | bunch/string |
+| 1 | 串 | chuàn | m. | bunch, string |
 | 2 | 一辈子 | yíbèizi | n. | all one's life |
 | 3 | 农村 | nóngcūn | n. | countryside |
 | 4 | 屋(子) | wū(zi) | n. | house |
-| 5 | 断 | duàn | v. | to cut off |
+| 5 | 断 | duàn | v. | to cut off, to stop |
 | 6 | 以来 | yǐlái | n. | since |
 | 7 | 姥姥 | lǎolao | n. | maternal grandma |
-| 8 | 舅舅 | jiùjiu | n. | uncle (mother's brother) |
-| 9 | 姑姑 | gūgu | n. | aunt (father's sister) |
-| 10 | 坚决 | jiānjué | adj. | resolute |
-| 11 | 打工 | dǎ gōng | v. | to work (temp job) |
+| 8 | 舅舅 | jiùjiu | n. | uncle, mother's brother |
+| 9 | 姑姑 | gūgu | n. | aunt, father's sister |
+| 10 | 坚决 | jiānjué | adj. | resolute, determined |
+| 11 | 打工 | dǎ gōng | v. | to work for others, to do a temporary job |
 | 12 | 挣 | zhèng | v. | to earn |
 | 13 | 县 | xiàn | n. | county |
-| 14 | 套 | tào | m. | set/suite |
-| 15 | 装修 | zhuāngxiū | v. | to decorate |
-| 16 | 不得了 | bùdéliǎo | adj. | extreme |
+| 14 | 套 | tào | m. | set, suite |
+| 15 | 装修 | zhuāngxiū | v. | to decorate (a house, room, etc.) |
+| 16 | 不得了 | bùdéliǎo | adj. | extreme, exceeding |
 | 17 | 醉 | zuì | v. | to be drunk |
-| 18 | 强烈 | qiángliè | adj. | strong/vehement |
+| 18 | 强烈 | qiángliè | adj. | strong and vehement |
 | 19 | 夜 | yè | n. | night |
-| 20 | 锁 | suǒ | n./v. | lock |
-| 21 | 临 | lín | prep. | about to/just before |
-| 22 | 悄悄 | qiāoqiāo | adv. | quietly/secretly |
-| 23 | 晒 | shài | v. | to dry in sun |
+| 20 | 锁 | suǒ | n./v. | lock; to lock up |
+| 21 | 临 | lín | prep. | about to, just before |
+| 22 | 悄悄 | qiāoqiāo | adv. | quietly, secretly |
+| 23 | 晒 | shài | v. | to dry in the sun |
 | 24 | 被子 | bèizi | n. | quilt |
 | 25 | 长途 | chángtú | adj. | long-distance |
-| 26 | 冻 | dòng | v. | to freeze |
+| 26 | 冻 | dòng | v. | to freeze, to feel very cold |
 | 27 | 想象 | xiǎngxiàng | v. | to imagine |
-| 28 | 灰尘 | huīchén | n. | dust |
-| 29 | 亮 | liàng | adj./v. | bright/to shine |
-| 30 | 微笑 | wēixiào | v./n. | smile |
-| 31 | 温暖 | wēnnuǎn | adj. | warm |
-| 32 | 立刻 | lìkè | adv. | immediately |
-| 33 | 扑 | pū | v. | to pounce on |
+| 28 | 灰尘 | huīchén | n. | dust, dirt |
+| 29 | 亮 | liàng | adj./v. | bright; to shine |
+| 30 | 微笑 | wēixiào | v./n. | to smile; smile |
+| 31 | 温暖 | wēnnuǎn | adj./v. | warm; to make sb./sth. warm |
+| 32 | 立刻 | lìkè | adv. | at once, immediately |
+| 33 | 扑 | pū | v. | to pounce on, to dash at |
 | 34 | 卧室 | wòshì | n. | bedroom |
-| 35 | 铺 | pū | v. | to spread |
-| 36 | 飘 | piāo | v. | to float/waft |
-| 37 | 阵 | zhèn | m. | short period |
-| 38 | 感受 | gǎnshòu | v./n. | to feel |
+| 35 | 铺 | pū | v. | to spread, to unfold |
+| 36 | 飘 | piāo | v. | to float (in the air), to waft |
+| 37 | 阵 | zhèn | m. | used for a short period of an occurrence |
+| 38 | 感受 | gǎnshòu | v./n. | to feel; feeling |
 | 39 | 流泪 | liú lèi | v. | to shed tears |
 
 ---
 
 ### 【注释】 (Notes)
 
-1.  **以来 (yǐlái)**: Since. Indicates a period from a past time until now.
-    * *Ex:* 改革开放**以来**...
-2.  **临 (lín)**: About to / Just before.
-    * *Ex:* **临**走那天... (Just before leaving)
-3.  **立刻 (lìkè)**: Immediately.
-    * *Ex:* 温暖的气息**立刻**扑面而来。
+#### 1. 以来 (yǐlái)
+名词，“……以来”表示从过去某时到现在的一段时间。例如：
+(1) 改革开放**以来**，中国发生了巨大的变化。
+(2) 因此长年**以来**，父母很少离开老屋……
+(3) 一直**以来**，“80后”这个词儿都含有年轻的味道。
+
+* **练一练**: 完成句子或对话
+    (1) 到中国**以来**，__________________。
+    (2) A: 他们夫妻俩的关系怎么样？
+        B: __________________ (以来)
+    (3) A: 最近这几年空气污染比较严重。
+        B: __________________ (以来)
+
+#### 2. 临 (lín)
+动词，表示靠近、对着。
+(1) 我想买一套不**临**街的房子，这样不会太吵。
+(2) **临**江新修了一条路，晚饭后很多人都去那儿散步。
+
+介词，“临……(时/前)”表示快到某一行为发生的时间。
+(3) 这是我**临**离开北京的时候买的。
+(4) **临**走那天，父亲从老家赶来送我们。
+
+* **练一练**: 完成对话
+    (1) A: 你觉得这套房子怎么样？
+        B: __________________ (临)
+    (2) A: 你一个人来中国，你的爸爸妈妈放心吗？
+        B: __________________ (临)
+    (3) A: 你卧室里的新被子真漂亮，哪儿买的？
+        B: __________________ (临)
+
+#### 3. 立刻 (lìkè)
+副词，“立刻+动词”表示马上，强调一个动作紧接着前一个动作发生。
+(1) 上了楼，开门的竟是微笑着的父母，温暖的气息**立刻**扑面而来……
+(2) 原来父母要我留下串钥匙，只是为了让我们回来时，能**立刻**感受到家的温暖！
+(3) 那两只羊一见到青草，就**立刻**去吃草了，哪还有心思打架呢？
+
+* **练一练**: 完成句子或对话
+    (1) 一下课，__________________ (立刻)
+    (2) 我快被气死了！__________________ (立刻)
+    (3) A: 你能帮我通知他这件事吗？
+        B: __________________ (立刻)
 
 ---
 
-## 第3课 人生有选择, 一切可改变
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **断** 水/电/联系 <br> **晒** 被子/衣服/太阳 |
+| **定语 + 中心语** | **强烈的** 阳光/感情/对比 <br> **长途** 旅行/汽车/电话 |
+| **状语 + 中心语** | **一辈子** 住在农村/没出过国 <br> **坚决** 反对/改正 |
+| **中心语 + 补语** | **打/挣** 断 <br> **热/累/急/兴奋/热闹** 得 **不得了** |
+| **数量词 + 名词** | **一套** 房子/家具/餐具/邮票/西服 <br> **一阵** 风/雨/歌声/香味 |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**悄悄 (qiāoqiāo) vs 偷偷 (tōutōu)**
+
+| 特点 | 悄悄 | 偷偷 |
+|---|---|---|
+| **共同点** | 都是副词，都有做事不让人发现的意思。如：他**悄悄/偷偷**地走了出去。 | |
+| **不同点** | 强调声音很小。<br>如：父亲**悄悄**把我拉到一边说话。 | 强调行为不愿被人知道。<br>如：他谁也没告诉，**偷偷**去旅行了。 |
+
+* **做一做**: 选词填空
+    (1) 晚饭前姑姑就一个人 ______ 地走了。 (悄悄/偷偷)
+    (2) 考试已经开始了，他才 ______ 走进来。 (悄悄)
+    (3) 孩子睡着了，爸爸 ______ 在妈妈耳边说了几句话。 (悄悄)
+    (4) 别人都不知道，她只是 ______ 地把这件事告诉了我。 (偷偷)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(断, 套, 锁, 挣, 长途, 打工, 强烈, 想象)
+
+1. 我不能 ( ) 她喝醉了会是什么样子。
+2. 你觉得我穿这 ( ) 西服去电视台参加节目怎么样？
+3. 国际 ( ) 电话很贵，现在我们一般上网聊天儿。
+4. 因为同学们 ( ) 要求，我们决定这个周末出去活动。
+5. 房门被反 ( ) 上了，他从窗户里跳出来，把腿摔 ( ) 了。
+6. 暑假的时候我想去 ( ) 两个月，( ) 点儿钱。
+
+**2. 选择正确答案**
+
+1. 他的态度很 ( )，恐怕不会改变主意了。 (A. 坚决 B. 坚持)
+2. ( ) 只有一个星期了，春节就要到了。 (A. 立刻 B. 马上)
+3. 最近气温太低，河里的水都被 ( ) 住了。 (A. 冻 B. 冷)
+4. 女服务员给了我一个 ( ) 的微笑。 (A. 暖和 B. 温暖)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 虽然她全身A瘫痪了，但B我会照顾C她D。 (一辈子)
+2. A了，他们俩B大吵了一架D！ (不得了)
+3. 他A病了，B老师和同学们C把他D送进了医院。 (立刻)
+4. A花园里B飘来C花D香。 (一阵)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 父母的习惯 | 一辈子、以来、坚决 | |
+| 小夫妻的新房 | 打工、装修、不得了、醉、强烈 | |
+| 去打工之前 | 锁、临、悄悄、被子 | |
+| 去打工之后 | 长途、想象、亮、微笑、温暖、立刻、流泪 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 亲属称谓 (Kinship Terms)**
+* **词语**: 外公 (wàigōng), 姥姥 (lǎolao), 姑姑 (gūgu), 舅舅 (jiùjiu), 老婆 (lǎopo), 太太 (tàitai), 兄弟 (xiōngdi).
+
+**话题: 交往 (Social Contact)**
+* **词语**: 小气 (xiǎoqi), 周到 (zhōudào), 坦率 (tǎnshuài).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 妈妈说她哥哥明天会从老家来，我还从来没见过这个 ( ) 呢。
+2. ( ) 地说，我觉得你不应该这么做。
+3. 你怎么这么 ( ) 啊？好朋友借点儿钱都不愿意。
+4. 这次来北京参加会议，你们照顾得非常 ( )，非常感谢！
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+人们常说，父母对子女的爱是无私(wúsī, selfless)的、伟大(wěidà, great)的。父母对孩子的关心和照顾，不只是在孩子小的时候。即使孩子已经长大、自己已经变老，父母们也会继续为子女付出很多，只不过，爱的方式(fāngshì, way, manner)和以前不同了。
+
+**话题讨论: 父母对子女的爱——最无私的爱**
+
+1. 你同意“父母对子女的爱是无私和伟大的”这种说法吗？
+2. 你觉得课文中的这对父母一开始拒绝接受孩子新房钥匙的原因是什么？
+3. 请说说你记得最清楚的父母关心你、爱你的一件事。
+
+**命题写作:**
+请以“**最深的爱**”为题写一段话，谈谈你对课文中父母的表现有什么看法，并说说你和自己父母亲的关系。字数不少于100字。
+
+---
+
+## 第3课 人生有选择, 一切可改变 (Having Choices in Life Makes Change Possible)
 
 ### 【热身】 (Warm-up)
 
 **1. 请说说下列图标各代表什么样的天气现象。**
 
+![天気アイコン](weather_icons.png)
 > **[画像生成プロンプト]**: A set of 6 distinct weather icons in a flat, colorful vector style.
 > 1. **Overcast**: A grey cloud covering the sky.
 > 2. **Sunny**: A bright yellow sun with rays.
@@ -249,7 +501,9 @@
 > 5. **Thunder Shower**: A dark cloud with a lightning bolt and rain drops.
 > 6. **Rain turning Sunny**: A rain cloud moving away to reveal a bright sun.
 
-* **词汇**: 阴 (Overcast), 晴 (Sunny), 多云 (Cloudy), 彩虹 (Rainbow), 雷阵雨 (Thunder shower).
+* **参考词汇**: 阴 (Overcast), 晴 (Sunny), 多云 (Cloudy), 雨后彩虹 (Rainbow), 雷阵雨 (Thunder shower), 雨转晴 (Rain clearing up).
+
+**2. 你喜欢旅行吗？你喜欢什么样的旅行方式？不同的旅行方式你会选择什么交通工具？**
 
 ---
 
@@ -269,7 +523,7 @@
 
 在经历了八个月、航行了4000多海里之后，翟峰一家终于回到了家。翟峰相信，一切只是开始，航海就是他人生道路上一段长长的台阶，通向他想要的未来。“我和太太想要看看这个时代、这个世界到底是什么样子。人生有选择，一切可改变。”下一站，他们想去澳大利亚和新西兰。等待今年11月的北风南下之时，他们将再次出发。
 
-*(改编自《都市快报》)*
+[cite_start]*(改编自《都市快报》，作者：黄小星)* [cite: 309-365]
 
 ---
 
@@ -282,28 +536,28 @@
 | 3 | 稳定 | wěndìng | adj. | stable |
 | 4 | 待遇 | dàiyù | n. | pay and perks |
 | 5 | 发愁 | fā chóu | v. | to worry |
-| 6 | 平静 | píngjìng | adj. | quiet/peaceful |
-| 7 | 帆船 | fānchuán | n. | sailing boat |
+| 6 | 平静 | píngjìng | adj. | quiet, peaceful |
+| 7 | 帆船 | fānchuán | n. | sailing boat/ship |
 | 8 | 撞 | zhuàng | v. | to bump against |
-| 9 | 艘 | sōu | m. | measure word for ships |
+| 9 | 艘 | sōu | m. | used for boats/ships |
 | 10 | *航行 | hángxíng | v. | to sail |
-| 11 | *积蓄 | jīxù | n./v. | savings |
+| 11 | *积蓄 | jīxù | n./v. | savings; to save |
 | 12 | 二手 | èrshǒu | adj. | second-hand |
 | 13 | 彩虹 | cǎihóng | n. | rainbow |
 | 14 | 包括 | bāokuò | v. | to include |
 | 15 | 疯 | fēng | v. | to be crazy |
-| 16 | 辞职 | cí zhí | v. | to quit job |
-| 17 | 驾驶 | jiàshǐ | v. | to drive/pilot |
+| 16 | 辞职 | cí zhí | v. | to quit a job |
+| 17 | 驾驶 | jiàshǐ | v. | to drive, to pilot |
 | 18 | 轮流 | lúnliú | v. | to take turns |
 | 19 | 钓 | diào | v. | to fish |
-| 20 | 顿 | dùn | m. | measure word for meals |
+| 20 | 顿 | dùn | m. | used for meals |
 | 21 | 海鲜 | hǎixiān | n. | seafood |
-| 22 | 傍晚 | bàngwǎn | n. | dusk |
-| 23 | 舒适 | shūshì | adj. | comfortable |
+| 22 | 傍晚 | bàngwǎn | n. | towards evening, at dusk |
+| 23 | 舒适 | shūshì | adj. | comfortable, cozy |
 | 24 | 干活儿 | gàn huór | v. | to work |
 | 25 | 盼望 | pànwàng | v. | to look forward to |
 | 26 | 陆地 | lùdì | n. | land |
-| 27 | 各自 | gèzì | pron. | each/respective |
+| 27 | 各自 | gèzì | pron. | each, respective |
 | 28 | 勿 | wù | adv. | don't (imperative) |
 | 29 | 时刻 | shíkè | n. | moment |
 | 30 | 着火 | zháo huǒ | v. | to catch fire |
@@ -311,46 +565,187 @@
 | 32 | 雷 | léi | n. | thunder |
 | 33 | 随时 | suíshí | adv. | at any time |
 | 34 | 闪电 | shǎndiàn | n. | lightning |
-| 35 | 击 | jī | v. | to hit/strike |
-| 36 | 拥抱 | yōngbào | v. | to hug |
+| 35 | 击 | jī | v. | to hit, to strike |
+| 36 | 拥抱 | yōngbào | v. | to hug, to embrace |
 | 37 | *海里 | hǎilǐ | m. | sea mile |
-| 38 | 台阶 | táijiē | n. | steps |
+| 38 | 台阶 | táijiē | n. | flight of steps |
 | 39 | 未来 | wèilái | n. | future |
 | 40 | 太太 | tàitai | n. | wife |
-| 41 | 时代 | shídài | n. | era |
+| 41 | 时代 | shídài | n. | era, age |
 
 ---
 
 ### 【注释】 (Notes)
 
-1.  **包括 (bāokuò)**: To include.
-    * *Ex:* **包括**翟峰的父母，所有人都觉得，翟峰“疯了”。
-2.  **各自 (gèzì)**: Each; respective.
-    * *Ex:* 以前陆地上的夜晚，他们在**各自**的房间...
-3.  **勿 (wù)**: Do not (Written/Formal).
-    * *Ex:* 请**勿**入内; 非诚**勿**扰.
-4.  **时刻 (shíkè)**: Moment; constantly.
-    * *Ex:* 美好的**时刻**; **时时刻刻**提醒自己.
+#### 1. 包括 (bāokuò)
+动词，表示包含各部分。
+(1) 汉语技能教学**包括**听、说、读、写四个方面。
+(2) “学习”，其实**包括**“学”与“习”两层意思。
+
+“包括”还可以强调某一部分，有举例、补充、解释等作用。
+(3) 然而，**包括**翟峰的父母，所有人都觉得，翟峰“疯了”。
+(4) 我们班所有人，**包括**最不爱运动的刘方，也都参加了这次运动会。
+
+* **练一练**: 完成句子或对话
+    (1) 世界上使用筷子的国家主要__________________ (包括)
+    (2) 这个节目全家人都喜欢，__________________ 也很爱看。(包括)
+    (3) A: 听说你们的班主任王老师生病住院了？
+        B: __________________ (包括)
+
+#### 2. 各自 (gèzì)
+代词，指各人自己或各个方面中自己的一方。
+(1) 中场休息时间到了，比赛双方队员**各自**回场外休息。
+(2) 刘经理认真看了三家广告公司**各自**提交的计划。
+(3) 以前陆地上的夜晚，他们在**各自**的房间，一家人没有更多的交流。
+
+* **练一练**: 完成句子或对话
+    (1) 快要毕业了，同学们__________________ (各自)
+    (2) 虽然他们都同意这么办，但其实__________________ (各自)
+    (3) A: __________________ (各自)
+        B: 任务我们都清楚了，您就放心吧。
+
+#### 3. 勿 (wù)
+副词，表示禁止或劝阻，书面语，相当于“不要”。
+(1) 非工作人员，请**勿**入内。
+(2) 网上购票者须注意网站的安全性，切**勿**上当受骗。
+(3) 中国有句老话：可上山，**勿**下海。
+
+* **练一练**: 用所学词语改写句子
+    (1) 大多数宾馆房间的门上都挂着一块“__________________”的牌子。(勿 - 请勿打扰)
+    (2) 为了他人的健康，__________________ (勿 - 请勿吸烟)
+
+#### 4. 时刻 (shíkè)
+名词，表示某一时间点或时间段。
+(1) 在最后**时刻**，他为本队踢进了赢得比赛的关键一球。
+(2) 美好的**时刻**过去后是一个个紧张的夜晚。
+
+副词，表示每时每刻、经常等意思，能重叠为“时时刻刻”。
+(3) 公司的大门**时刻**都为你开着。
+(4) 工作中，他**时时刻刻**提醒自己：乘客的安全是最重要的。
+
+* **练一练**: 完成句子或对话
+    (1) 任何时候都不要看轻自己，__________________ (时刻)
+    (2) 因为工作的需要，我__________________ (时刻)
+    (3) A: 你为什么这么感谢他？
+        B: __________________ (时刻)
 
 ---
 
-# HSK Standard Course 5 (Part A) - Unit 2: 谈古说今 (Talking about the Past and the Present)
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **轮流** 驾船/休息/照看 <br> **盼望** (好)消息/过年/成功 |
+| **定语 + 中心语** | **稳定的** 工作/生活/关系/收入 <br> **平静的** 海面/心情/生活 |
+| **状语 + 中心语** | 为+生活/工作/考试 **发愁** <br> 紧紧(地)/热情(地) **拥抱** |
+| **中心语 + 补语** | **撞** 倒/伤/断/开 <br> **漏** 光/掉/出来 |
+| **数量词 + 名词** | **一顿** 饭/海鲜 <br> **一道** 闪电 |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**舒适 (shūshì) vs 舒服 (shūfu)**
+
+| 特点 | 舒适 | 舒服 |
+|---|---|---|
+| **共同点** | 都是形容词，都表示轻松愉快。如：饭店为入住的客人准备了**舒适/舒服**的房间。 | |
+| **不同点** | 1. 多用于书面语。<br>2. 侧重环境给人的整体感受。<br>如：我们都需要一个轻松**舒适**的生活环境。<br>3. 一般极少重叠使用。 | 1. 多用于口语。<br>2. 侧重人身体、精神上的主观感受。<br>如：听了他的话，我心里很不**舒服**。<br>3. 可重叠为AABB (舒舒服服) 或ABAB (舒服舒服)。 |
+
+* **做一做**: 选词填空
+    (1) 早晨收拾完房间后，妈妈喜欢 **舒服** 地坐在那把躺椅上休息一下。
+    (2) 这家餐厅装修精美、环境 **舒适**。
+    (3) 我今天脖子有点儿不 **舒服**，左右转动时有点儿疼。
+    (4) 这艘客船就像高级宾馆一样，除了有 **舒适** 的客舱外，还有餐厅...
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(漏, 随时, 辞职, 待遇, 稳定, 发愁)
+
+1. 由于在个人 ( ) 上没谈好，他最后拒绝了这家公司的邀请。
+2. 现在，让许多工厂老板 ( ) 的是有经验的技术工人很难找。
+3. 丽丽到家才发现刚买的酸奶中有一袋是 ( ) 的。
+4. 好的，您决定了以后，( ) 都可以给我们打电话。
+5. 公司已经接受了他的 ( ) 请求。
+6. 张老师认为王力的成绩一直都很 ( )，这次考试应该不会有什么问题。
+
+**2. 选择正确答案**
+
+1. 听到这个好消息后，我激动的心情久久不能 ( ) (A. 冷静 B. 平静)
+2. 王奶奶说她每天都会锻炼锻炼，身体好了，自己 ( ) 也不给儿女添麻烦。 (A. 舒适 B. 舒服)
+3. 父母、妻子和孩子都 ( ) 着他早日学成回国。 (A. 盼望 B. 希望)
+4. 21世纪是一个信息、互联网的 ( )。 (A. 时代 B. 时刻)
+
+**3. 画线连接可以搭配的词语**
+
+* **等待** -> **机会**
+* **稳定的** -> **水平** (Source check: 收入 is better match contextually, but list says 水平)
+* **驾驶** -> **汽车**
+* **时刻** -> **准备**
+* **拥抱** -> **世界**
+* **打扫** -> **卫生**
+* **平静的** -> **江面**
+* **舒适的** -> **座位**
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 翟峰的爱好 | 人生、稳定、舒适、未来 |
+| 航海的准备 | 辞职、疯 |
+| 航海的经历 | 轮流、平静、时刻、各自、盼望 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 天气 (Weather)**
+* **词语**: 预报 (yùbào), 雾 (wù), 彩虹 (cǎihóng), 雷 (léi), 闪电 (shǎndiàn).
+
+**话题: 生产 (Production)**
+* **词语**: 零件 (língjiàn), 手工 (shǒugōng), 维修 (wéixiū), 机器 (jīqì), 产品 (chǎnpǐn), 设备 (shèbèi), 设施 (shèshī), 工具 (gōngjù).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 日出后，江面上浓浓的大 ( ) 开始慢慢散去。
+2. 听天气 ( ) 说，明天有雨，要降温。
+3. 空调一年之内出现质量问题，我们免费 ( )。
+4. 这些 ( ) 检查不合格，让工人们处理了吧。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+在多数人眼里，工作、家庭、汽车、住房，这些都是我们生活中不可缺少的东西。当我们想要在人生道路上做出一些选择或改变时，却发现这些东西常常会影响我们的决定。
+在中国，帆船运动现在还不是很普及(pǔjí, popular)。帆船的价钱很贵，个人购买帆船的情况还很少。然而，课文中迷上帆船的翟峰做出了一个勇敢的决定，包括翟峰的父母，所有人都觉得他“疯了”。你是怎么看这件事情的呢？
+
+**话题讨论: 爱好与工作、家庭、生活的关系**
+
+1. 你有什么爱好吗？它给你的生活带来了什么好处？
+2. 你觉得应该怎么处理爱好和工作、家庭、生活的关系？举例说明。
+3. 如果你的爱好影响了你的正常生活，你会怎么办呢？
+
+**命题写作:**
+请以“**如果我是翟峰，我会(不会)……**”为题写一段话，尽量用上本课所学的生词，字数不少于100字。
+
+---
 
 ## 第4课 子路背米 (Zilu Carrying Rice)
 
 ### 【热身】 (Warm-up)
 
 **1. 请看下面的图片，试着从生词表中找出本课跟图片有关的生词。**
-*(Look at the picture below and try to find new words from this lesson related to it.)*
 
+![子路背米](zilu_carrying_rice.png)
+> **[画像生成プロンプト]**: A traditional Chinese ink wash painting style illustration. A young man in ancient Chinese scholar robes is walking on a snowy path. He is carrying a heavy sack of rice on his back. The background features distant mountains and a simple house. The atmosphere should convey hardship and determination.
 
-
-> **[画像生成プロンプト]**: A traditional Chinese ink wash painting illustrating the story of 'Zilu Carrying Rice'. The scene depicts Zilu, a young scholar in ancient Hanfu clothing, walking on a snowy path carrying a heavy sack of rice on his back. The background features a wintry landscape with distant mountains. The atmosphere should convey hardship and filial piety.
-
-* **相关生词**: 古代 (Ancient times), 背 (To carry on back), 米 (Rice).
+* **相关生词**: 古代, 背, 米.
 
 **2. 在你们国家，有没有流传很久的关于孝敬父母的故事？请给老师和同学们讲一讲。**
-*(Are there any long-standing stories about filial piety in your country? Please share them.)*
 
 ---
 
@@ -424,46 +819,73 @@
 ### 【注释】 (Notes)
 
 #### 1. 至今 (zhìjīn)
-副词，直到现在。
+副词，直到现在，常用于小句句首或动词前。
 (1) 我在北京出生、长大，**至今**还没离开过呢。
 (2) **至今**，很多国家并没有规定什么才是健康食品。
-
 * **练一练**:
-    (1) 虽然我们已经认识多年，__________________。
+    (1) 虽然我们已经认识多年，__________________。(至今)
     (2) A: 你到中国已经一年了，能不能给我们介绍一下长城？
         B: __________________ (至今)
 
 #### 2. 顶 (dǐng)
-名词，头顶。动词，用头顶撞、迎着。量词，用于帽子等。
-(1) 请把手举过头**顶**。 (Noun)
-(2) 他能用头**顶**起20斤重的东西。 (Verb)
-(3) 天气非常寒冷，子路**顶**着大雪往前走。 (Verb - to go against)
-(4) 我这**顶**新帽子怎么样？ (Measure word)
-
+名词，表示人体或物体的最高部分。
+(1) 请把手举过头**顶**。
+动词，表示头部的动作。
+(3) 他能用头**顶**起20斤重的东西。
+“顶”做动词时还表示迎着、抵挡。
+(5) 天气非常寒冷，子路**顶**着大雪往前走。
+量词，用于帽子、较大的伞或伞状的东西。
+(7) 我这**顶**新帽子怎么样？
 * **练一练**:
     (1) A: 昨天爬山你去了吗？
-        B: __________________ (顶 - Noun)
-    (2) 虽然昨天刮大风，__________________ (顶 - Verb)
-    (3) A: __________________ (顶 - Measure word)
+        B: __________________ (顶-名词)
+    (2) 虽然昨天刮大风，__________________ (顶-动词)
+    (3) A: __________________ (顶-量词)
         B: 是吗？那好吧，那我就买它了。
 
 #### 3. ……得+不行 (...de+bùxíng)
-表示程度极深（= ……得不得了）。
-(1) 扶着米袋的双手冻**得不行**。
-(2) 心里烦**得不行**。
-
+表示程度极深。
+(1) 他顶着大雪往前走，扶着米袋的双手冻**得不行**，就停下来暖暖，再继续赶路。
 * **练一练**:
     (1) A: 你们俩这次出去旅行了大半年，家里一直没人收拾。昨天回来，家里怎么样？
-        B: __________________ (...得不行)
+        B: __________________ (……得不行)
 
 #### 4. 反而 (fǎn'ér)
-副词，表示跟原来预期的相反。
-(1) 这样不但不能提高能力，**反而**有可能降低兴趣。
-(2) 他并没有因为物质条件好而感到欢喜，**反而**常常诚恳地说……
-
+副词，用在两个分句之间，表示跟原来预期的相反。
+(1) 这样不但不能提高他们的阅读能力，**反而**有可能降低他们的阅读兴趣和热情。
+(3) 但他并没有因为物质条件好而感到欢喜，**反而**常常诚恳地说：“……”
 * **练一练**:
     (1) 他不但不孝顺父母，__________________ (反而)
     (2) 他是个很有本领的人，可是，__________________ (反而)
+
+---
+
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **下/有/表(示)** 决心 <br> **占** 一半/多数/座位/地方 |
+| **定语 + 中心语** | **诚恳的** 态度 <br> **美味的/精美的** 食物 |
+| **状语 + 中心语** | **委屈地** 说/哭 <br> **勤奋(地)** 学习/工作/干活儿 |
+| **中心语 + 补语** | **背** 起来/在……不动 <br> **流传** 至今/到…… |
+| **动词 + 数量词** | **扶** 一下/一把 |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**满足 (mǎnzú) vs 满意 (mǎnyì)**
+
+| 特点 | 满足 | 满意 |
+|---|---|---|
+| **共同点** | 都是动词，都有感到够了、愿望实现的意思。<br>如：我对现在的生活感到非常**满足/满意**。 | |
+| **不同点** | 1. 强调没有更多的要求了。<br>2. 一般不能做定语或状语。<br>3. 不常搭配直接宾语。 | 1. 强调符合自己的心意。<br>2. 可做定语或状语。<br>如：他找到了一份**满意**的工作。<br>3. 可与“需要、要求、条件、愿望”等词搭配。 |
+
+* **做一做**: 选词填空 (满足 / 满意)
+    (1) 我对新公司的工作条件感到很______。
+    (2) 父母总是会想办法______孩子的要求。
+    (3) 听到这个消息，他______地笑了。
+    (4) 你不能仅仅通过考试就______了，要努力取得最好的成绩。
 
 ---
 
@@ -472,19 +894,65 @@
 **1. 选择合适的词语填空**
 (扶, 占, 从前, 本领, 决心, 委屈)
 
-* ( ) 有个人叫乐广，他有个好朋友……
-* 你去教室自习的时候，帮我 ( ) 个座位，好吗？
-* 请您先在这儿 ( ) 一晚，明天我们就给您换……
-* 邻居家有一条 ( ) 高强的小狗。
-* 他把那位老爷爷 ( ) 过了马路。
-* 我下 ( ) 从明天开始早睡早起。
+1. ( ) 有个人叫乐广，他有个好朋友，一有空儿就到他家来聊天儿。
+2. 你去教室自习的时候，帮我 ( ) 个座位，好吗？
+3. 请您先在这儿 ( ) 一晚，明天我们就给您换个好的房间。
+4. 邻居家有一条 ( ) 高强的小狗，能看门，能送报，还能买菜。
+5. 他把那位老爷爷 ( ) 过了马路。
+6. 我下 ( ) 从明天开始早睡早起，每天锻炼身体。
 
 **2. 选择正确答案**
 
-* 昨天打不到车，是他 ( ) 着我去的医院。 (A. 背 B. 后背)
-* 我跟爸爸妈妈说好了，会在10点 ( ) 回家。 (A. 从前 B. 以前)
-* 这是在警察局，你给我 ( ) 点儿！ (A. 老实 B. 诚实)
-* 他没有接受那份优厚的待遇，( ) 辞职了。 (A. 而且 B. 反而)
+1. 昨天打不到车，是他 ( ) 着我去的医院。 (A. 背 B. 后背)
+2. 我跟爸爸妈妈说好了，会在10点 ( ) 回家。 (A. 从前 B. 以前)
+3. 这是在警察局，你给我 ( ) 点儿！别乱动！ (A. 老实 B. 诚实)
+4. 他没有接受那份优厚的待遇，( ) 辞职了。 (A. 而且 B. 反而)
+
+**3. 给括号里的词选择适当的位置**
+
+1. A这个美丽的B故事一直C到现在D。 (流传)
+2. 请你A暗中B一下C这件事，别让大家都D知道。 (打听)
+3. 球A被B那个球员C了D回来。 (顶)
+4. 这几天A作业B太多了，我累C不得了D。 (得)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 子路从外面回来 | 满足、惭愧、暗下决心 | |
+| 子路去百里之外干活儿 | 打听、主人、勤奋、老实 | |
+| 子路回家 | 背、滑、顶、扶、……得不行 | |
+| 子路南下到了楚国 | 本领、人才、物质、反而 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 社交称谓 (Social Titles)**
+
+* **词语**: 国王 (guówáng), 王子 (wángzǐ), 公主 (gōngzhǔ), 总理 (zǒnglǐ), 总统 (zǒngtǒng), 主席 (zhǔxí), 总裁 (zǒngcái), 主任 (zhǔrèn), 老板 (lǎobǎn), 领导 (lǐngdǎo).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 美国正在进行四年一次的 ______ 大选。
+2. 他手里有了一些钱，想自己开公司，自己做 ______。
+3. 这是我们办公室新来的领导，大家可以叫他王 ______。
+4. 有些国家既有总统也有 ______，有些国家只有其中一个。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+“孝”是中国儒家(Rújiā, Confucianism)文化中一个重要的内容。孔子在《论语》中就提到“孝悌(filial piety and fraternal duty)”，认为人应该孝顺父母、爱兄弟。子路是个很孝顺的人，为了让父母过上更好的生活，他不怕辛苦，不怕寒冷。你愿意像他一样孝顺父母吗？
+
+**话题讨论: 什么是孝顺?**
+1. 中国人说的“孝”是什么意思?
+2. 你认为应该如何去关爱你的父母?
+3. 如果有一天，你的父母身体不好了，需要有人照顾，你会怎么做?
+
+**命题写作:**
+请以“**从《子路背米》想到的**”为题，谈一谈你对这个故事和对“孝”的看法。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -492,18 +960,17 @@
 
 ### 【热身】 (Warm-up)
 
-**1. 请做一个小调查，了解一下济南有哪几个泉群。**
-*(Do a small survey to find out what spring groups are in Ji'nan.)*
+**1. 请做一个小调查，了解一下济南有哪几个泉群。除了泉水，济南还有哪些值得去看的地方？**
 
+![济南的泉水](jinan_spring_water.png)
+> **[画像生成プロンプト]**: A scenic illustration of Baotu Spring (趵突泉) in Ji'nan. It shows a traditional Chinese pavilion with a tiled roof next to a clear blue pool. In the center of the pool, three springs are gushing water upwards. Weeping willow trees are along the banks. The style is realistic and serene.
 
-> **[画像生成プロンプト]**: A scenic illustration of the Baotu Spring in Ji'nan, China. The image features a traditional Chinese pavilion with a tiled roof standing by a clear blue pool. In the center of the pool, three distinct spouts of spring water are vigorously gushing upwards. Weeping willow trees surround the water. Realistic, serene landscape style.
-
-**2. 如果请你形容一下天然的泉水，你会想到哪些词语呢？**
+**2. 你喝过天然的泉水吗？如果请你形容一下天然的泉水，你会想到哪些词语呢？**
 
 | 属性 | 描写词语 (Adjectives) |
 |---|---|
-| **样子 (Appearance)** | 美丽 (Beautiful), ________________ |
-| **味道 (Taste)** | 甜美 (Sweet), ________________ |
+| **样子 (Appearance)** | 美丽 (Beautiful), ______ |
+| **味道 (Taste)** | 甜美 (Sweet), ______ |
 
 ---
 
@@ -527,22 +994,22 @@
 
 | # | 词语 | 拼音 | 词性 | 英文释义 |
 |---|---|---|---|---|
-| 1 | 悠久 | yōujiǔ | adj. | long-standing |
+| 1 | 悠久 | yōujiǔ | adj. | long-standing, age-old |
 | 2 | 文字 | wénzì | n. | written language |
-| 3 | *记载 | jìzǎi | v. | to record |
+| 3 | *记载 | jìzǎi | v. | to record, to put down in writing |
 | 4 | 形状 | xíngzhuàng | n. | shape |
-| 5 | 描写 | miáoxiě | v. | to describe |
-| 6 | 赞美 | zànměi | v. | to praise |
+| 5 | 描写 | miáoxiě | v. | to describe, to depict |
+| 6 | 赞美 | zànměi | v. | to praise, to extol |
 | 7 | 诗 | shī | n. | poem |
-| 8 | 老百姓 | lǎobǎixìng | n. | ordinary people |
+| 8 | 老百姓 | lǎobǎixìng | n. | ordinary people, civilians |
 | 9 | 充满 | chōngmǎn | v. | to be full of |
 | 10 | 感激 | gǎnjī | v. | to feel grateful |
 | 11 | 从而 | cóng'ér | conj. | thus, consequently |
-| 12 | 产生 | chǎnshēng | v. | to emerge |
+| 12 | 产生 | chǎnshēng | v. | to emerge, to arise |
 | 13 | 传说 | chuánshuō | n. | legend |
 | 14 | 善良 | shànliáng | adj. | kind-hearted |
 | 15 | 救 | jiù | v. | to save, to rescue |
-| 16 | 晕 | yūn | v. | to faint |
+| 16 | 晕 | yūn | v. | to faint, to pass out |
 | 17 | 龙 | lóng | n. | dragon |
 | 18 | 治(疗) | zhì(liáo) | v. | to treat, to cure |
 | 19 | 玉 | yù | n. | jade |
@@ -550,16 +1017,16 @@
 | 21 | 抢 | qiǎng | v. | to rob, to snatch |
 | 22 | *埋 | mái | v. | to bury |
 | 23 | (躲)藏 | cáng | v. | to hide |
-| 24 | 如今 | rújīn | n. | nowadays |
-| 25 | 分布 | fēnbù | v. | to be distributed |
+| 24 | 如今 | rújīn | n. | nowadays, present |
+| 25 | 分布 | fēnbù | v. | to be distributed (over an area) |
 | 26 | *天然 | tiānrán | adj. | natural |
 | 27 | 优美 | yōuměi | adj. | graceful, beautiful |
-| 28 | 独特 | dútè | adj. | unique |
-| 29 | 反映 | fǎnyìng | v. | to reflect |
+| 28 | 独特 | dútè | adj. | unique, distinctive |
+| 29 | 反映 | fǎnyìng | v. | to reflect, to mirror |
 | 30 | *珍珠 | zhēnzhū | n. | pearl |
-| 31 | 形成 | xíngchéng | v. | to form |
+| 31 | 形成 | xíngchéng | v. | to form, to take shape |
 | 32 | 于 | yú | prep. | from, out of |
-| 33 | 广大 | guǎngdà | adj. | vast |
+| 33 | 广大 | guǎngdà | adj. | vast, extensive |
 | 34 | *岩石 | yánshí | n. | rock |
 | 35 | 亿 | yì | num. | hundred million |
 | 36 | 石灰岩 | shíhuīyán | n. | limestone |
@@ -569,23 +1036,158 @@
 | 40 | 斜 | xié | adj. | oblique, slanting |
 | 41 | 为 | wéi | v. | to become |
 | 42 | 火成岩 | huǒchéngyán | n. | igneous rock |
-| 43 | 碰 | pèng | v. | to meet, to bump |
-| 44 | 挡 | dǎng | v. | to block |
-| 45 | *地势 | dìshì | n. | terrain |
-| 46 | 冲 | chōng | v. | to rush |
+| 43 | 碰 | pèng | v. | to meet, to come across |
+| 44 | 挡 | dǎng | v. | to block, to get in the way of |
+| 45 | *地势 | dìshì | n. | terrain, topography |
+| 46 | 冲 | chōng | v. | to rush, to dash |
 
 ---
 
 ### 【注释】 (Notes)
 
-1.  **从而 (cóng'ér)**: Thus; thereby. Connects cause and effect.
-    * *Ex:* 充满感激之情，**从而**也产生了许多传说。
-2.  **于 (yú)**: In; at; from; than. Formal preposition.
-    * *Ex:* 济南的泉水，来自**于**济南市以南的广大山区。
-3.  **为 (wéi)**: To become; as.
-    * *Ex:* 地下岩石变**为**了火成岩。
-4.  **起来 (qǐlái)**: Indicates start or completion; gathering together.
-    * *Ex:* 积蓄**起来**; 藏了**起来**。
+#### 1. 从而 (cóng'ér)
+连词，用在两个分句之间，前句表示原因、方法等，后句表示结果、目的等。
+(1) 比赛前做好思想准备可以减少运动员的压力，**从而**取得比赛的成功。
+(2) 在学习过程中及时复习，可以尽早发现和解决问题，加深理解，**从而**取得更好的成绩。
+(3) 而济南的老百姓住在泉边，喝着这甜美的泉水，自然对它充满感激之情，**从而**也产生了许多关于泉水的美丽传说。
+
+* **练一练**: 完成句子或对话
+    (1) 玩游戏可以锻炼人的脑、眼和手，______________ (从而)
+    (2) 公司通过引进新技术，加强管理，提高了产品质量，______________ (从而)
+    (3) A: 时间这么紧，你们是怎么完成任务的？
+        B: ______________ (从而)
+
+#### 2. 于 (yú)
+介词，相当于“在、从、对、向、比”等。
+(1) 这家公司成立**于**1997年。(表示时间)
+(2) 这种药主要用**于**感冒的治疗。(表示范围)
+(3) 济南的泉水，来自**于**济南市以南的广大山区，……(表示处所)
+(4) 运动有助**于**健康。(表示对象)
+(5) 李明半年没找到工作了，没办法，只好求助**于**当经理的老同学王峰了。(表示对象)
+(6) 队员们都认为对方的水平远远高**于**自己。(表示比较)
+
+* **练一练**: 用所学词语改写句子
+    (1) 乒乓球运动是在19世纪末产生的，说起来还有一段有趣的故事呢。
+        乒乓球运动______________ (于)
+    (2) 工作上，对已取得的成功，他从不满足，而是给自己提出更高的要求。
+        ______________，而是给自己提出更高的要求。(于)
+
+#### 3. 为 (wéi)
+动词，有“成、成为”的意思。
+(1) 而济南市区的地下岩石变**为**了火成岩，……
+(2) 每个人都会遇到各种压力，可是，压力也可以变**为**动力。
+“为”，也表示“作为、算作”等意思。
+(3) 找工作时，很多人会以收入多少**为**第一标准，这种想法我不能接受。
+(4) 在他看来，没有工作的生活就不能称其**为**生活。
+
+* **练一练**: 用所学词语改写句子
+    (1) 在影视作品中，常常把鲨鱼(shāyú, shark)描写成可怕的海洋杀手。
+        在影视作品中，______________ (为)
+    (2) 为了方便同学们报名，办公室改变了报名时间，从本月一日到十日，周六、日不休。
+        为了方便同学们报名，______________ (为)
+
+#### 4. 起来 (qǐlái)
+“起来”，动词，“动词+起来”表示由分散到集中。
+(1) ……地下水流到这里，碰到火成岩挡住了路，就积蓄**起来**，越积越多。
+(2) 渔夫(yúfū, fisherman)想，这网一收**起来**，鱼一定可以装满整条船。
+“动词+起来”也可表示由显露到隐蔽。
+(3) 刘丽知道自己做得不对，躲**起来**不敢见我。
+(4) 为了不被坏人抢走，他把壶埋入地下藏了**起来**，……
+
+* **练一练**: 完成句子或对话
+    (1) 刘方喜欢把旅游时买的门票______________ (起来)
+    (2) 你刚工作，别太着急，经验______________ (起来)
+    (3) A: 儿子，是你把爸爸的烟放在这鞋盒子里的吗？
+        B: ______________ (起来)
+
+---
+
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **充满** 阳光/力量/希望/欢乐 <br> **反映** 生活/水平/情况/能力 |
+| **定语 + 中心语** | **悠久的** 文化/历史/传统 <br> **独特的** 位置/看法/形状/建筑 |
+| **状语 + 中心语** | **生动/正确/认真地** 描写 <br> **自然/逐渐** 形成 |
+| **中心语 + 补语** | **晕** 倒/过去 <br> **救** 活/起/出/过来 |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**美丽 (měilì) vs 优美 (yōuměi)**
+
+| 特点 | 美丽 | 优美 |
+|---|---|---|
+| **共同点** | 都是形容词，都可以形容风景、环境等。<br>如：济南是一座风景**美丽/优美**的城市。 | |
+| **不同点** | 1. 多用于形容长相、样子、打扮等好看。<br>2. 一般多形容视觉的感受。<br>3. 有修辞的用法，有美好、高尚的意思。 | 1. 侧重形容动作、形象等给人美好的感受。<br>2. 还可形容非视觉的感受。<br>3. 没有修辞用法。 |
+
+* **做一做**: 选词填空
+    (1) 这篇文章的语言生动 ______。(美丽/优美)
+    (2) 心也像窗户一样，如果不打开，就看不到外面的 ______ 和热闹。(美丽/优美)
+    (3) 这里流传着许多 ______ 的传说。(美丽/优美)
+    (4) 当地的自然风景 ______ 吸引了很多中外游客。(美丽/优美)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(于, 为, 充满, 从而, 产生, 描写)
+1. 这首诗主要 ______ 了一对年轻人的恋爱经历。
+2. 新产品很受顾客欢迎，使我对公司的未来 ______ 信心。
+3. 我担心长期吃这种药会对身体 ______ 不好的影响。
+4. 办公室让我 ______ 你通知你明天下午的活动改下周一了。
+5. 刘经理毕业 ______ 北京大学经济学院。
+6. 换一个角度考虑，也许正好就能发现问题的关键，______ 找到解决问题的答案。
+
+**2. 选择正确答案**
+1. 现在是五点，再过一刻钟小明就放学了。 ( A. 如今 B. 现在 )
+2. 严芳长得不是很 ( A. 特别 B. 独特 ) 漂亮，但仔细看却很有味道。
+3. 我这次来是想当面向你表示 ( A. 感谢 B. 感激 ) 的。
+4. 护士小姐女儿很勇敢，本来很怕打针的她这次竟然没哭。( A. 赞美 B. 表扬 )
+
+**3. 画线连接可以搭配的词语**
+
+* **打** -> **晕** / **救** -> **活** / **抢** -> **走** / **碰** -> **见**
+* **悠久的** -> **文化** / **善良的** -> **性格** / **独特的** -> **味道** / **广大的** -> **地区**
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 泉水的优美 | 悠久、记载、赞美、诗文 | |
+| “天下第一泉”的美丽传说 | 鲍全、救、龙王、白玉壶、埋 | |
+| 优雅的名字 | 优美、独特、命名、动物、珍珠 | |
+| 形成的原因 | 来自于、岩石、角度、斜、挡、积蓄、冲 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 文学 (Literature)**
+* **词语**: 作品 (zuòpǐn), 诗 (shī), 传说 (chuánshuō), 神话 (shénhuà), 戏剧 (xìjù), 风格 (fēnggé), 形象 (xíngxiàng), 魅力 (mèilì), 生动 (shēngdòng).
+
+**做一做: 从上表中选择合适的词语填空**
+1. 这个电视剧取材于一个 ______ 传说。
+2. 咱家的装修 ______ 搭配这样的家具很合适。
+3. 作者正是以这座大山为背景，写下了这个感人的 ______ 故事。
+4. 嗓音直接影响着别人对我们的印象，好听的嗓音会让一个人更有 ______。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+济南的泉水分布广、水量大、水质好，身边有这么好的泉水，生活在这里的济南人当然是幸福的。可是你知道吗? 前些年，由于气候干旱(gānhàn, dry)和人们不注意节水，济南很多泉水都干了。这可急坏了爱泉的济南人，人们想了许多办法来解决这个问题。在政府(zhèngfǔ, government)和百姓的共同努力下，2003年，趵突泉终于再次流出了甜美的泉水。水是大自然送给我们的宝贵(bǎoguì, precious)礼物，可是，生活中，水常常不被我们重视。趵突泉水的从有到无，又从无到有，使我们看到了水的重要。
+
+**话题讨论: 水与我们的生活**
+1. 在我们的生活中，哪些事是离不开水的?
+2. 地球上有些地方遇到了缺水的问题，你了解这方面的情况吗?
+3. 你觉得哪些做法是对水的浪费?怎样可以减少这种浪费?
+
+**命题写作:**
+请以“**节约每一滴水**”为题写一段话，尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -594,18 +1196,16 @@
 ### 【热身】 (Warm-up)
 
 **1. 你知道中国的除夕是什么日子吗？除夕和春节有什么关系？**
-*(Do you know what day Chuxi is? What is the relationship between Chuxi and the Spring Festival?)*
 
-**2. 你知道中国春节时有哪些传统食物和风俗吗？**
+**2. 你知道中国春节时有哪些传统食物和风俗吗？和你们国家的新年比较一下，说说有什么相同或不同的情况。**
 
-
-
-> **[画像生成プロンプト]**: A festive illustration of a Chinese New Year (Spring Festival) celebration. A Chinese family is gathered around a round table filled with traditional food like dumplings (jiaozi). Red lanterns hang from the ceiling, and 'Fu' (fortune) characters are on the wall. Outside the window, colorful fireworks are lighting up the night sky. Warm, joyful, and red-themed color palette.
+![中国の旧正月](chinese_new_year.png)
+> **[画像生成プロンプト]**: A festive illustration of a Chinese New Year (Spring Festival) celebration. A family is making dumplings (jiaozi) together. Outside, there are red lanterns and firecrackers. The atmosphere is warm and joyful.
 
 | 类别 | 中国 | 本国 |
 |---|---|---|
-| **食物** | 饺子 (Dumplings)... | |
-| **活动** | 放鞭炮 (Firecrackers)... | |
+| **食物** | 饺子…… | |
+| **活动** | 放鞭炮…… | |
 
 ---
 
@@ -633,78 +1233,220 @@
 
 | # | 词语 | 拼音 | 词性 | 英文释义 |
 |---|---|---|---|---|
-| 1 | 除夕 | chúxī | n. | Lunar New Year's Eve |
-| 2 | 由来 | yóulái | n. | origin |
+| 1 | 除夕 | chúxī | n. | eve of the Lunar New Year / Spring Festival |
+| 2 | 由来 | yóulái | n. | origin, source |
 | 3 | 农历 | nónglì | n. | lunar calendar |
-| 4 | 守岁 | shǒusuì | v. | to stay up late on New Year's Eve |
+| 4 | 守岁 | shǒusuì | v. | to stay up late or all night on New Year's Eve |
 | 5 | 怪物 | guàiwù | n. | monster |
 | 6 | 伤害 | shānghài | v. | to hurt, to harm |
 | 7 | 恨 | hèn | v. | to hate |
 | 8 | 骨(头) | gǔ(tou) | n. | bone |
-| 9 | 无奈 | wúnài | v. | helpless |
+| 9 | 无奈 | wúnài | v. | to have no way out, to be helpless |
 | 10 | 英雄 | yīngxióng | n. | hero |
 | 11 | 英俊 | yīngjùn | adj. | handsome |
 | 12 | 咬 | yǎo | v. | to bite |
 | 13 | 外公 | wàigōng | n. | maternal grandfather |
-| 14 | 询问 | xúnwèn | v. | to ask |
+| 14 | 询问 | xúnwèn | v. | to ask, to inquire |
 | 15 | 天真 | tiānzhēn | adj. | naive, innocent |
 | 16 | 杀 | shā | v. | to kill |
 | 17 | (代)替 | (dài)tì | prep. | for, on behalf of |
-| 18 | 除 | chú | v. | to get rid of |
+| 18 | 除 | chú | v. | to get rid of, to remove |
 | 19 | 制造 | zhìzào | v. | to make, to produce |
-| 20 | 灾害 | zāihài | n. | disaster |
+| 20 | 灾害 | zāihài | n. | disaster, calamity |
 | 21 | 逃 | táo | v. | to escape |
 | 22 | 影子 | yǐngzi | n. | shadow |
-| 23 | 此外 | cǐwài | conj. | moreover |
-| 24 | 说不定 | shuōbudìng | adv. | perhaps |
+| 23 | 此外 | cǐwài | conj. | in addition, moreover |
+| 24 | 说不定 | shuōbudìng | adv. | perhaps, possibly, it's likely that... |
 | 25 | 熬夜 | áo yè | v. | to stay up late |
-| 26 | 赶紧 | gǎnjǐn | adv. | immediately |
-| 27 | 果然 | guǒrán | adv. | as expected |
+| 26 | 赶紧 | gǎnjǐn | adv. | immediately, at once |
+| 27 | 果然 | guǒrán | adv. | as expected, really |
 | 28 | 姑娘 | gūniang | n. | girl |
-| 29 | 锅 | guō | n. | pot |
-| 30 | 盆(子) | pén(zi) | n. | basin |
-| 31 | 整个 | zhěnggè | adj. | whole |
-| 32 | 吓 | xià | v. | to scare |
-| 33 | 似的 | shìde | part. | like, as |
-| 34 | 追 | zhuī | v. | to chase |
+| 29 | 锅 | guō | n. | pot, pan |
+| 30 | 盆(子) | pén(zi) | n. | basin, tub |
+| 31 | 整个 | zhěnggè | adj. | whole, entire |
+| 32 | 吓 | xià | v. | to frighten, to scare |
+| 33 | 似的 | shìde | part. | (indicating similarity) like, as |
+| 34 | 追 | zhuī | v. | to chase, to go after |
 | 35 | 箭 | jiàn | n. | arrow |
 | 36 | 射(击) | shè(jī) | v. | to shoot |
-| 37 | 纷纷 | fēnfēn | adv. | one after another |
-| 38 | 表达 | biǎodá | v. | to express |
-| 39 | 意义 | yìyì | n. | meaning |
+| 37 | 纷纷 | fēnfēn | adv./adj. | one after another; all at once |
+| 38 | 表达 | biǎodá | v. | to express, to voice |
+| 39 | 意义 | yìyì | n. | meaning, significance |
 | 40 | 鞭炮 | biānpào | n. | firecrackers |
-| 41 | 风俗 | fēngsú | n. | custom |
+| 41 | 风俗 | fēngsú | n. | custom, convention |
 
 ---
 
 ### 【注释】 (Notes)
 
-1.  **替 (tì)**: To replace; for; on behalf of.
-    * *Ex:* **替**百姓除掉这个制造灾害的东西。
-2.  **说不定 (shuōbudìng)**: Perhaps; maybe.
-    * *Ex:* “夕”**说不定**晚上要出来。
-3.  **似的 (shìde)**: Like; as if.
-    * *Ex:* “夕”吓得什么**似的**。
-4.  **纷纷 (fēnfēn)**: One after another; in succession.
-    * *Ex:* 百姓**纷纷**对七郎表达谢意。
+#### 1. 替 (tì)
+“替”，动词，意思是“代替”。例如：
+(1) 见了外公，你**替**我向他问好。
+(2) 刘老师今天有点儿事来不了，你能**替**替他吗？
+“替”，也可以做介词，表示“给、为”。例如：
+(3) 七郎暗暗下定决心一定要杀死“夕”，**替**百姓除掉这个制造灾害的东西。
+(4) 李阳要去留学了，我们都**替**他高兴。
+
+* **练一练**: 完成句子或对话
+    (1) 你放心吧，他借的钱__________________。(替)
+    (2) 后天就要考试了，小明的病还没好，__________________。(替)
+    (3) A: 明天，我去上海出差，要带点儿什么东西吗？
+        B: __________________。(替)
+
+#### 2. 说不定 (shuōbudìng)
+“说不定”，动词，意思是“不能说得很清楚、肯定”。例如：
+(1) 这事儿经理已经同意了，只是出发的时间还**说不定**。
+(2) 咱俩到底谁赢谁输还真**说不定**呢。
+“说不定”，也可以做副词，表示估计，可能性很大。例如：
+(3) 周末他起得晚，这会儿**说不定**还在睡觉呢。
+(4) 别随随便便就说放弃，**说不定**下次就成功了。
+
+* **练一练**: 完成句子或对话
+    (1) 你再去图书馆或书店转转，__________________。(说不定)
+    (2) A: 今年的优秀毕业生定了吗？李阳有希望吗？
+        B: __________________。(说不定)
+    (3) A: 要想达到他那样的成就，我这辈子是不敢想了。
+        B: __________________。(说不定)
+
+#### 3. 似的 (shìde)
+“似的”，助词，“像/跟/好像……似的”表示跟某种事物、情况相似。多用于书面语。例如：
+(1) 消息一出来，询问情况的电话雪片**似的**纷纷打来。
+(2) 我不敢相信这是真的，好像做梦**似的**。
+在“……得+什么似的”结构中，“什么似的”代替想表示的情态，有夸张的语气。例如：
+(3) 刘方背着重重的电脑包挤地铁，下班回到家累得什么**似的**。
+(4) “夕”吓得什么**似的**，急忙往外逃。
+
+* **练一练**: 完成句子或对话
+    (1) 丽丽爱读书，一天要是不看点儿什么，__________________。(似的)
+    (2) 李阳考上了北大，__________________。(似的)
+    (3) A: 小刘怎么了？她今天有点儿不太高兴。
+        B: __________________。(似的)
+
+#### 4. 纷纷 (fēnfēn)
+“纷纷”，形容词，“动词/形容词+纷纷”形容（言论、落下的东西）多而乱。例如：
+(1) 秋风刮起，落叶**纷纷**。
+(2) 他救起了妻子，孩子却被大水冲走了。事后，人们议论(yìlùn, to talk about)**纷纷**。
+“纷纷”，也可以做副词，后面接动词，表示（许多人或事物）接二连三地。例如：
+(3) 除掉“夕”以后，百姓**纷纷**对七郎表达谢意。
+(4) 要下雨了，路上的人**纷纷**往家里跑。
+
+* **练一练**: 完成句子或对话
+    (1) 新年快到了，各大商场、购物中心、__________________。(纷纷)
+    (2) 见到熊猫的游客们非常兴奋，__________________。(纷纷)
+    (3) A: 听说了吗？小刘的妻子生了个女儿。
+        B: __________________。(纷纷)
 
 ---
 
-# HSK Standard Course 5 (Part A) - Unit 3: 倾听故事 (Listening to Stories and Anecdotes)
+### 【词语搭配】 (Collocations)
+
+| 结构 | 搭配示例 |
+|---|---|
+| **动词 + 宾语** | **制造** 飞机/机会/战争/难题 <br> **表达** 思想/决心/心情/感受/意见/看法 |
+| **定语 + 中心语** | **天真的** 孩子/性格/想法 <br> **整个** 房间/社会/计划/夏天/过程 |
+| **状语 + 中心语** | **仔细地/关心地/急忙/纷纷** **询问** <br> **准确地/生动地/形象地** **表达** |
+| **中心语 + 补语** | **除** 掉/去 <br> **吓/急/恨/羡慕/后悔/吵** **得+什么似的** |
+
+---
+
+### 【词语辨析】 (Word Discrimination)
+
+**打听 (dǎting) vs 询问 (xúnwèn)**
+
+| 特点 | 打听 | 询问 |
+|---|---|---|
+| **共同点** | 都是动词，都有“问”的意思。<br>如：他**打听/询问**了老人的身体和生活情况。 | |
+| **不同点** | 1. 多用于口语。<br>如：我跟您**打听**一下，附近有邮局吗？<br>2. 一般用于寻找、了解有关信息，后可跟结果补语“到”。<br>如：我到处**打听**也没**打听**到这家公司。<br>3. 后面可跟动作的对象，还可活用为名词。 | 1. 多用于书面语。<br>如：他仔细地**询问**了公司近年来的发展情况。<br>2. 后面一般不能带结果补语“到”；另外，还有“征求意见”的意思。<br>如：他打电话**询问**刘教授对论文的意见。<br>3. 没有这种用法。 |
+
+* **做一做**: 选词填空 (打听 / 询问)
+    (1) A: 打扰一下，向您 ______ 一件事。你知道王老板有什么兴趣爱好吗？
+        B: 他最大的爱好就是去各地旅游了，平时也喜欢看看书、看看电影什么的。 (询问)
+    (2) 她 ______ 到北京有位医生能治这个病，就带着孩子来了。 (打听)
+    (3) 我 ______ 了一下，附近像这样的房子，差不多都得一百万。 (打听)
+    (4) 我 ______ 了几个修过机器的顾客，他们对小刘的服务都很满意。 (询问)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(赶紧, 无奈, 制造, 果然, 伤害, 此外)
+
+1. 还真让你说对了，他 ( ) 还不知道这件事。
+2. 姑娘脸上表现出很 ( ) 的样子。
+3. 两岁的果果是我们家最能 ( ) 麻烦的人。
+4. 他喜欢音乐、电影、运动，( ) 还喜欢旅行。
+5. 不用送了，回去吧，家里还有别的客人呢。
+6. 经常熬夜对身体的 ( ) 极大。
+
+**2. 选择正确答案**
+
+1. 人的思想感情是非常丰富的，有些是无法用语言准确地 ( )。(A. 表示 B. 表达)
+2. 你给他回个电话，他好像有什么急事找你。(A. 急忙 B. 赶紧)
+3. 今天是不可能了，你安排一个时间见面吧。(A. 此外 B. 另外)
+4. 明星(míngxīng, star)的影响力不一般。(A. 果然 B. 居然)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 你的担心不是A没有B道理的，今天李阳C没有D通过面试。(果然)
+2. A学院B所有的C老师同学都在议论D这件事。(整个)
+3. A路上的人B他着急，拉住C他的马，阻止D他说：“方向错了。”(替)
+4. 忽然，他看见小木屋的方向B升起了黑烟，C他D跑过去看。(急忙)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| “夕”的情况和习性 | 怪物、伤害、制造、灾害、响声、影子 | |
+| 七郎除掉“夕”的经过 | 果然、锅、盆、吓、似的、逃、射 | |
+| 年三十的风俗习惯 | 守岁、熬夜、鞭炮 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 旅游 (Travel)**
+* **词语**: 名胜古迹 (míngshèng gǔjì), 风景 (fēngjǐng), 展览 (zhǎnlǎn), 合影 (hé yǐng), 预订 (yùdìng), 结账 (jié zhàng), 团 (tuán), 时差 (shíchā).
+
+**话题: 节日 (Festival)**
+* **词语**: 国庆节 (Guóqìng Jié), 元旦 (Yuándàn), 除夕 (Chúxī).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 我们还是先 ( ) 好宾馆吧，到了那儿再找比较麻烦。
+2. 你好，我要退房，现在可以 ( ) 吗？
+3. 我昨天刚从英国回来，( ) 还没倒过来。
+4. 在北京留学的这一年，这里的各大 ( ) 我都看遍了。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+每个国家都有自己的传统节日，新年应该是中国最热闹的节日之一了。中国人过年时有很多风俗习惯和庆祝活动。亲朋好友要互相拜年，家家户户都要贴春联(chūnlián, Spring Festival couplet)，放鞭炮，包饺子，逛庙会(miàohuì, temple fair)，看舞龙、舞狮子。另外，大人们也忘不了给孩子红包，这个红包还有一个特别的名字叫“压岁钱”。以上介绍的有关春节的风俗习惯，你知道哪些？
+
+**话题讨论: 我知道的有关中国新年的风俗习惯**
+1. 有关春节的风俗习惯，你比较了解的是什么？
+2. 你是怎么知道这些情况的？你感兴趣的地方（或原因）是什么？
+3. 如果你能在中国过春节的话，你最想做的是什么？
+
+**命题写作:**
+请以"**我眼中的中国春节**"为题写一段话，介绍一下你对中国春节的了解和看法。尽量用本课所学的生词，字数不少于100字。
+
+---
 
 ## 第7课 成语故事两则 (Two Idiom Stories)
 
 ### 【热身】 (Warm-up)
 
 **1. 请看下面的图片，试着找出本课跟它有关的生词。**
-*(Look at the picture below and try to find new words from this lesson related to it.)*
 
-> **[画像生成プロンプト]**: An illustration of the fable 'Blind Men and an Elephant'. A large, gentle elephant stands in the center. Four or five blind men in ancient robes are touching different parts of the elephant: one touching the trunk, one the tusk, one the ear, one the leg, and one the tail. Each man has an expression of discovery. Storybook illustration style.
+![盲人摸象](blind_men_and_elephant.png)
+> **[画像生成プロンプト]**: An illustration of the fable "Blind Men and an Elephant". A large elephant stands in the center. Several blind men in ancient Chinese clothing are touching different parts of the elephant. One touches the tusk, one the ear, one the leg, one the tail, and one the trunk. They look like they are arguing or describing what they feel.
 
-* **生词**: 大象 (Elephant), 牙齿 (Tooth), 耳朵 (Ear), 尾巴 (Tail), 腿 (Leg).
+* **生词**: 大象, 牙齿, 耳朵, 尾巴, 腿.
 
 **2. 请先想一想这个故事想要说明什么道理，然后向大家介绍一下你对这个故事的理解。**
-*(Think about the moral of this story first, then share your understanding with the class.)*
 
 ---
 
@@ -726,7 +1468,7 @@
 
 人们对这件事情感到很不解，就去问当时最有影响力的学者扬雄。扬雄回答说：“如果诚心实意，即使像金属和石头那样硬的东西也会被打动。”“精诚所至，金石为开”这一成语也便由此流传下来。
 
-[cite_start]*(改编自《列子》与《史记》)* [cite: 901-936]
+[cite_start]*(改编自《列子》与《史记》)* [cite: 5472-5506]
 
 ---
 
@@ -790,20 +1532,128 @@
 (2) 别听他**瞎**说！
 (3) 你就别替他**瞎**担心了。
 
+* **练一练**:
+    (1) ______________，但她的脸上总是有美丽的微笑。 (瞎)
+    (2) A: 刚才的考试你考得怎么样？我有好几个题不会做。
+        B: ______________。 (瞎)
+    (3) 你少跟他打交道，______________。 (瞎)
+
 #### 2. 分别 (fēnbié)
 副词，表示分头、各自。
-(1) 士兵们**分别**去不同地方寻找……
-(2) 我们**分别**找两个人打听了这件事。
+(1) 士兵们**分别**去不同地方寻找，把找到的大象和盲人带到他面前。
+* **练一练**:
+    (1) 时间过得真快，______________。 (分别-动词)
+    (2) A: 快放寒假了，你们假期有什么打算？
+        B: ______________。 (分别-副词)
+    (3) A: 我们有三年没见面了吧？
+        B: ______________。 (分别-名词)
 
 #### 3. 根 (gēn)
 量词，常用于细长的东西。名词，植物的根。
-(1) 大象像一**根**绳子。
-(2) 这棵树的**根**又粗又长。
+(1) 大象像一**根**绳子。 (Measure word)
+* **练一练**:
+    (1) 植物靠______________。 (根 名词)
+    (2) 第一次用筷子的时候，______________。 (根 量词)
+    (3) A: 你今天去超市主要想买什么？
+        B: ______________。 (根 量词)
 
 #### 4. 便 (biàn)
 副词，意思是“就”，常用于书面语。
 (1) 楼上新买了一架钢琴，我们家**便**多了一些不安静。
 (2) “精诚所至，金石为开”这一成语也**便**由此流传下来。
+* **练一练**:
+    (1) 他刚出门，发现没带钥匙，______________。 (便)
+    (2) 朋友不停地给她介绍男朋友，但是每次______________。 (便)
+    (3) 如果我们坚持原来的想法，这个工作______________。 (便)
+
+---
+
+### 【词语搭配】 (Collocations)
+* **寻找** + 机会 / 信息 / 亲人
+* **确定** + 时间 / 地点 / 人选
+* **片面(地)** + 看 / 认为
+* **连续** + 工作 / 驾驶 / 发生 / 演出
+* **摸** + 到…… / 出来
+* **打/撞/撕** + 碎
+* **一支** + 笔 / 花 / 箭
+* **一根/一条** + 尾巴 / 绳子 / 杆
+* **这件事情** + **不要紧**
+* **反应** + 很快
+
+### 【词语辨析】 (Word Discrimination)
+**忽然 (hūrán) vs 突然 (tūrán)**
+* **忽然**: 副词、只能用在动词或小句前。
+* **突然**: 形容词、可做谓语、补语、定语。
+
+* **做一做**:
+    (1) 他抱着小狗走到门口，______________想起妈妈不允许他在家里养小动物。
+    (2) 消息来得太______________了，我完全没有准备。
+    (3) 这是一个______________的变化，我们谁也没想到。
+    (4) 有个铁路工人就辞了职，买帆船出海了，你______________听说了吗？
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(尽力, 片面, 确定, 善于, 寻找, 不要紧)
+
+1. 他在四处 ( )，但至今仍然没有结果。
+2. 不能这样 ( ) 地看问题，而要多方面地考虑。
+3. 你 ( ) 他就是我们要找的那位英雄吗？
+4. 我们班有个同学被车撞了，还好伤得不重，( )。
+5. 她很爱护学生，也很 ( ) 教育他们。
+6. 别难过了，虽然成绩不理想，但你已经 ( ) 了。
+
+**2. 选择正确答案**
+
+1. 每天我一回家，可爱的小狗就 ( ) 着尾巴冲我跑过来。 (A. 摸 B. 摇)
+2. 对我们提出的意见，老板还没有做出 ( )。 (A. 反应 B. 反映)
+3. 我真的需要休息了，我已经 ( ) 工作20个小时了。 (A. 继续 B. 连续)
+4. ( )，我想到了一个办法，你们看看行不行。 (A. 唉 B. 哎)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 他A没回家，肯定是B公司有事，你C着什么D急！ (瞎)
+2. A半夜里，B他C睡着睡着D坐了起来。 (忽然)
+3. 这么美丽的B图画竟然是用C绳子D做的！ (根)
+4. 他们A去两个B不同的城市做社会调查，想了解C南方和北方D不同的风俗！ (分别)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 盲人摸象 | 瞎、分别、摸、片面、结论 |
+| 精诚所至，金石为开 | 称、忽然、不要紧、确定、连续、硬、便 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 语言文字 (Language and Characters)**
+* **词语**: 文字 (wénzì), 词汇 (cíhuì), 成语 (chéngyǔ), 字母 (zìmǔ), 声调 (shēngdiào), 拼音 (pīnyīn), 语气 (yǔqì), 疑问 (yíwèn), 否定 (fǒudìng), 省略 (shěnglüè).
+
+**做一做: 选词填空**
+1. 对我来说，汉语拼音中的 ( ) 很难，我常常分不清二声和三声。
+2. 你怎么能用这种 ( ) 跟父母说话呢？
+3. 写文章的时候，不用在每个句子里都用“我”，前面已经有了，后面就可以 ( ) 了。
+4. 我提出了我的看法，但领导 ( ) 了我的意见。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+射箭的时候，我们要对准目标(mùbiāo, target)。这个目标，在古代叫作“的”，也就是我们今天说的“目的”的“的”；而箭，在古代叫作“矢”(shǐ, arrow)。连起来就是成语“有的放矢”。我们在这一课中学到了“精诚所至，金石为开”，它告诉我们，做事情的时候，态度很重要，如果诚心实意，即使像金属和石头那样硬的东西也会被打动。但另一方面，如何确定目标也很重要。我们都知道，箭射出的距离是有一定限度的，太远的目标，即使非常正确，也是无法达到(dádào, to reach, to attain)的。
+
+**话题讨论: 凡事应有的放矢**
+
+1. 你学习过射箭吗？应该怎么做才能更容易射中目标？
+2. 在学习、工作或者生活中，我们同样需要有目标，你的目标是什么？
+3. 你觉得给自己确定什么样的目标才是最合适的？
+
+**命题写作:**
+请以“**有的放矢**”为题，谈一谈你对做事情时态度和目标的看法。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -813,14 +1663,12 @@
 
 **1. 你能用中文说出下面图片中的食物吗？**
 
-> **[画像生成プロンプト]**: A nutritional food pyramid diagram divided into four sections.
-> * **Bottom (Base)**: Grains like bread, rice, and noodles.
-> * **Second Tier**: A variety of fresh fruits and vegetables.
-> * **Third Tier**: Proteins like fish, meat, milk, and eggs.
-> * **Top (Tip)**: Sweets, candy, and ice cream.
-> * **Style**: Simple, colorful cartoon style suitable for vocabulary learning.
+![食物金字塔](food_pyramid.png)
+> **[画像生成プロンプト]**: A nutritional food pyramid diagram divided into four sections. Top (Tip): Sweets/Ice cream. Third Tier: Proteins/Dairy. Second Tier: Fruits/Vegetables. Bottom (Base): Grains/Bread. Simple, colorful cartoon style suitable for vocabulary learning.
 
 * **词汇**: 糖 (Candy), 冰激凌 (Ice cream), 蔬菜 (Vegetables), 鱼 (Fish), 肉 (Meat), 面包 (Bread).
+
+**2. 说说在你们国家，有哪些常吃的食物，它们跟中国的食物有哪些相同，有哪些不同。**
 
 ---
 
@@ -850,7 +1698,7 @@
 
 哲学家用这个故事告诉人们，不要太关心生死、得失，因为到最后我们会发现没有失去什么，也没有得到什么。不过，发展到今天，“朝三暮四”这个成语的意义已经完全改变了。你知道它现在是什么意思吗？
 
-[cite_start]*(改编自《庄子》)* [cite: 1046-1113]
+[cite_start]*(改编自《庄子》)* [cite: 5634-5683]
 
 ---
 
@@ -906,12 +1754,138 @@
 
 ### 【注释】 (Notes)
 
-1.  **倒 (dào)**: Actually; contrary to expectation.
-    * *Ex:* 用橡子喂猴子**倒**是个办法。
-2.  **...来...去 (...lái...qù)**: Back and forth; repeatedly.
-    * *Ex:* 跳**来**跳**去**; 跑**来**跑**去**.
-3.  **要不 (yàobu)**: Otherwise; or else.
-    * *Ex:* **要不**这样吧...
+#### 1. 倒 (dào)
+副词，表示跟一般情况相反。
+(1) 在其他粮食不足的情况下，用橡子喂猴子**倒**是个办法。
+(2) 少年不解地问：“怎么勇敢反**倒**成为缺点了？”
+“倒”，表示没有想到。
+(3) 有这样的人？我**倒**要认识认识。
+(4) 小刘租的房子虽然很小，不过收拾得**倒**还干净。
+“倒”，可以表示让步，先用“倒”肯定，再说其他方面。
+(5) 质量**倒**是挺好，就是价格太贵了。
+(6) 我**倒**是很愿意参加这次活动，就是暂时无法确定是否有时间。
+
+* **练一练**: 完成句子或对话
+    (1) A: 你觉得这套房子装修得怎么样？
+        B: ______________ (倒)
+    (2) ______________，做起来可就难了。 (倒)
+    (3) A: ______________ (倒)
+        B: 着什么急啊？再等两分钟，马上就好了。
+
+#### 2. ...来...去 (...lái...qù)
+表示动作的多次重复，用在“来”和“去”前的两个动词通常是同一个词或者近义词。
+(1) 小狗追着自己的尾巴，在草地上跑**来**跑**去**。
+(2) 猴子们似乎只弄懂了主人前面说的一个“三”，觉得自己吃了亏，一个个立起身子跳**来**跳**去**，对着老人大喊大叫地发脾气。
+
+* **练一练**: 完成句子或对话
+    (1) 他的手机不见了，很着急，______________ ( ...来...去)
+    (2) 公园里，______________ ( ...来...去)
+    (3) A: 怎么帮他把丢掉的手机找回来，你有办法了吗？
+        B: ______________ ( ...来...去)
+
+#### 3. 要不 (yàobu)
+连词，意思跟“要不然”相同，表示如果不这样，就会出现下面的结果。
+(1) 老太太说：“4块，**要不**我不买。”
+(2) 还好碰见你了，**要不然**我今天肯定要迟到了。
+“要不/要不然”还可以表示还有另外一种选择。
+(3) 今天太晚了，**要不**你明天再走吧。
+(4) **要不**这样吧，既然你们觉得少，那就改成每天早上四颗，晚上三颗，这样总够了吧？
+
+* **练一练**: 完成句子或对话
+    (1) 谢谢你昨晚给我发了个短信，______________ (要不)
+    (2) A: 后天我们打算去中国朋友家过除夕，你有什么计划？
+        B: ______________ (要不)
+    (3) A: ______________ (要不)
+        B: 我都行，看你什么时候方便吧。
+
+---
+
+### 【词语搭配】 (Collocations)
+* **限制** + 数量 / 年龄 / 发展
+* **显得** + 格外高兴 / 更加美丽
+* **固定(的)** + 结构 / 职业 / 收入
+* **消费** + 群体 / 量 / 习惯
+* **完整地** + 叙述 / 取出来
+* **跟朋友/家人** + **相处**
+* **一群** + 猴子 / 鸟 / 人
+* **一颗** + 葡萄 / 牙齿
+
+### 【词语辨析】 (Word Discrimination)
+**彼此 (bǐcǐ) vs 互相 (hùxiāng)**
+* **彼此**: 代词，可做主语、宾语、定语。
+* **互相**: 副词，用在动词前。
+* **做一做**: 选词填空
+    (1) 你们是姐妹，应该 ______________ 照顾。
+    (2) 对同一个问题，______________ 的认识不同，是很正常的事情。
+    (3) 我们是夫妻，各自除了孝顺自己的父母，也应该孝顺 ______________ 的父母。
+    (4) 现在是我们公司最困难的时候，大家应该 ______________ 支持，______________ 帮助。
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(颗, 群, 安慰, 似乎, 限制, 相处)
+
+1. 希望我们能够友好 ( )，共同发展。
+2. 他最近心情不太好，事情 ( ) 办得不太顺利。
+3. 聚在电台门口的那 ( ) 人是干什么的？
+4. 她跟丈夫离婚后非常伤心，朋友们轮流来 ( ) 她。
+5. 小明昨天掉了一 ( ) 牙齿，这是他第一次换牙。
+6. 这次的作文不 ( ) 字数，你可以想写多少就写多少。
+
+**2. 选择正确答案**
+
+1. 我建议这几天我们应该把下周会议讨论话题的顺序 ( ) 下来。 (A. 固定 B. 一定)
+2. 汉语的 ( ) 非常丰富，你得特别注意近义词之间的区别。 (A. 词 B. 词汇)
+3. 这篇文章从 ( ) 上写得不错，有些小地方还要再改改。 (A. 整体 B. 完整)
+4. 这两个女孩儿关系非常好，( ) 亲姐妹一样。 (A. 似乎 B. 好像)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 从成为A大学同学以来，B他们就C相爱D了。(彼此)
+2. 他输了这场比赛不是因为能力A不够B，而是因为C准备D。(不足)
+3. A我B很想辞职，但是C我妻子D不支持我的想法。(倒是)
+4. 你已经不错了，别老觉得自己好像B吃了C亏D似的！(大)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 老人和猴子的关系 | 群、相处、彼此 |
+| 老人发现的问题 | 粮食、财产、节省、限制、淘气 |
+| 老人和猴子的交流 | 不足、倒、似乎、...来...去、要不、显得 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 饮食1 (Food & Drink 1)**
+
+* **词语**: 粮食 (liángshi), 蔬菜 (shūcài), 豆腐 (dòufu), 辣椒 (làjiāo), 花生 (huāshēng), 土豆 (tǔdòu), 玉米 (yùmǐ), 馒头 (mántou), 海鲜 (hǎixiān), 香肠 (xiāngcháng), 食物 (shíwù).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. ( ) 主要是指可以做主食的东西，比如大米、土豆、玉米等。
+2. 你不能每顿饭光吃肉，还得多吃 ( )。
+3. 我不太能吃辣，麻烦你做菜时少放点儿 ( )。
+4. 我老家靠海，所以我从小就喜欢吃 ( )。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+“朝三暮四”这个词原来的意思是说不管是“朝三暮四”，还是“朝四暮三”，实际上没有变化，我们没有得到什么，也没有失去什么。后来这个成语用来形容(xíngróng, to describe)做事经常改变，到今天甚至发展成专门用来形容一个人对感情不专一。从这个例子，我们可以看到词汇在使用过程中意义发生了变化。这种情况在每种语言中都会出现。
+
+**话题讨论: 词汇的语义变化**
+
+1. 请调查一下汉语中词汇语义从古代到现代发生变化的情况，例如“菜”“金”“汤”“走”等。
+2. 举一个你自己母语中词汇语义变化的例子。
+3. 你觉得了解这种语义变化现象对你的汉语学习有帮助吗？举例说明。
+
+**命题写作:**
+请以“**“朝三暮四”的古与今**”为题，谈一谈你对词汇语义变化的看法。尽量用本课所学的生词，字数不少于100字。
 
 ---
 
@@ -921,7 +1895,14 @@
 
 **1. 请说说照片里的人物是谁。关于他，你知道些什么？**
 
-> **[画像生成プロンプト]**: A portrait of the famous Chinese writer Lu Xun. He has short hair, a thick mustache, and a serious, intense expression. He is wearing a traditional Chinese long gown (changshan). The style should be a black and white sketch or charcoal drawing, reflecting the early 20th-century historical and literary context.
+![鲁迅](lu_xun_portrait.png)
+> **[画像生成プロンプト]**: A black and white portrait illustration of Lu Xun (鲁迅). He should be depicted with his characteristic short hair, thick mustache, and serious expression, wearing a traditional Chinese long gown (changshan). The style should resemble a charcoal sketch or ink drawing.
+
+**2. 问一下你的同学或朋友，他们跟朋友聚会时常常去哪些地方，最喜欢进行什么活动。**
+
+| 常去的地方 | 进行的活动 | 地点和活动情况介绍 |
+|---|---|---|
+| | | |
 
 ---
 
@@ -937,7 +1918,7 @@
 
 鲁迅也爱喝酒，虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。他是每顿饭必喝酒的人。现在保存的历史资料记载，他和郁达夫一起喝酒的次数最多。鲁迅酒量不大，经常喝醉，而且在喝酒的过程中烟不离手。郁达夫在1933年曾经作诗形容他：“醉眼蒙胧上酒楼，彷徨呐喊两悠悠”，描写得十分形象。
 
-[cite_start]*(改编自《民国吃家》)* [cite: 1204-1223]
+[cite_start]*(改编自《民国吃家》，作者：二毛)* [cite: 5785-5794]
 
 ---
 
@@ -988,12 +1969,113 @@
 
 ### 【注释】 (Notes)
 
-1.  **算 (suàn)**: To regard as; to count as.
-    * *Ex:* 在吃喝这件事上，就**算**是个地道的行家。
-2.  **作为 (zuòwéi)**: As; being; to look upon as.
-    * *Ex:* **作为**大作家...
-3.  **曾经 (céngjīng)**: Once; used to. Indicates past action.
-    * *Ex:* 郁达夫**曾经**作诗形容他。
+#### 1. 算 (suàn)
+“算”，动词，意思是“认作，当作”。
+(1) 例如著名的文学家鲁迅，在吃喝这件事上，就**算**是个地道的行家……
+(2) 这钱就**算**我借给你的，将来你有了的时候再还我。
+“算”后面可以跟“了”，表示“作罢、不再计较”的意思。
+(3) 不就是一个空瓶子吗？扔掉**算**了。
+(4) **算**了吧，你跑得再快，也追不上会飞的鸟啊。
+
+* **练一练**: 完成句子或对话
+    (1) 从我家去公司，坐几站地铁就到了，______________。 (算)
+    (2) A: 后天是孩子的生日，你打算怎么表示一下呀？
+        B: ______________。 (算)
+    (3) A: 电影几点开始？吃完饭再去，时间是不是有点儿紧张啊？
+        B: ______________。 (算了)
+
+#### 2. 作为 (zuòwéi)
+“作为”，动词，意思是“看作，认为是……”。
+(1) 北海公园离家最近，所以我把那儿**作为**每晚散步的去处。
+(2) 经理要请我去吃顿饭，说是**作为**我加班的表扬。
+“作为”，可以做介词，用于引出人的身份或事物性质。
+(3) **作为**大作家、大学问家，鲁迅对吃很讲究，吃的内容在他的日记里占了很大一部分。
+
+* **练一练**: 完成句子或对话
+    (1) ______________，治病救人是我们的职责。 (作为)
+    (2) A: 你做的面包比外边卖的都好吃，你真应该开个店。
+        B: 我喜欢现在的工作，______________。 (作为)
+    (3) A: 小明每天从早忙到晚，又是学游泳，又是弹钢琴，可学习成绩下降了很多。
+        B: ______________。 (作为)
+
+#### 3. 曾经 (céngjīng)
+“曾经”，副词，表示从前有过某种行为或出现过某种情况。
+(1) 郁达夫在1933年**曾经**作诗形容他……
+(2) 鲁迅**曾经**说他是将别人喝牛奶、咖啡的时间用来学习。
+(3) 孔子**曾经**带着学生周游各国14年，传播他的思想。
+
+* **练一练**: 完成对话
+    (1) A: 你和李阳好像很熟啊，你们以前就认识？
+        B: 对，______________。 (曾经)
+    (2) A: 你来北京才半年，汉语怎么说得这么好？
+        B: 哦，是这样的，______________。 (曾经)
+    (3) A: ______________。 (曾经)
+        B: 真的吗？我最近也迷上了摄影，以后遇到问题可以请教他了。
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(戒, 首, 保存, 地道, 讲究, 形象)
+
+1. 著名的文学家、语言学家刘半农1920年写了一 ( ) 题为《教我如何不想她》的小诗，流传至今。
+2. 筷子是中餐最主要的进餐用具，在使用上也有很多 ( )。
+3. 你咳嗽得这么厉害，真得 ( ) 烟了！
+4. 作为一家北京的川菜馆，能做出如此 ( ) 的麻婆豆腐真是不容易。
+5. 新鲜的葡萄不易 ( )，因此其价格也比较高。
+6. 公司这次要求招聘 ( ) 好的职员。
+
+**2. 选择正确答案**
+
+1. 他平时成绩一般，但在今晚的比赛中 ( ) 得很突出。(A. 表达 B. 表现)
+2. 我对从1840年到1919年的中国历史很感兴趣。(A. 近代 B. 现代)
+3. 我今天 ( ) 不太舒服，所以没什么。(A. 胃 B. 胃口)
+4. 人们 ( ) 把西红柿当作有害的果子。(A. 曾经 B. 已经)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 这事你找我A商量B找对人C了，这方面我可懂得D不少。(算)
+2. 我A听说总理B将C参加这次活动D。(亲自)
+3. 请写下与你A关系最B亲近的六个朋友，记下他们每个人的月收入，然后C算出他们月收入的D数。(平均)
+4. A这B怎么C是个缺点呢？D是个优点呀！(明明)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 鲁迅与美食 | 算、亲自、作为、讲究 |
+| 广和居 | 平均、位于、光临、交际、招待、胃口 |
+| 鲁迅与酒 | 胃、戒、保存、曾经 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 社会 (Society)**
+
+* **词语**: 道德 (dàodé), 传统 (chuántǒng), 风俗 (fēngsú), 制度 (zhìdù), 秩序 (zhìxù), 权力 (quánlì), 权利 (quánlì), 义务 (yìwù), 文明 (wénmíng), 人口 (rénkǒu), 集体 (jítǐ).
+
+**做一做: 选词填空**
+1. 公司有严格的管理 ( )，保证了各项工作的正常进行。
+2. 每一个学龄儿童都有受教育的 ( )。
+3. 西安，古称“长安”，是世界四大古都之一。
+4. 乘车、购物要排队，好的公共 ( ) 需要我们每个人的努力。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+鲁迅(1881-1936)，浙江绍兴人，原名周树人，“鲁迅”是他在1918年5月发表中国第一篇白话小说《狂人日记》时开始使用的笔名。他曾留学日本学习医学，后从事(cóngshì, to engage in)文学创作。在中国，鲁迅是中国现代文学史上一位地位独特、影响深远的作家。他的作品思想(sīxiǎng, thought)深刻，充满批判(pīpàn, to criticize)性，像是用笔做武器在战斗。《呐喊》和《彷徨》是他的两部小说集。
+
+**讨论话题: 我喜欢的一位名人**
+1. 你喜欢的这位名人是谁？简单介绍一下有关他/她的情况。
+2. 你如何评价他/她？你喜欢他/她的理由是什么？
+3. 你觉得他/她对你有影响吗？有什么影响？
+
+**命题写作:**
+请以“**我喜欢的一位名人**”为题，介绍一位你熟悉的著名人物。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1003,9 +2085,14 @@
 
 **1. 请试着用本课的生词来描述下面的图片。**
 
-> **[画像生成プロンプト]**: A dynamic, realistic illustration of a brown horse in full gallop. The horse is captured mid-stride with all four hooves off the ground, emphasizing speed and motion. The background is a blurred grassy field to suggest movement. This references Eadweard Muybridge's famous photographic experiment.
+![奔跑的马](galloping_horse.png)
+> **[画像生成プロンプト]**: A realistic illustration of a brown horse galloping in a field. The horse is captured mid-stride with all four hooves off the ground, emphasizing speed and motion. This references Eadweard Muybridge's famous photographic experiment.
 
 * **描述**: 这是一位摄影师**拍**的照片。
+
+**2. 你知道哪些表示手部动作的动词？请写在下面的横线上，并说说它们分别是什么意思。**
+* **本课生词中的**: 拍
+* **其他你知道的**: ____________________
 
 ---
 
@@ -1023,7 +2110,7 @@
 
 留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。
 
-[cite_start]*(改编自《小故事大道理》)* [cite: 1321-1336]
+[cite_start]*(改编自《小故事大道理》)* [cite: 5892-5907]
 
 ---
 
@@ -1073,47 +2160,137 @@
 
 ### 【注释】 (Notes)
 
-1.  **毕竟 (bìjìng)**: After all; in the final analysis.
-    * *Ex:* 不过摄影师**毕竟**是摄影师。
-2.  **逐渐 (zhújiàn)**: Gradually.
-    * *Ex:* 电影拍摄技术**逐渐**改进。
-3.  **或许 (huòxǔ)**: Perhaps; maybe.
-    * *Ex:* **或许**重大发现就在你的眼前。
+#### 1. 毕竟 (bìjìng)
+副词，意思是“到底，终于”。
+(1) 虽然我们遇到了很多困难，但**毕竟**完成了任务。
+(2) 不过摄影师**毕竟**是摄影师，主意还是有的。
+“毕竟”也用于指出最重要或正确的部分，常与表示“(不管怎样)结论就是这样”的句子一起使用。
+(3) 生活中总有无法解决的问题，**毕竟**不是所有的对错都能讲清楚，甚至可能根本就没有真正的对与错。
+(4) 他不高兴是正常的，**毕竟**没有人能在摔得头破血流的时候，还高兴得起来。
+
+* **练一练**: 完成句子或对话
+    (1) 你们毕竟是好朋友，______________。 (毕竟)
+    (2) A: 这孩子真是太淘气了！我快被他烦死了！
+        B: ______________。 (毕竟)
+    (3) A: 他最近脾气真是太差了，一点儿小事就发火！
+        B: ______________。 (毕竟)
+
+#### 2. 逐渐 (zhújiàn)
+副词，表示程度或数量一点点增加或减少。
+(1) 食物越来越少，老人不得不**逐渐**限制猴子的食量。
+(2) 这项运动首先在亚太地区流行，并**逐渐**受到世界各地人们的欢迎。
+(3) 经过艰苦的试验，电影拍摄技术**逐渐**改进、成熟。
+
+* **练一练**: 完成句子或对话
+    (1) A: 刚来北京的时候，你习惯吗？
+        B: ______________。 (逐渐)
+    (2) 茶首先在中国出现，______________。 (逐渐)
+    (3) A: ______________。 (逐渐)
+        B: 我觉得你说得对，就这么办吧。
+
+#### 3. 或许 (huòxǔ)
+副词，意思是“也许，有可能”。
+(1) 虽然以前她不支持你，但**或许**这次会有变化。
+(2) **或许**正是因为这一点一滴的努力，你就会走在别人的前面。
+(3) 留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，**或许**重大发现就在你的眼前。
+
+* **练一练**: 完成句子或对话
+    (1) 他的妻子前几年瘫痪了，______________。 (或许)
+    (2) A: 你猜这场比赛的结果会怎么样？
+        B: ______________。 (或许)
+    (3) A: ______________。 (或许)
+        B: 希望是这样，那我们再等五分钟。
 
 ---
 
-# HSK Standard Course 5 (Part A) - Unit 4: 走近科学 (Approaching Science)
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(插, 系, 拦, 拍, 说服, 围绕)
+
+1. 你今天 ( ) 这条领带吧，比较正式。
+2. 地球为什么会 ( ) 太阳转，一直是科学家们很感兴趣的问题。
+3. 如果不是他在中间 ( ) 了一手，事情不会变成现在这样。
+4. 这位导演 ( ) 过二十几部电影，得过好几项国际大奖。
+5. 我始终没有办法 ( ) 他接受这个结论。
+6. 前面不知道发生了什么事，路被 ( ) 住了。
+
+**2. 选择正确答案**
+
+1. 在昨天举行的 ( ) 赛上，他的表现得到了大家的好评。 (A. 争论 B. 辩论)
+2. 毕业二十年以来，我们 ( ) 保持着联系。 (A. 始终 B. 终于)
+3. 我们之间还有很大的 ( )，我要向他学习，更加努力。 (A. 差距 B. 距离)
+4. 吃中餐 ( ) 西餐都可以，只是我不能吃太辣的。 (A. 或许 B. 或者)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 我都十八岁B，能照顾好C自己，您就放心D吧。 (啦)
+2. A是秋天了，B再热C也不会像夏天那样。 (毕竟)
+3. 这是A已经B经过很多人C证明的D经验。 (成熟)
+4. 真心A希望B您能同意我的C，D帮我这个忙！ (请求)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 斯坦福与科恩的辩论 | 围绕、始终、说服 |
+| 麦布里奇的办法 | 操场、插、系、显示 |
+| 电影的产生 | 奇迹、逐渐、播放、纪念 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 服饰 (Clothing and Accessories)**
+
+* **词语**: 围巾 (wéijīn), 领带 (lǐngdài), 手套 (shǒutào), 牛仔裤 (niúzǎikù), 丝绸 (sīchóu), 布 (bù), 耳环 (ěrhuán), 戒指 (jièzhǐ).
+
+**做一做: 选词填空**
+1. 天气太冷了，你系条 ( ) 再出去吧。
+2. 我们去年买的那双 ( ) 你放在哪儿了？
+3. 今天不上班，不用穿西服，终于可以穿 ( ) 了。
+4. 您觉得这条 ( ) 怎么样？当生日礼物送给您先生很合适。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+历史上有很多伟大的发明。例如，中国传统的“四大发明”分别是造纸术、指南针(zhǐnánzhēn, compass)、火药和印刷(yìnshuā, printing)术。这些发明对我们的生产和生活产生了重大的影响。有趣的是，有些发明，不是科学家专门研究出来的，而是生活当中无意间发现的，就像我们课文中介绍的电影的产生一样。
+
+**话题讨论: 日常生活中的重大发现**
+1. 读过课文后，你认为电影的发明最重要的原因是什么？
+2. 你还知道哪些重大发现或发明的故事？请简单介绍一下。
+3. 从你介绍的这个发现或发明中，你想到了什么？
+
+**命题写作:**
+请以“**日常生活中的大发现/发明**”为题，谈一谈你所了解的日常生活中的重大发明或发现。尽量用上本课所学的生词，字数不少于100字。
+
+---
 
 ## 第11课 闹钟的危害 (Harm of Alarm Clocks)
 
 ### 【热身】 (Warm-up)
 
 **1. 下面几种醒来的方式中，你比较喜欢哪种？最不喜欢哪种？为什么？**
-*(Which of the following ways of waking up do you prefer? Which do you dislike the most? Why?)*
 
-* A. 闹钟的铃声 (Alarm clock ring)
-* B. 家人的催促 (Family members urging)
-* C. 鸟或狗的叫声 (Birds singing or dogs barking)
-* D. 渐亮的太阳光线 (Gradually brightening sunlight)
+* A. 闹钟的铃声
+* B. 家人的催促 (cuīcù, to urge)
+* C. 鸟或狗的叫声
+* D. 渐亮的太阳光线
 
-**2. 请从生词表中找出与睡眠有关的词语。**
+**2. 请从生词表中找出与睡眠有关的词语，并说说它们与睡眠有什么关系。**
 
-> **[画像生成プロンプト]**: A conceptual illustration of "Sleep and Alarm Clocks". A split composition.
-> * **Left side**: A person sleeping peacefully in a comfortable bed with soft, warm morning sunlight gently entering through the window (representing "Natural Waking").
-> * **Right side**: A close-up of a jarring, ringing alarm clock on a nightstand, with jagged lines indicating loud noise, contrasting with the peaceful scene (representing "Forced Waking").
-> * **Style**: Clean vector art or soft digital illustration suitable for a health topic.
+![睡眠と目覚まし時計](sleep_and_alarm.png)
+> **[画像生成プロンプト]**: A split-screen illustration contrasting two ways of waking up. Left side: A person waking up naturally in a sunlit room, looking refreshed and happy (Natural Waking). Right side: A person being jolted awake by a loud, vibrating alarm clock in a dark room, looking stressed and groggy (Forced Waking).
 
-* **词语**: 闹钟 (Alarm clock), 睡眠 (Sleep), 失眠 (Insomnia), 睡懒觉 (Sleep in).
+* **词语**: 闹钟, 睡眠, 失眠, 睡懒觉.
 
 ---
 
 ### 【课文】 (Text)
 
 **闹钟的危害**
-
-据报道，医学专家进行了一项新研究，研究发现：由于人们在一周内的营养摄入和饮食模式会影响到他们的体重变化，因此节食者的体重会在一周内上下波动。
-
-*(注: 上記はテキストの冒頭に誤って混入している第16課のテキストのようです。第11課の正しい本文は以下です)*
 
 医学研究证明，人类睡眠有其特定的机制，自然醒是最符合人体生物钟规律的。光线是自然醒的必要条件，是人体内的生物闹钟。
 
@@ -1182,33 +2359,130 @@
 #### 1. 来/过来 (lái/guòlái)
 趋向动词，用在动词“醒”后，表示由睡眠向清醒的过渡。
 (1) 人逐渐从熟睡过渡到浅睡，直到醒**来**。
-(2) 过了半天，脑子才清醒**过来**。
+“过来”，用在动词后，表示回到原来的、正常的状态。
+(3) 我被一阵吵闹声突然惊醒，过了半天，脑子才清醒**过来**。
+“动词+得/不+过来”，表示能力可以（或不够）做某事。
+(6) 最近手头的工作太多了，我都忙不**过来**了。
 
-* **练一练**:
-    (1) 老师说我文章里的错别字比较多，__________________ (过来)
+* **练一练**: 完成句子或对话
+    (1) 这棵树有上百年的树龄了，树干很粗，__________________ (过来)
+    (2) 老师说我文章里的错别字比较多，__________________ (过来)
+    (3) A: 刘阿姨帮着照顾孙子就够累的了，下个月她女儿的孩子又要出生了。
+        B: 是啊！__________________ (过来)
 
 #### 2. 所 (suǒ)
-助词，用在动词前。
+助词，用在动词前，指称事物。
 (1) 山水画**所**表现的是人与自然的关系。
-(2) 人们对自然醒与被闹钟铃声叫醒**所**产生的反应是很不相同的。
+(2) ……人们对自然醒与被闹钟铃声叫醒**所**产生的反应是很不相同的。
+“有/无+所+动词”，“所”与后接动词构成短语，做“有、无”的宾语。
+(3) 调查显示，随着年龄的增大，女性的职场幸福感有**所**提高。
+“所”，还可以做量词，用于住所、机构等。
+(5) 来自北京一**所**大学的学生做了关于这个问题的实验。
 
-* **练一练**:
+* **练一练**: 用所学词语改写句子
     (1) 我有一个建议要送给你，__________________ (所)
+    (2) 你忘记了__________________ (所)
+    (3) 他在北京住了五十年，__________________ (所)
 
 #### 3. 相当 (xiāngdāng)
-动词，表示两方面差不多。副词，表示程度较高。
-(1) ……与醉酒者**相当**。
-(2) 菜的味道好极了，我**相当**满意。
+动词，表示（数量、条件、情况等）两方面差不多。
+(1) ……这些能力最多为正常状态的65%，与醉酒者**相当**。
+“相当”还可以做副词，表示程度较高。
+(3) 菜的味道好极了，服务也挺周到，我**相当**满意。
 
-* **练一练**:
+* **练一练**: 完成句子或对话
     (1) 在最后的比赛中，__________________ (相当)
+    (2) A: 平常也不见你运动锻炼，可身体还这么好。
+        B: 我每天上下班都爬楼梯，__________________ (相当)
+    (3) A: 公司让我去上班了，你觉得我该不该接受这份工作呢？
+        B: 这家公司这么有名，__________________ (相当)
 
 #### 4. 数 (shù)
-数词，意思是“几”，多用于书面语。
-(1) 这种状态如果持续**数**天、**数**周、**数**月……
+动词 (shǔ)，表示查点（数目）或一个个说出（数目）。
+(1) 我大概**数**了一下，车上有32个学生。
+“数（最）……”或“（最）……的（要/就）数……”，表示计算或比较起来（最……）。
+(3) 我觉得北京最美、最有名气的公园要**数**颐和园了。
+数词 (shù)，意思是“几、几个”，多用于书面语。
+(5) 这里夏季的雷阵雨一般可持续**数**小时或者更久的时间。
 
-* **练一练**:
-    (1) 经过几年的努力，他终于拿到了博士学位。 (用“数”改写) -> __________________
+* **练一练**: 用所学词语改写句子
+    (1) 经过几年的努力，__________________，他终于拿到了博士学位。 (数)
+    (2) 据说，四川的峨眉山是中国雾天最多的地方。__________________。 (数)
+    (3) 它的听力非常好，__________________。 (数)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(所, 享受, 导致, 过渡, 必要, 规律)
+
+1. 在婚姻问题上，听听父母的意见还是很有 ______________ 的。
+2. 由于近一个月来没有降水，______________ 河水水位持续下降。
+3. 正如你 ______________ 估计的那样，李岩确实改变了主意。
+4. 擦擦办公桌，整理一下文件，这些都可以让你从放松的休息状态自然 ______________ 到工作状态。
+5. 生命在于运动，有 ______________ 的运动对身体健康大有好处。
+6. 为了 ______________ 轻松的生活，夫妻俩决定把家搬到这个安静的小镇。
+
+**2. 选择正确答案**
+
+1. 实验失败了没关系，打起 ______________ 从头再来。(A. 情绪 B. 精神)
+2. 每晚抽出点儿时间来阅读、学习，坚持 ______________ 年之后，成功就会向你招手。(A. 来 B. 数)
+3. 作为孩子的父母，我们当然 ______________ 他能成为一个有用的人才。(A. 愿望 B. 希望)
+4. 他的行为已经严重 ______________ 到了社会安全。(A. 危害 B. 伤害)
+
+**3. 画线连接可以搭配的词语**
+
+* **享受** -> 美酒 / 幸福 / 自由 / 快乐 / 艺术 / 人生
+* **导致** -> 错误 / 失败 / 失眠 / 危险
+* **稳定的/不满的/紧张的** -> 情绪
+* **(关于)家的/童年的/难忘的** -> 记忆
+* **努力/尽量/主动/故意/完全/永远** -> 避免
+* **准确地/成功地/专门/故意** -> 模仿
+* **计算** -> 出 / 出来
+* **改/救/清醒/明白/反应** -> 过来
+* **精神** -> 愉快 / 放松 / 饱满
+* **光线** -> 昏暗 / 明亮
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 自然醒的过程 | 光线、生物钟、必要、熟睡、浅睡、过渡、醒 |
+| 传统闹钟的危害 | 心慌、失眠、情绪、精神、导致、影响、相当、发病 |
+| “光闹钟”对传统闹钟的改进 | 自然醒、电子产品、模仿、光线、避免、伤害 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 家居 (Household)**
+
+* **词语**: 抽屉 (chōuti), 书架 (shūjià), 窗帘 (chuānglián), 地毯 (dìtǎn), 被子 (bèizi), 玩具 (wánjù), 日历 (rìlì), 日期 (rìqī), 包裹 (bāoguǒ).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 这块 ______________ 是去年夏天我和太太去新疆旅游时买回来的，她很喜欢。
+2. 李阳很喜欢作家老舍，______________ 上摆满了他不同时期的作品。
+3. 我建议您给孩子买这个 ______________ 火车，这个牌子很有名。
+4. 我把光盘放在书桌左边的第二个 ______________ 里了。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+在日常生活中，我们为了让自己能够按时醒来，通常都会给自己定个闹钟，但正如课文中所介绍的那样，闹钟对身体健康有很大的不良影响。有些国家，闹钟被评为他们最讨厌的人类发明之一。这些危害也许以前我们并未了解，或者即使知道也只能无奈地接受。
+生活紧张对现代人的生理和心理都产生了很大的危害，因而越来越引起人们的普遍关注。睡眠健康就是人们普遍关心的一个重要方面。如何放松我们的精神，获得一个舒适的睡眠呢？
+
+**话题讨论: 如何提高睡眠质量**
+
+1. 你是从什么时候开始使用闹钟的？为什么要用闹钟？
+2. 本文的观点你认为哪些是有道理的？
+3. 你有没有关于实现 (shíxiàn, to realize) “自然醒”的好的经验或做法？
+
+**命题写作:**
+请以“**你真的需要闹钟吗？**”为题，谈一谈你的看法。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1218,7 +2492,8 @@
 
 **1. 你认识照片中的这个人吗？他在干什么？他跟本课的内容有什么关系？**
 
-> **[画像生成プロンプト]**: A realistic illustration or digital painting of the famous soccer player Lionel Messi. He is wearing a blue and red sports jersey, skillfully juggling a soccer ball with his knee or foot. In the foreground or corner, a smartphone screen is visible displaying the WeChat logo and a chat interface, linking the sport star to the app as described in the text.
+![メッシのリフティング](messi_juggling.png)
+> **[画像生成プロンプト]**: A realistic illustration of the famous soccer player Lionel Messi. He is wearing a blue and red sports jersey, skillfully juggling a soccer ball with his knee or foot. In the foreground or corner, a smartphone screen is visible displaying the WeChat logo and a chat interface, linking the sport star to the app as described in the text.
 
 **2. 你平时主要通过什么方式跟家人或朋友联系？你使用过或正在使用微信这类产品吗？**
 
@@ -1226,7 +2501,7 @@
 
 ### 【课文】 (Text)
 
-**海外用户玩儿微信**
+**海外用户玩儿微信** (562字)
 
 举着手机，边颠着球边拍……国际足球明星梅西用微信直播自己的颠球技术，把手机另一头一个正在哭的小宝贝逗笑。这条30秒的全新广告宣传片在全球15个国家和地区同步上线。
 
@@ -1251,44 +2526,44 @@
 | 1 | 用户 | yònghù | n. | user |
 | 2 | *颠球 | diān qiú | | to juggle a soccer ball |
 | 3 | 明星 | míngxīng | n. | star, celebrity |
-| 4 | *直播 | zhíbō | v. | to broadcast live |
+| 4 | *直播 | zhíbō | v. | to make a live broadcast |
 | 5 | 宝贝 | bǎobèi | n. | baby |
 | 6 | 逗 | dòu | v. | to amuse, to tease |
-| 7 | 宣传 | xuānchuán | v. | to publicize |
+| 7 | 宣传 | xuānchuán | v. | to publicize, to promote |
 | 8 | *手笔 | shǒubǐ | n. | style (of handling affairs) |
-| 9 | 推广 | tuīguǎng | v. | to promote |
+| 9 | 推广 | tuīguǎng | v. | to popularize, to promote |
 | 10 | 注册 | zhùcè | v. | to register |
-| 11 | 召开 | zhàokāi | v. | to hold (a meeting) |
-| 12 | 合作 | hézuò | v. | to cooperate |
+| 11 | 召开 | zhàokāi | v. | to hold (a meeting), to convene |
+| 12 | 合作 | hézuò | v. | to cooperate, to work together |
 | 13 | 伙伴 | huǒbàn | n. | partner |
-| 14 | 总裁 | zǒngcái | n. | president |
+| 14 | 总裁 | zǒngcái | n. | president (of a company) |
 | 15 | 实现 | shíxiàn | v. | to realize, to achieve |
 | 16 | *覆盖 | fùgài | v. | to cover |
-| 17 | 移动 | yídòng | v. | to move; mobile |
+| 17 | 移动 | yídòng | v. | to move |
 | 18 | 通信 | tōngxìn | v. | to communicate |
-| 19 | 应用 | yìngyòng | v./n. | to apply; application |
-| 20 | 企业 | qǐyè | n. | enterprise |
-| 21 | *称霸 | chēngbà | v. | to dominate |
+| 19 | 应用 | yìngyòng | v. | to apply |
+| 20 | 企业 | qǐyè | n. | enterprise, company |
+| 21 | *称霸 | chēngbà | v. | to dominate, to maintain hegemony |
 | 22 | 背景 | bèijǐng | n. | background |
 | 23 | 高级 | gāojí | adj. | senior, high-ranking |
 | 24 | *副 | fù | adj. | deputy, vice |
-| 25 | 开发 | kāifā | v. | to develop |
+| 25 | 开发 | kāifā | v. | to develop, to exploit |
 | 26 | 中心 | zhōngxīn | n. | center |
-| 27 | 相关 | xiāngguān | v. | to be relevant |
-| 28 | 业务 | yèwù | n. | business |
+| 27 | 相关 | xiāngguān | v. | to correlate, to be relevant |
+| 28 | 业务 | yèwù | n. | professional work, business |
 | 29 | 现实 | xiànshí | n. | reality |
 | 30 | 个人 | gèrén | n. | individual |
 | 31 | 以及 | yǐjí | conj. | and also, as well |
 | 32 | 程度 | chéngdù | n. | degree, level |
-| 33 | 发达 | fādá | adj. | developed |
-| 34 | *创新 | chuàngxīn | v. | to innovate |
+| 33 | 发达 | fādá | adj. | developed, advanced |
+| 34 | *创新 | chuàngxīn | v. | to create sth. new, to innovate |
 | 35 | 领导 | lǐngdǎo | n. | leader |
 | 36 | 地位 | dìwèi | n. | position, status |
-| 37 | 经营 | jīngyíng | v. | to manage |
-| 38 | 销售 | xiāoshòu | v. | to sell |
+| 37 | 经营 | jīngyíng | v. | to manage, to run |
+| 38 | 销售 | xiāoshòu | v. | to sell, to market |
 | 39 | 针对 | zhēnduì | v. | to be targeted at |
-| 40 | 当地 | dāngdì | n. | local |
-| 41 | *代言 | dàiyán | v. | to speak on behalf of |
+| 40 | 当地 | dāngdì | n. | local, in the locality |
+| 41 | *代言 | dàiyán | v. | to speak on behalf of, to star in a commercial |
 | 42 | *华裔 | huáyì | n. | foreign citizen of Chinese origin |
 | 43 | *移民 | yímín | n. | immigrant |
 
@@ -1299,35 +2574,116 @@
 #### 1. 以及 (yǐjí)
 连词，用来连接并列关系的词或词组，连接成分一般有主次或先后的分别。
 (1) 吃饭时不要用筷子敲打碗、盆子**以及**桌面。
-(2) ……由于中国互联网的用户数量**以及**市场成熟程度等都低于发达国家……
+(2) 学校的领导、教师**以及**一些学生代表观看了演出。
+(3) ……由于中国互联网的用户数量**以及**市场成熟程度等都低于发达国家，在产品创新上难有领导地位……
 
-* **练一练**:
+* **练一练**: 完成句子或对话
     (1) A: 你认为学中文的重要性有哪些？
-        B: __________________ (以及)
+        B: __________________。 (以及)
+    (2) 妈妈在电话里问了我很多问题，如北京的天气怎么样，吃饭习惯不习惯，__________________。 (以及)
+    (3) A: 送人礼物的时候要注意些什么？
+        B: __________________。 (以及)
 
 #### 2. 程度 (chéngdù)
 名词，指某方面达到的水平或层次。
-(1) 问题已经发展到了十分严重的**程度**。
-(2) 在很大**程度**上，一个人的未来取决于他所受的教育。
+(1) ……由于中国互联网的用户数量以及市场成熟**程度**等都低于发达国家。
+(2) 问题已经发展到了十分严重的**程度**。
+(3) 在很大**程度**上，一个人的未来取决于他所受的教育。
 
-* **练一练**:
+* **练一练**: 完成句子或对话
     (1) __________________，你应该马上去看医生。 (程度)
+    (2) A: __________________？ (程度)
+        B: 我还不能完全理解。
+    (3) A: 对他提出的意见，你有什么看法？
+        B: __________________。 (程度)
 
 ---
 
-# HSK Standard Course 5 (Part A) - Unit 5: 放眼世界 (Seeing the World)
+### 【练习】 (Exercises)
 
-## 第13课 锯掉生活的“筐底” (Cutting Off the "Bottom of the Basket" in Life)
+**1. 选择合适的词语填空**
+(逗, 合作, 推广, 业务, 召开, 注册)
+
+1. 为了 ______________ 这项新产品，公司做了很多宣传。
+2. 原本定在周三上午 ______________ 的会议改时间了。
+3. 你做这么多事，难道只是为了 ______________ 女朋友开心？
+4. 要想在这个网站购物，你必须先 ______________ 一个它的邮箱。
+5. 那个新来的销售员这个月做成了三笔大 ______________，真厉害！
+6. 我们跟这家公司 ______________ 过两次，很愉快。
+
+**2. 选择正确答案**
+
+1. 像这样能够给全社会信心与快乐的事情，我们应该重点 ______________。(A. 宣传 B. 推广)
+2. 要吃中国菜，你首先要学会 ______________ 筷子。(A. 应用 B. 使用)
+3. 过了这么多年，我的愿望终于 ______________ 了！(A. 现实 B. 实现)
+4. 这是我的 ______________ 爱好，跟我学什么专业没有关系。(A. 个人 B. 自己)
+
+**3. 给括号里的词选择适当的位置**
+
+1. ①这个问题A是在什么样的背景B提C出D来的？ (下)
+2. ②公司A新B开发C的产品很受D消费者欢迎。 (出)
+3. ③本店销售A电视、B冰箱、C洗衣机D其他电器。 (以及)
+4. ④A这个问题，B我们C开会讨论了D好几次。 (针对)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 |
+|---|---|
+| 微信的广告 | 明星、逗、宣传 |
+| 微信的发展情况 | 总裁、召开、注册、实现、应用 |
+| 微信的研发和营销 | 中心、以及、程度、针对、当地 |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 电脑网络 (Computer & Network)**
+
+* **词语**: 键盘 (jiànpán), 鼠标 (shǔbiāo), 光盘 (guāngpán), 信息 (xìnxī), 硬件 (yìngjiàn), 软件 (ruǎnjiàn), 数码 (shùmǎ), 数据 (shùjù), 程序 (chéngxù), 系统 (xìtǒng), 网络 (wǎngluò), 信号 (xìnhào), 充电器 (chōngdiànqì).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 我忘带手机 ______________ 了，得节省着用，先关机吧。
+2. 汉字是一个整体的 ______________，字与字之间是有联系的。
+3. 调查 ______________ 显示，用户们对微信的服务很满意。
+4. 喂，您说什么？我听不清。这里 ______________ 不太好。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+人类的科学技术总是在不断(búduàn, continuously)进步，并给我们的生活带来巨大(jùdà, huge)的改变，使之更加轻松、方便。1946年，世界上第一台电子计算机问世(wènshì, to appear)，随后，出现了网络技术，到今天，其应用已遍布社会生活的方方面面，全世界已大约有10亿网民。人们用手机就可以随时上网。手机的应用越来越广，许多人把它看作生活中的必备用品。
+不过，这些科技发明应用在给我们带来许多方便的同时，也产生了一些我们不愿看到的现象：过度的应用造成经济上的浪费，时间的占用使我们忽略(hūlüè, to ignore)了亲友间面对面的交往等等。
+
+**话题讨论: 科技对生活的影响**
+
+1. 你是从什么时候开始使用××的？你觉得它在你的生活中重要吗？
+2. ××给你带来的好处是什么？
+3. ××对你的生活有什么不好的影响吗？
+
+**命题写作:**
+请以"**××（网络、手机等）改变我的生活**"为题，谈一谈你对这个问题的看法。尽量用上本课所学的生词，字数不少于100字。
+
+---
+
+## 第13课 锯掉生活的"筐底" (Cutting Off the "Bottom of the Basket" in Life)
 
 ### 【热身】 (Warm-up)
 
 **1. 请从生词表中找出合适的词语写在横线上。**
 
-> **[画像生成プロンプト]**: A historical illustration depicting the invention of basketball in 1891. Inside an old-fashioned gymnasium, a wooden peach basket (not a modern net) is nailed to a balcony railing. A soccer ball (as used originally) is hovering near the rim. A ladder is leaning nearby, suggesting the manual retrieval of the ball. The atmosphere should feel vintage and educational.
+![篮球框](basketball_hoop_diagram.png)
+> **[画像生成プロンプト]**: A simple, educational diagram of a basketball hoop and backboard. There should be four lines pointing to different parts with blank spaces (lines) for labeling.
+> * (1) Points to the backboard.
+> * (2) Points to the basket/rim.
+> * (3) Points to a player shooting the ball.
+> * (4) Points to the basketball itself.
+> * Style: Clean line art, suitable for a textbook.
 
-* **词语**: 篮板 (Backboard), 筐/篮筐 (Basket), 投篮 (Shoot), 球 (Ball).
+* **参考词汇**: 篮板, 筐, 投篮, 球.
 
-**2. 你喜欢打篮球吗？你知道篮球运动是怎么产生的吗？**
+**2. 你喜欢打篮球吗？你知道篮球运动是怎么产生的吗？说说你参加这项运动的情况。**
 
 ---
 
@@ -1343,7 +2699,7 @@
 
 去掉篮筐的底，本来是一件简单的事，可为什么那么多人都没由想到呢？说白了，因为我们的思维像篮球一样被篮筐的底挡在了半空中。于是，我们呆呆地去搬梯子、造机器……其实，世界上本来就没有太复杂的事，复杂都是我们自己造成的。生活仿佛篮筐，许多时候，我们需要做的只不过是一把锯子，来锯掉那些阻碍我们的“筐底”。
 
-[cite_start]*(改编自《环球人物》，作者：张前)* [cite: 1557-1586]
+[cite_start]*(改编自《环球人物》，作者：张前)* [cite: 1557-1559]
 
 ---
 
@@ -1351,62 +2707,171 @@
 
 | # | 词语 | 拼音 | 词性 | 英文释义 |
 |---|---|---|---|---|
-| 1 | *锯 | jù | v./n. | to cut with a saw; saw |
+| 1 | *锯(子) | jù(zi) | v./n. | to cut with a saw; saw |
 | 2 | 筐 | kuāng | n. | basket |
 | 3 | 训练 | xùnliàn | v. | to train |
-| 4 | 缺乏 | quēfá | v. | to lack |
+| 4 | 缺乏 | quēfá | v. | to lack, to be short of |
 | 5 | 项目 | xiàngmù | n. | item, project |
 | 6 | 桃 | táo | n. | peach |
 | 7 | 装 | zhuāng | v. | to load, to hold |
 | 8 | 启发 | qǐfā | v. | to enlighten, to inspire |
-| 9 | 安装 | ānzhuāng | v. | to install |
-| 10 | *栏杆 | lángān | n. | railing |
+| 9 | 安装 | ānzhuāng | v. | to install, to fix |
+| 10 | *栏杆 | lángān | n. | railing, balustrade |
 | 11 | 甲 | jiǎ | n. | first |
 | 12 | 乙 | yǐ | n. | second |
-| 13 | 工具 | gōngjù | n. | tool |
+| 13 | 工具 | gōngjù | n. | tool, instrument |
 | 14 | 投篮 | tóu lán | v. | to shoot (a basket) |
-| 15 | 踩 | cǎi | v. | to step on |
+| 15 | 踩 | cǎi | v. | to step on, to tread on |
 | 16 | 一再 | yīzài | adv. | over and over again |
 | 17 | 重复 | chóngfù | v. | to repeat |
-| 18 | *断断续续 | duànduàn-xùxù | adj. | intermittent |
+| 18 | *断断续续 | duànduàn-xùxù | adj. | off and on, intermittent |
 | 19 | 激烈 | jīliè | adj. | intense, fierce |
 | 20 | 气氛 | qìfēn | n. | atmosphere |
 | 21 | 何况 | hékuàng | conj. | let alone |
 | 22 | 球迷 | qiúmí | n. | ball game fan |
 | 23 | 工程师 | gōngchéngshī | n. | engineer |
 | 24 | 机器 | jīqì | n. | machine |
-| 25 | *顺畅 | shùnchàng | adj. | smooth |
+| 25 | *顺畅 | shùnchàng | adj. | smooth, unhindered |
 | 26 | 幼儿园 | yòu'éryuán | n. | kindergarten |
 | 27 | 好奇 | hàoqí | adj. | curious |
-| 28 | 何必 | hébì | adv. | why (no need) |
+| 28 | 何必 | hébì | adv. | (indicating that there is no need for sth.) why |
 | 29 | 多亏 | duōkuī | v. | luckily, thanks to |
-| 30 | 连忙 | liánmáng | adv. | promptly |
-| 31 | 瞧 | qiáo | v. | to look |
-| 32 | *困扰 | kùnrǎo | v. | to trouble |
-| 33 | 思维 | sīwéi | n./v. | thinking |
-| 34 | 呆 | dāi | adj./v. | dull; to stagnate |
-| 35 | 造成 | zàochéng | v. | to cause |
-| 36 | 仿佛 | fǎngfú | adv./v. | as if; to be like |
-| 37 | *阻碍 | zǔ'ài | v. | to hinder |
+| 30 | 连忙 | liánmáng | adv. | promptly, at once |
+| 31 | 瞧 | qiáo | v. | to look, to see |
+| 32 | *困扰 | kùnrǎo | v. | to trouble, to haunt |
+| 33 | 思维 | sīwéi | n./v. | thinking; to think |
+| 34 | 呆 | dāi | adj./v. | dull, dumb; to stagnate |
+| 35 | 造成 | zàochéng | v. | to cause, to give rise to |
+| 36 | 仿佛 | fǎngfú | adv./v. | as if; to be like, to be similar to |
+| 37 | *阻碍 | zǔ'ài | v. | to hinder, to impede |
 
 ---
 
 ### 【注释】 (Notes)
 
 #### 1. 何况 (hékuàng)
-连词，用反问的语气表示更进一层。
-(1) ……连运动员都不满意，更**何况**看比赛的球迷呢？
-(2) 这辆车外观漂亮，安全性高，又**何况**价钱也就比上次看的那辆贵了几千块。
+连词，用反问的语气表示更进一层，或根据前句的表述，后句的结论是显而易见的，有“不用说”的意味。
+(1) ……缺少了激烈紧张的气氛，连运动员都不满意，更**何况**看比赛的球迷呢？
+(2) 北京的发展变化太快，我这个土生土长的老北京还常迷路呢，**何况**你一个外地人。
+“何况”还可表示补充另一种理由。
+(3) 这辆车外观漂亮，安全性高，又**何况**价钱也就比上次看的那辆贵了几千块，小王有点儿动心了。
+(4) 上海冬天没有暖气，屋子里冷得让人伸不出手，**何况**李阳还是病人，自然是受不了的。
+
+* **练一练**: 完成句子或对话
+    (1) 这段山路比较危险，__________________，还是让我来开吧。 (何况)
+    (2) A: 这烤鸭不是你最爱吃的吗？今天怎么一口都不吃？
+        B: 我正在减肥，连__________________，__________________呢？ (何况)
+    (3) A: 你原来不是很爱逛商场的吗？现在怎么都在网上买衣服了？
+        B: __________________？ (何况)
 
 #### 2. 何必 (hébì)
 副词，用反问的语气表示不需要，不必。
 (1) **何必**这么麻烦呢？把篮筐的底去掉不就行了吗？
 (2) 食堂楼下就有个小超市，**何必**去学校外边呢？
+(3) 你**何必**亲自送一趟呢？叫个快递不就行了？
+
+* **练一练**: 完成句子或对话
+    (1) 早知道你就有这本书，__________________？ (何必)
+    (2) 既然她已经拒绝了你，你__________________呢？ (何必)
+    (3) A: 你回家等我吧，我先去超市买点儿肉、蔬菜什么的。
+        B: __________________。 (何必)
 
 #### 3. 多亏 (duōkuī)
 动词，由于别人的帮助或某种有利因素，避免了不幸或得到了好处。
 (1) **多亏**了他这句话，人们如梦初醒。
-(2) 今天搬家**多亏**有你在，你可帮我大忙了。
+(2) 赵老师，谢谢您，**多亏**您给我那瓶药，很管用。
+(3) 今天搬家**多亏**有你在，你可帮我大忙了。
+
+* **练一练**: 完成句子或对话
+    (1) __________________，要不今天的飞机我准赶不上了。 (多亏)
+    (2) A: 星期五晚上你不是和朋友约好了见面吗？
+        B: 哎呀！__________________。 (多亏)
+    (3) A: __________________。 (多亏)
+        B: 是啊，医生说再过一个星期妈妈就能出院了。
+
+---
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **缺乏** 人才/教师/材料/知识/工具/勇气/信心；**造成** 困难/影响/浪费/危害/失眠/紧张
+* **定语 + 中心语**: **激烈的** 比赛/争吵/战争/运动；家庭的/政治/节日/学习的/谈话的 **气氛**
+* **状语 + 中心语**: 认真地/紧张地/艰苦地/严格地 **训练**；简单地/完全/准确地 **重复**
+* **中心语 + 补语**: **踩** 破/伤/断/碎；**瞧** 见/得起/不起/得上/不上
+
+### 【词语辨析】 (Word Discrimination)
+**激烈 (jīliè) vs 强烈 (qiángliè)**
+* **激烈**: 侧重尖锐紧张。如：一直学者**激烈**争论的问题。多用于形容言论、情绪或比赛、斗争等。
+* **强烈**: 侧重强劲有力。如：文章发表以后立刻引起了读者的**强烈**反响。多用于形容光线、电流、色彩、气味或人的感情、思想、要求等。
+
+* **做一做**: 选词填空
+    (1) 这种蔬菜有 ______________ 的香味，它既可以生吃，又可熟食。 (激烈 / 强烈)
+    (2) 明天我去一家公司面试，听说竞争很 ______________。 (激烈 / 强烈)
+    (3) 当晚的比赛紧张、______________，两队都打出了很高的水平。 (激烈 / 强烈)
+    (4) 学生们 ______________ 要求重新安排考试。 (激烈 / 强烈)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(重复, 造成, 气氛, 缺乏, 仿佛, 连忙)
+
+1. 今天的晚会你们组织得相当好，______________ 搞得轻松愉快。
+2. 一觉醒来发现已经8点多了，李阳 ______________ 穿好衣服往公司赶。
+3. 他一边听，一边在本子上记着什么，______________ 对我的发言挺感兴趣似的。
+4. 心理学家指出，一个人的动作或想法，如果 ______________ 二十一天就会形成习惯。
+5. 每天大量饮酒确实给我的身体健康 ______________ 了很大的伤害。
+6. 在食物 ______________ 的季节，动物为了活下去就只能多睡觉。
+
+**2. 选择正确答案**
+
+1. 要整理的东西太多了，你看，这个箱子根本 ( ) 不下。(A. 装 B. 安装)
+2. 昨晚我失眠了，睡不着就躺着 ( ) 书，结果不知不觉天就亮了。(A. 瞧 B. 看)
+3. 即使在现代社会里，故事仍然是人们生活中不可 ( ) 的一部分。(A. 缺少 B. 缺乏)
+4. 你们知道中国人除夕夜守岁、放鞭炮的风俗是怎么 ( ) 的吗？(A. 形成 B. 造成)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 您A多画点儿画儿多好，B把时间C浪费在这些人的身上D？ (何必)
+2. A年轻人B恐怕都受不了，C一个D有病的老人呢？ (何况)
+3. A你提醒，B要不C我肯定忘了D下午还要开会。 (多亏)
+4. A经历了那件事后，B我C一夜之间长大D成人了。 (仿佛)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 篮球运动的发明 | 训练、缺乏、启发、项目、安装 | |
+| 取球的烦恼 | 断断续续、一再、激烈、气氛、制造、机器 | |
+| 问题的解决 | 幼儿园、好奇、何必、锯 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 体育 (Sports)**
+* **词语**: 太极拳 (tàijíquán), 球迷 (qiúmí), 武术 (wǔshù), 纪录 (jìlù), 象棋 (xiàngqí), 教练 (jiàoliàn), 对手 (duìshǒu), 冠军 (guànjūn), 决赛 (juésài).
+
+**做一做: 从上表中选择合适的词语填空**
+1. ______________ 是中国传统的体育项目，______________ 是其中重要的组成部分。
+2. 我认识一位大学的体育老师，他 ______________ 下得可棒了。
+3. 打羽毛球你可不是我的 ______________，不管打多少场你也赢不了。
+4. 他决心苦练一年，好在下次比赛时打败对方，拿回 ______________ 的奖杯。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+中国有句俗话：“饭后走一走，活到九十九；饭后趴一趴 (pā, to lie on one's stomach)，活到一百八。”前者主张 (zhǔzhāng, to advocate) 运动，活到了九十九岁；后者主张静止，却活到了108岁。当然这只不过是句笑话，但是大多数人还是认为，生命在于运动！
+运动必须因人、因时、因环境而论，身体的强弱 (qiángruò, strong or not) 决定了运动的强弱。体弱者不要做过于激烈的运动；体强者也不可自以为身体好，就做超量的运动，这样也会对身体造成伤害。早晚时差，环境不同，也决定了运动时间的长短、运动方式的不同。运动仿佛长流之水，贵在坚持。
+
+**话题讨论: 运动与健康**
+1. 你喜欢的运动是什么？你是怎么接触 (jiēchù, to come into contact with) 到并喜欢上它的？
+2. 进行这项运动有什么要求或条件？它的好处或优点是什么？
+3. 介绍一下现在你参加这项运动的情况以及它给你的生活带来什么影响。
+
+**命题写作:**
+请以“**我喜欢的一项运动**”为题，谈一谈你的看法。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1416,16 +2881,14 @@
 
 **1. 下面图片中的建筑，你知道哪些？请说一说它们分别是哪个国家的。**
 
-> **[画像生成プロンプト]**: A collection of flat, colorful vector icons representing famous world landmarks, arranged in a grid.
-> * **Items to include**: The Eiffel Tower (Paris), The Statue of Liberty (New York), The Sydney Opera House (Sydney), The Colosseum (Rome), The Taj Mahal (India), The Great Wall (China), The Pyramids (Egypt), Christ the Redeemer (Rio), The Leaning Tower of Pisa.
-> * **Background**: White or light neutral color.
+![世界建筑](landmarks_icons.png)
+> **[画像生成プロンプト]**: A grid of flat vector icons representing famous world landmarks.
+> * Top row: Taj Mahal, Eiffel Tower, Pyramids, Statue of Liberty.
+> * Middle row: Christ the Redeemer, Colosseum, Leaning Tower of Pisa, Sydney Opera House.
+> * Bottom row: Brandenburg Gate, United States Capitol (or similar dome), Great Wall of China, A Torii gate (or similar Asian structure).
+> * Style: Simple, solid colors.
 
-**2. 你知道中国北京的四合院吗？**
-
-> **[画像生成プロンプト]**: A detailed architectural illustration of a traditional Beijing Quadrangle Courtyard (Siheyuan).
-> * **Perspective**: Isometric or bird's-eye view to show the layout clearly.
-> * **Elements**: Grey tiled roofs, a central square courtyard enclosed by four buildings (North, South, East, West rooms). In the center of the courtyard, there is a large tree (like a pomegranate or crabapple tree) and a goldfish bowl. Red doors and pillars.
-> * **Atmosphere**: Peaceful and traditional Chinese residential vibe.
+**2. 你知道中国北京的四合院吗？参观过的话，请给老师和同学们讲一讲。**
 
 ---
 
@@ -1439,7 +2902,7 @@
 
 只要关闭起大门，四合院内便形成一个封闭式的小环境。住在四合院里的人不常与周围的邻居打交道。在小院里，一家人过着与世无争的日子，充分享受家庭的乐趣，自然有一种令人感到自在亲切的气氛。但也有多户合住一座四合院的情况，被称为“大杂院”，住户多为普通劳动人民。邻里之间有时虽然也有矛盾，但更多时候是互帮互助，不是亲人胜过亲人，这种浓浓的情感是许多老北京人无法忘记的。
 
-[cite_start]*(改编自百度文库)* [cite: 1565-1596]
+[cite_start]*(改编自百度文库《建筑欣赏之四合院》)* [cite: 1565-1568]
 
 ---
 
@@ -1464,29 +2927,29 @@
 | 15 | 具备 | jùbèi | v. | to have, to possess |
 | 16 | 日常 | rìcháng | adj. | day-to-day, daily |
 | 17 | 起居 | qǐjū | n. | daily life |
-| 18 | 接待 | jiēdài | v. | to receive, to entertain |
+| 18 | 接待 | jiēdài | v. | to receive (sb.), to entertain |
 | 19 | 功能 | gōngnéng | n. | function |
-| 20 | *厢房 | xiāngfáng | n. | wing room |
-| 21 | *走廊 | zǒuláng | n. | corridor |
+| 20 | *厢房 | xiāngfáng | n. | wing, wing room |
+| 21 | *走廊 | zǒuláng | n. | corridor, passageway |
 | 22 | 空间 | kōngjiān | n. | space |
-| 23 | 种 | zhòng | v. | to plant |
+| 23 | 种 | zhòng | v. | to plant, to grow |
 | 24 | 竹子 | zhúzi | n. | bamboo |
-| 25 | 则 | zé | conj. | while (contrast) |
+| 25 | 则 | zé | conj. | (indicating contrast) while |
 | 26 | 金鱼 | jīnyú | n. | goldfish |
-| 27 | 创造 | chuàngzào | v. | to create |
-| 28 | *情趣 | qíngqù | n. | emotional appeal |
-| 29 | 因而 | yīn'ér | conj. | therefore |
-| 30 | 为 | wéi | prep. | by (passive) |
-| 31 | 关闭 | guānbì | v. | to close |
+| 27 | 创造 | chuàngzào | v. | to create, to produce |
+| 28 | *情趣 | qíngqù | n. | emotional appeal, interest |
+| 29 | 因而 | yīn'ér | conj. | therefore, thus |
+| 30 | 为 | wéi | prep. | (often used together with "所") by (sb.) |
+| 31 | 关闭 | guānbì | v. | to close, to shut |
 | 32 | *封闭 | fēngbì | v. | to close, to seal |
 | 33 | 打交道 | dǎ jiāodào | | to make contact with |
 | 34 | 日子 | rìzi | n. | life, livelihood |
 | 35 | 充分 | chōngfèn | adj. | ample, sufficient |
 | 36 | 令 | lìng | v. | to make, to cause |
-| 37 | 亲切 | qīnqiè | adj. | warm, cordial |
-| 38 | 劳动 | láodòng | n./v. | work; to work |
+| 37 | 亲切 | qīnqiè | adj. | warm, cordial, affectionate |
+| 38 | 劳动 | láodòng | n./v. | work, labor; to work |
 | 39 | 人民 | rénmín | n. | people |
-| 40 | 矛盾 | máodùn | n./adj. | conflict |
+| 40 | 矛盾 | máodùn | n./adj. | conflict; conflicting |
 | 41 | 浓 | nóng | adj. | strong, deep |
 
 ---
@@ -1494,41 +2957,168 @@
 ### 【注释】 (Notes)
 
 #### 1. 所谓 (suǒwèi)
-形容词，表示通常所说的。
-(1) 这就是**所谓**的“自寻烦恼”。
-(2) **所谓**四合，“四”指东、西、南、北四面……
+形容词，表示通常所说的，多用于提出需要解释的词语。
+(1) 很多时候，烦恼是自己找来的，这就是**所谓**的“自寻烦恼”。
+(2) **所谓**四合，“四”指东、西、南、北四面，“合”就是四面房屋围在一起，中间形成一个方形的院子。
+“所谓”还指某些人所说的，多表示不同意、不承认。
+(3) 他**所谓**的“新闻”，其实我们早就知道了！
+(4) 现在市场上**所谓**的“健康食品”其实没有统一的标准。
+
+* **练一练**: 完成句子或对话
+    (1) 四面房屋围在一起，中间形成一个方形的院子，__________________ (所谓)
+    (2) A: 这么长时间没回家了，回去后感觉怎么样？
+        B: __________________。 (所谓)
+    (3) 这次考试怎么又这么差？__________________！ (所谓)
 
 #### 2. 则 (zé)
 量词，用于成篇或成条的短小文字。
-(1) 今天的报纸上有一**则**非常重要的新闻。
+(1) 在第七课，我们学习了两**则**成语故事。
+(2) 今天的报纸上有一**则**非常重要的新闻。
+连词，常见结构为“A……，(而)B**则**……”，表示前后两项的对比。
+(3) 猫享受独处的快乐，而狗**则**是希望和别人分享快乐。
+(4) 有的人家喜欢种草、养花、种竹子，有的人家**则**喜欢用大盆养金鱼。
+“则”还表示因果关系，常用于书面语，相当于口语中的“就”。
+(5) 北京的冬天，有风**则**寒，无风**则**暖。
+(6) “欲 (yù, to want) 速**则**不达”，人生不能总是要求“快”，其实，“慢”也是一种生活的艺术。
 
-连词，表示对比。
-(2) 有的人家喜欢种草……有的人家**则**喜欢用大盆养金鱼。
+* **练一练**: 完成句子或对话
+    (1) A: 最近你读了什么有意思的书吗？
+        B: __________________。 (则-量词)
+    (2) A: 你知道中国北方人和南方人吃饭的习惯有什么不同吗？
+        B: __________________。 (则-连词)
+    (3) 一项调查显示，只有37%的人愿意回到没有手机的时代，__________________。 (则-连词)
 
 #### 3. 为……所…… (wéi...suǒ...)
-固定结构，多用于书面语，表示“被”。
-(1) 因而最为人们**所**喜爱。
+固定结构，多用于书面语，此处“为”表示“被”的意思。
+(1) 认识他的人，没有人不**为**他认真的工作态度**所**感动。
 (2) 有了科学，大自然就可以更好地**为**人**所**用。
+(3) 院子不仅拉近了人与自然的关系，也让家里人在此得到了感情的交流，对创造生活情趣起了很大作用，因而最**为**人们**所**喜爱。
+
+* **练一练**: 完成句子或对话
+    (1) 这个老师 __________________。 (为……所……)
+    (2) 在这座小城，她 __________________，因为她把这里的每一位老人都当成家人来照顾。 (为……所……)
+    (3) A: 你知道梅西这个人吗？
+        B: __________________。 (为……所……)
+
+#### 4. 起 (qǐ)
+“起”，动词，“动词+起”表示连接、结合和固定。
+(1) 拉**起**手，我们就是好朋友。
+(2) 只要关闭**起**大门，四合院内便形成一个封闭式的小环境。
+(3) 对公司来说，最重要的是建立 (jiànlì, to establish) **起**一套行之有效的制度。
+
+* **练一练**: 完成句子
+    (1) 他拉**起**我的手，__________________。
+    (2) 我们两国 __________________。 (动词+起)
+    (3) 这是我们自己家的事，应该 __________________。 (动词+起)
 
 ---
-# HSK Standard Course 5 (Part A) - Unit 6: 修养身心 (Cultivating Physical and Mental Health)
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **有/具备** + ……(的)功能；**创造** + 文字/历史/机会/条件/奇迹/美好生活；**产生/有/闹** + 矛盾
+* **定语 + 中心语**: **日常** + 生活/工作/用品/用语；**重要的/幸福的/困难的/与世无争的** + 日子
+* **状语 + 中心语**: **广泛(地)** + 调查/研究/应用/流行/分布/关注
+* **中心语 + 补语**: **组合** + 起来/到一起/成……；**矛盾** + 极了
+* **主语 + 谓语**: **兴趣/爱好/知识/内容** + 广泛；**准备/理由** + 充分
+
+### 【词语辨析】 (Word Discrimination)
+**通常 (tōngcháng) vs 常常 (chángcháng)**
+* **通常**: 强调动作行为有规律。
+    * 如：有钱人家的，**通常**是由好几座四合院并列组成的。
+* **常常**: 强调动作行为多次出现。
+    * 如：他成绩很好，**常常**受到表扬。
+
+* **做一做**: 选词填空
+    (1) 他 ______________ 在家帮妈妈干活儿。 (通常 / 常常)
+    (2) ______________ 除夕晚上都要放鞭炮、吃饺子。 (通常)
+    (3) 在 ______________ 情况下，火车是不会晚点的。 (通常)
+    (4) 周末他 ______________ 去父母家过。 (通常 / 常常)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(浓, 广泛, 具备, 矛盾, 日常, 组合)
+
+1. 现在的手机都 ______________ 很多功能，不再只是个打电话的工具。
+2. 刚开始学中文的时候，我学的主要是一些 ______________ 用语。
+3. 今天雾很 ______________，对面的建筑都看不清了。
+4. 这个问题需要进行 ______________ 调查，然后才能做出决定。
+5. 这本书是由三个部分 ______________ 起来的。
+6. 老人家里有两个儿子，他们俩常常闹 ______________。
+
+**2. 选择正确答案**
+
+1. 手机已经成为人们生活中的重要 ( ) 部分。(A. 组成 B. 组合)
+2. 他的兴趣爱好非常 ( )，跟谁都能聊到一块儿。(A. 广大 B. 广泛)
+3. 他坚持锻炼，( ) 身体很好。(A. 因而 B. 反而)
+4. 是那位工程师 ( ) 我把机器安装在这儿的。(A. 令 B. 让)
+
+**3. 画线连接可以搭配的词语**
+
+* **产生** -> **矛盾**
+* **接待** -> **客人**
+* **创造** -> **条件** (Source logic: "创造...条件/奇迹/美好生活") -> *Likely*: 创造 - 条件
+* **组成** -> **家庭** (Source logic: 组成 - 家庭)
+* **充分的** -> **准备**
+* **广泛的** -> **兴趣**
+* **幸福的** -> **日子**
+* **固定的** -> **样式**
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 什么是四合院 | 建筑、所谓、广泛 | |
+| 北京四合院的结构与功能 | 规模、通常、功能、空间、则、因而、为 | |
+| 四合院的人际关系 | 起、打交道、令、矛盾 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 建筑 (Architecture)**
+* **词语**: 屋子 (wūzi), 卧室 (wòshì), 阳台 (yángtái), 台阶 (táijiē), 墙 (qiáng), 玻璃 (bōli), 宿舍 (sùshè), 公寓 (gōngyù), 单元 (dānyuán), 隔壁 (gébì), 大厦 (dàshà), 广场 (guǎngchǎng).
+
+**做一做: 从上表中选择合适的词语填空**
+1. 这套房子除了客厅、卧室、厨房、卫生间，还有两个大 __________________。
+2. 我在外面租了套公寓，但下学期我想搬到学校 __________________ 去住。
+3. 我家住在学知小区一号楼二 __________________ 403。
+4. 她就住在我家 __________________，是我的邻居。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+有人曾说：“生活中不是缺少美，而是缺少发现美的眼睛。”美在生活中随处可见，建筑之美就是其中一个重要的组成部分。在世界各地旅行，我们可以欣赏 (xīnshǎng, to enjoy) 到不同的建筑，从中也可以了解到各地不同的历史、文化、风俗等。具有传统特色 (tèsè, distinctive feature) 的建筑是一个国家、一个城市的记忆。四合院就是中国建筑的一个代表作。许多外国或外地游客来到北京旅游时，都会专门去看看北京的胡同和四合院。
+
+**话题讨论: 建筑与旅游**
+1. 你最喜欢（或印象最深）的建筑是什么？你是怎么知道它的？
+2. 介绍一下你了解到的情况。
+3. 介绍一下你通过旅行这种方式来了解各地建筑的感受及收获。
+
+**命题写作:**
+请以“**我眼中最美的中国建筑**”为题，介绍一下你了解到的或在中国旅行时亲眼所见的印象最深的一处建筑。尽量用上本课所学的生词，字数不少于100字。
+
+---
 
 ## 第15课 纸上谈兵 (Being an Armchair Strategist)
 
 ### 【热身】 (Warm-up)
 
 **1. 战国末期，秦国渐渐强大，最后打败其他六国，统一了中国。这段时期的历史你了解吗？请从图中找到秦国和赵国的位置。**
-*(In the late Warring States Period, the State of Qin gradually became powerful and finally defeated the other six states, unifying China. Do you know the history of this period? Please find the locations of Qin and Zhao in the map.)*
 
+![战国地图](warring_states_map.png)
 > **[画像生成プロンプト]**: A historical map of China during the late Warring States Period. The map should look like an ancient scroll or parchment. It needs to clearly highlight two specific territories with Chinese labels:
 > * **秦 (Qin)**: Located in the West.
 > * **赵 (Zhao)**: Located in the North/Central area.
 > * **Style**: Educational map style, clear boundaries, muted historical colors (browns, beiges, faded greens).
 
-**2. 请从生词表中找出与军事有关的词语写在横线上。**
+**2. 请从生词表中找出与军事有关的词语写在横线上，并说说它们是什么意思。**
 
-* **名词 (Nouns)**: 军事 (Military affairs), 敌人 (Enemy), 军队 (Army), 阵地 (Position), 士兵 (Soldier/Implied).
-* **动词 (Verbs)**: 作战 (Fight a battle), 进攻 (Attack), 防守 (Defend/Implied from '守').
+* **名词**: 军事 ______________ ______________
+* **动词**: ______________ ______________ ______________
 
 ---
 
@@ -1606,16 +3196,118 @@
 趋向动词，做补语，表示胜过的意思。常用格式为“动词+得/不+过”。
 (1) ……跟别人谈论起军事来，没有人说**得过**他。
 (2) 年轻人记忆力好，这一点我比**不过**你们。
+(3) 我们原材料贵，人工费用高，产品在价格上肯定竞争**不过**他们。
+
+* **练一练**: 完成句子或对话
+    (1) 李阳受过专业训练，__________________。(过)
+    (2) 老张尽管是五十多岁的人了，可干起活儿来，__________________。(过)
+    (3) A: __________________。(过)
+        B: 你是哥哥，妹妹还小，不懂事，你得让着她点儿。
 
 #### 2. 迟早 (chízǎo)
 副词，后边常跟动词，表示某种动作或事情早晚会发生。
 (1) 如果让他当了大将，**迟早**会害了赵国。
 (2) 随着网络技术的发展，这些问题**迟早**都会得到解决。
+(3) 如果不重视技术研究和产品开发，我们**迟早**会被别人挤出市场。
+
+* **练一练**: 完成句子或对话
+    (1) 王教练可严格了，你这种不认真的态度__________________。(迟早)
+    (2) A: 你说刘方为什么就不能原谅我呢？
+        B: 你别难过，__________________。(迟早)
+    (3) A: 怎么，签证被拒签的事你还没告诉她吗？
+        B: __________________。(迟早)
 
 #### 3. 再三 (zàisān)
-副词，意思是“一次又一次”。
-(1) 赵括的母亲**再三**阻止赵王任命儿子为大将。
-(2) 朋友请他做公司的总经理，他考虑**再三**，最后还是客气地拒绝了。
+副词，意思是“一次又一次”。后边常跟动词，有时还可用在不带宾语的动词后面。
+(1) 赵括的母亲**再三**阻止赵王任命儿子为大将，……
+(2) 我最近这段时间特别忙，实在没时间参加小王的活动，可他**再三**邀请，出于礼貌，我只好答应了。
+(3) 朋友请他做公司的总经理，他考虑**再三**，最后还是客气地拒绝了。
+
+* **练一练**: 完成句子或对话
+    (1) __________________，他只好答应周末带她去玩儿。(再三)
+    (2) __________________，决定自己亲自跑一趟。(再三)
+    (3) A: 这么有名的大专家居然也让你们校长请来了？
+        B: __________________。(再三)
+
+---
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **轻视** 对方/科学/成果/工作/知识；**善于** 学习/发现/总结/表达/分析
+* **定语 + 中心语**: **糊涂的** 孩子/领导/话/看法/脑子；**宝贵的** 机会/生命/经验/意见/时间
+* **状语 + 中心语**: **独立(地)** 生活/分析/工作/完成/发展/开发/领导；**主动(地)** 表示/提出/建议/反映/帮助/解决/联系/学习/宣传/提供
+* **主语 + 谓语**: **形势** 好转/乐观/危险/严重/紧张；**毛病** 多/(被)克服
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(宝贵, 阻止, 善于, 独立, 挑战, 糊涂)
+
+1. 我见朋友的小孩怎么也打不开房门，就想帮他，却被朋友 ( ) 了。
+2. 任何经验都是 ( ) 的，但并不是任何时候都是有效的。
+3. 社会上的成功人士，有不少 ( ) 记住别人的名字。
+4. 你这脑子可真 ( )，银行卡的密码怎么能忘了呢？
+5. 跳伞运动以自身的惊险和 ( ) 性，被世人称为“勇敢者的运动”。
+6. 家长应尽量创造一个能让孩子 ( ) 生活和学习的环境。
+
+**2. 选择正确答案**
+
+1. 我 ( ) 以为这一生我只能做一个普普通通的工人了。(A. 曾径 B. 已经)
+2. 师傅，最近我这车出了点儿 ( )，空调总是不太凉。(A. 缺点 B. 毛病)
+3. 父母给我讲了许多做人的 ( )，对我的影响很大。(A. 理论 B. 道理)
+4. 我相信这样的安排他是 ( ) 不会同意的。(A. 绝对 B. 完全)
+
+**3. 画线连接可以搭配的词语**
+
+* **克服** -> **困难** / **毛病**
+* **下** -> **决心**
+* **具备** -> **资格**
+* **阻止** -> **战争** / **行为**
+* **危急的** -> **形势**
+* **糊涂的** -> **经理**
+* **宝贵的** -> **经验**
+* **抽象的** -> **道理**
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 赵括的军事才能 | 军事、理论、说得过、骄傲、缺乏、毛病 | |
+| 廉颇的战术 | 弱、形势、命令、主动、挑战、坚守 | |
+| 赵王上当 | 糊涂、上当、谣言、阻止、资格 | |
+| 赵括之死 | 自信、轻视、宝贵、理论、实际 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 军事 (Military)**
+
+* **词语**: 枪 (qiāng), 射击 (shèjī), 英雄 (yīngxióng), 士兵 (shìbīng), 敌人 (dírén), 战争 (zhànzhēng), 胜利 (shènglì).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 猎人被眼前的情景吓傻了，慌乱地连开了几 ( )。
+2. 我们已经走完一大半了，坚持就是 ( )。
+3. 花木兰是中国古代的女 ( )，她替父参军并打败敌人，从而闻名天下。
+4. 在1896年的奥运会上，( ) 就被列为了正式比赛项目。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+中国古代著名的兵书《孙子兵法》中有句话叫“兵者，诡(guǐ)道也”。意思是说，用兵的方法在于千变万化、出其不意，最重要的是运用各种方法迷惑(míhuò, to confuse)敌人。
+这句话给我们最大的启发就是，理论是可以指导(zhǐdǎo, to guide)我们的行动的，但处理问题时，实际情况又是千变万化的，脱离(tuōlí, to be divorced from)实际空谈理论往往解决不了问题。
+
+**话题讨论: 理论与实际的关系**
+1. 赵括算不算一位出色的军事家？你认为赵括的死是什么原因造成的？
+2. 赵括的死给你最大的启发是什么？
+3. 请举一个生活中类似的例子，并说说我们在生活中应该注意什么。
+
+**命题写作:**
+请以“**从赵括之死想到的**”为题，谈一谈你对这篇历史故事的看法。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1625,12 +3317,11 @@
 
 **1. 看图片，说说你想到的与这张图片有关的词语。**
 
-> **[画像生成プロンプト]**: A top-down photography-style illustration representing "Weight and Diet".
-> * **Center**: A white bathroom scale showing a weight reading.
-> * **Surroundings**: Arranged neatly around the scale are healthy diet items: a green apple, a measuring tape curled into a shape, a fork and knife, and perhaps a glass of water.
-> * **Lighting**: Bright, clean, high-key lighting implying health and scientific research.
+![体重秤](food_scale.png)
+> **[画像生成プロンプト]**: A top-down view photo illustration of a bathroom scale or a kitchen food scale. On or around the scale are items related to dieting: an apple, a measuring tape, a fork and knife. The lighting should be bright and clean, suggesting health and fitness.
 
-* **词语**: 体重 (Weight), 减肥 (Lose weight), 卡路里 (Calories), 健康 (Health).
+* **词语/形容词**: 体重 ______________ ______________
+* **动词**: ______________ ______________
 
 **2. 说说你知道的节食方法。你认为哪种更有效？**
 
@@ -1703,19 +3394,135 @@
 ### 【注释】 (Notes)
 
 #### 1. 即 (jí)
-动词，书面语，意思是“就是”。
+“即”，动词，书面语，意思是“就是”。
 (1) “旦”是象形字，**即**太阳从地平线升起。
-(2) ……表现出清晰的模式，**即**周末之后体重升高。
+(2) 这些人的体重变化表现出清晰的模式，**即**周末之后体重升高，在工作日体重减轻（周五达到最低点）。
+“即”，还可以做副词，意思是“就”“便”。
+(3) 不懂**即**问是他最大的优点，也是他成功的主要原因。
+(4) 在办公司这件事上，两人早都有打算，这次的机会让他俩一拍**即**合。
+
+* **练一练**: 用所学词语改写句子
+    (1) 他可聪明了，什么东西一学就会。
+        他可聪明了，__________________。(即)
+    (2) 汉字“宇”代表上下四方，意思是所有的空间。
+        汉字“宇”代表上下四方，__________________。(即)
+    (3) 在鸟爸爸、鸟妈妈的精心照顾下，小鸟30~35天便可独立生活。
+        在鸟爸爸、鸟妈妈的精心照顾下，__________________。(即)
 
 #### 2. 个别 (gèbié)
-形容词，意思是“单个、各个”或“极少数”。
-(1) 他经常采取**个别**谈话的方式了解情况。
-(2) ……除了**个别**人以外，多数人体重的增加会从周六开始……
+“个别”，形容词，意思是“单个、各个”。
+(1) 他经常采取**个别**谈话的方式了解情况和解决问题。
+(2) 教练针对他的技术特点进行了**个别**训练，达到了比较好的效果。
+“个别”还表示极少数、少有。
+(3) ……除了**个别**人以外，多数人体重的增加会从周六开始，……
+(4) 天气预报说今晚有小到中雨，**个别**地区可能有大雨。
+
+* **练一练**: 完成句子或对话
+    (1) 旅行团里有几个小朋友，__________________。(个别)
+    (2) A: 装修用的材料都准备好了吗？
+        B: __________________。(个别)
+    (3) A: 看课文时你有没有遇到不懂的地方或不认识的汉字？
+        B: __________________。(个别)
 
 #### 3. 非 (fēi)
-前缀，表示不属于这一范围（如：非专业人员）。
-动词，意思是“不是”。
-(3) ……应该被视为正常现象，而**非**真正的体重增加。
+“非”，前缀，用在名词性成分前，表示不属于这一范围。
+(1) 在**非**语言的交流中，眼睛起着重要的作用。
+(2) 我们公司的技术部门都是专业人员，工资高；**非**专业人员做服务工作，工资不高。
+“非”，可以做动词，意思是“不是”。
+(3) ……工作日和周末体重的临时变化应该被视为正常现象，而**非**真正的体重增加，……
+(4) 成功有时候并**非**想象中那么难。
+“非”做副词时还表示主观上故意坚持、偏要做某事。有时，还可用于反问，表示否定这么做的必要。“非”也可以跟动词结合，形成常用格式“非+动词+不可”，意思是“必须”。
+(5) 他**非**要离婚，我们谁拦也拦不住。
+(6) 我本不想提这件事，你又何必**非**要我说出来呢？
+(7) 有些家长已经习惯了这种竞争，**非**让自家的孩子考第一名**不可**。
+(8) 补办学生证的事**非**你本人去**不可**。
+
+* **练一练**: 用所学词语改写句子
+    (1) 门口的牌子上写着：不是工作人员请勿入内。
+        门口的牌子上写着：__________________。(非)
+    (2) 世界上并不是只有人类才会骗人，动物也会。
+        __________________，动物也会。(非)
+    (3) 听说你住院了，他一定要来看看你。
+        __________________。(非……不可)
+
+---
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **达到** + 水平/程度/规模/目的/要求；**分析** + 情况/问题/心理/原因/语法/病句
+* **定语 + 中心语**: **意外的** + 礼物/消息/机会/结果/发现；**可靠的** + 朋友/质量/材料/报道/消息/结论；**战争的/上升的/好的/健康的** + **趋势**；**自然/表面/怪/不良/个别(的)** + **现象**
+* **状语 + 中心语**: **主动/充分/直接/清楚地** + **表明**；**部分/共同/正式/积极** + **参与**
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(总共, 借口, 达到, 采取, 可靠, 参与)
+
+1. 教师要让学生主动 ( ) 班集体管理，锻炼他们的能力。
+2. 许多人喜爱喝茶，几乎 ( ) 不可一日无茶的程度。
+3. 听声音判断水瓶是否保温的方法并不 ( )。
+4. 您好，您 ( ) 消费了747元。您刷卡还是付现金？
+5. 他 ( ) 家里有事，提前离开了会场。
+6. 我们虽然还不能准确预报地震，但可以 ( ) 有效措施，最大限度地保护我们的财产。
+
+**2. 选择正确答案**
+
+1. 研究发现，父亲对教育子女的 ( ) 程度越高，孩子就越聪明。(A. 参与 B. 参加)
+2. 调查结果显示，市民对电子阅读的兴趣 ( ) 提高了。(A. 明显 B. 清楚)
+3. 我本来想完成这个计划以后再去美国，( ) 现在那边有更重要的事，不得不提前去。(A. 成果 B. 结果)
+4. 关于空气质量问题，现在报纸、网络上相关的 ( ) 特别多，大家讨论得也很热闹。(A. 报道 B. 报名)
+
+**3. 画线连接可以搭配的词语**
+
+* **达到** -> **目的**
+* **报道** -> **新闻**
+* **采取** -> **措施**
+* **分析** -> **原因**
+* **下降的** -> **趋势**
+* **可靠的** -> **成果**
+* **重大的** -> **现象**
+* **表面的** -> **趋势**
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 医学专家的发现 | 营养、饮食、体重、波动 | |
+| 体重减轻者的波动情况 | 周末、工作日、立即、下降、临时、非、趋势 | |
+| 体重保持者的波动情况 | 周末、工作日、临时、非、规律、变化 | |
+| 体重增加者的波动情况 | 周末、工作日、上升、趋势、采取、措施 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 医务1 (Medical Services 1)**
+
+* **词语**: 挂号 (guà hào), 急诊 (jízhěn), 救护车 (jiùhùchē), 内科 (nèikē), 过敏 (guòmǐn), 打喷嚏 (dǎ pēntì), 着凉 (zháoliáng), 吐 (tù), 痒 (yǎng), 消化 (xiāohuà).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 你是不是 ( ) 了？怎么一直在 ( )？
+2. 一到春天开花的时候，我的鼻子就 ( )。
+3. 我身上也不知道被什么咬了，特别 ( )。
+4. 当初人们发明乒乓球是为了饭后做些运动帮助 ( ) 食物的。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+爱美之心，人人有之，年轻的女性朋友就更不必说了。在她们看来，苗条的身材 (shēncái, stature, figure) 是青春 (qīngchūn, youth) 活力的象征 (xiàngzhēng, symbol, sign)，可以使她们对生活充满自信。现代医学研究也证明，肥胖确实是健康的杀手。这似乎又给出了更好的理由让人么积极地投入到减肥这一行动中。
+无论是出于爱美还是健康，减肥的目的就是将体重减轻到你认为的理想状态。不过，有些人不支持甚至反对节食的做法。在他们看来，节食会危害健康，同时还会在停止节食后带来体重反弹等更多的烦恼。
+
+**话题讨论: 你认为节食是减肥的好方法吗？为什么？**
+1. 你有过节食减肥的经历吗？结果满意吗？
+2. 对于节食减肥失败的原因，你有什么分析或经验？
+3. 如果要节食，你建议应该怎么做？
+
+**命题写作:**
+请以“**我支持（或反对）节食减肥的做法**”为题写一段话。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1725,14 +3532,12 @@
 
 **1. 请看下面的图片，试着找出本课生词中跟它们有关的词语。**
 
-> **[画像生成プロンプト]**: A composite image showing two different types of "performances" mentioned in the lesson.
-> * **Left**: A performer in traditional Beijing Opera costume (elaborate headdress, colorful face paint) performing on stage.
-> * **Right**: A formal opening ceremony scene. Officials in suits sitting at a long table with microphones, a red banner with Chinese characters in the background.
-> * **Style**: Realistic digital illustration.
+![舞台と開幕式](stage_and_ceremony.png)
+> **[画像生成プロンプト]**: Two images side by side. Left: A Chinese opera performer in full costume and makeup on stage (representing 'Drama/Opera'). Right: A formal opening ceremony conference with people sitting at a long table with microphones and nameplates (representing 'Opening Ceremony').
 
-* **生词**: 戏剧 (Drama/Opera), 开幕式 (Opening ceremony), 化妆 (Make-up), 服装 (Costume).
+* **生词**: 戏剧, 开幕式, 化妆, 服装.
 
-**2. 在你小时候，长辈们说过什么让你印象最深刻的话？**
+**2. 在你小时候，长辈们说过什么让你印象最深刻的话？请给老师和同学们讲一讲。**
 
 ---
 
@@ -1750,7 +3555,7 @@
 
 作为电视节目主持人，我在工作中常常会运用“峰终定律”。例如，做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上，这样可以加强观众对节目的印象。虽然很多人并不了解“峰终定律”，但是，他们能从经验中体会这种做法的重要性。
 
-[cite_start]*(改编自《广州日报》，作者：埃卡特·冯·希施豪森)* [cite: 1592-1594]
+*(改编自《广州日报》，作者：埃卡特·冯·希施豪森)*
 
 ---
 
@@ -1759,58 +3564,170 @@
 | # | 词语 | 拼音 | 词性 | 英文释义 |
 |---|---|---|---|---|
 | 1 | 事物 | shìwù | n. | thing, object |
-| 2 | *高峰 | gāofēng | n. | peak |
+| 2 | *高峰 | gāofēng | n. | peak, summit |
 | 3 | *终点 | zhōngdiǎn | n. | end, destination |
 | 4 | 迅速 | xùnsù | adj. | quick, rapid |
 | 5 | 深刻 | shēnkè | adj. | deep, profound |
 | 6 | 戏剧 | xìjù | n. | drama, play |
-| 7 | 投入 | tóurù | v./n. | to input; devoted |
+| 7 | 投入 | tóurù | v./n. | to put into; input; devoted |
 | 8 | 服装 | fúzhuāng | n. | clothing, costume |
 | 9 | 化妆 | huà zhuāng | v. | to put on make-up |
-| 10 | *道具 | dàojù | n. | prop |
+| 10 | *道具 | dàojù | n. | stage property, prop |
 | 11 | 美术 | měishù | n. | fine art |
-| 12 | 以 | yǐ | conj. | in order to |
-| 13 | 良好 | liánghǎo | adj. | good |
+| 12 | 以 | yǐ | conj. | in order to, so as to |
+| 13 | 良好 | liánghǎo | adj. | good, fine |
 | 14 | 争取 | zhēngqǔ | v. | to strive for |
-| 15 | 忽视 | hūshì | v. | to ignore |
+| 15 | 忽视 | hūshì | v. | to ignore, to overlook |
 | 16 | 魅力 | mèilì | n. | charm |
 | 17 | 糟糕 | zāogāo | adj. | bad, awful |
 | 18 | 婚礼 | hūnlǐ | n. | wedding |
 | 19 | 等于 | děngyú | v. | to be equal to |
-| 20 | 度过 | dùguò | v. | to spend (time) |
+| 20 | 度过 | dùguò | v. | to pass, to spend |
 | 21 | 告别 | gàobié | v. | to say goodbye |
-| 22 | 平常 | píngcháng | adj. | common |
-| 23 | 依然 | yīrán | adv. | still |
+| 22 | 平常 | píngcháng | adj./n. | common, ordinary; mediocrity |
+| 23 | 依然 | yīrán | adv. | still, nonetheless |
 | 24 | 推荐 | tuījiàn | v. | to recommend |
 | 25 | *淋漓尽致 | línlí-jìnzhì | | fully, thoroughly |
-| 26 | 评价 | píngjià | v./n. | to evaluate |
+| 26 | 评价 | píngjià | v./n. | to evaluate; comment |
 | 27 | 烂 | làn | adj. | bad, lame |
-| 28 | 主持 | zhǔchí | v. | to host |
-| 29 | 运用 | yùnyòng | v. | to apply |
+| 28 | 主持 | zhǔchí | v./n. | to host; host/hostess |
+| 29 | 运用 | yùnyòng | v. | to put into practice, to apply |
 | 30 | 开幕式 | kāimùshì | n. | opening ceremony |
 | 31 | 宁可 | nìngkě | adv. | would rather |
-| 32 | 集中 | jízhōng | v. | to concentrate |
-| 33 | 体会 | tǐhuì | v. | to realize, to learn from experience |
+| 32 | 集中 | jízhōng | v./adj. | to concentrate; concentrated |
+| 33 | 体会 | tǐhuì | v./n. | to learn from experience; feeling |
 
 ---
 
 ### 【注释】 (Notes)
 
 #### 1. 以 (yǐ)
-连词，常用书面语，表示目的。
-(1) ……准备服装、化妆……**以**创造良好的效果。
-(2) 虽然我们已经老了，但还要坚持学习，**以**适应社会的发展。
+连词，常用书面语，意思是“用、拿、凭借”。
+(1) 同年4月，（微信）以英文名WeChat正式进入国际市场。
+(2) ……学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。
+“以”，也可以做连词，常用书面语，表示目的。
+(3) 虽然我们已经老了，但还要坚持学习，**以**适应社会的发展。
+(4) 比如为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，**以**创造良好的效果，……
+
+* **练一练**: 完成句子或对话
+    (1) A: 你知道济南的泉水是怎么命名的吗？
+        B: __________________。(以-介词)
+    (2) 这一两个月来，我天天训练，__________________。(以-连词)
+    (3) 虽然他不回信，但我还是坚持给他写，__________________。(以-连词)
 
 #### 2. 平常 (píngcháng)
-形容词，表示普通的。
-(1) 对小王来说，今天是一个不**平常**的日子。
-名词，意思是“平时”。
-(2) 他**平常**总是来得很早。
+形容词，表示普通的，没什么特别的。
+(1) 对小王来说，今天是一个不**平常**的日子，因为他今天第一天上班。
+(2) 一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。
+“平常”，也可以做名词，意思是“平时”。
+(3) 他**平常**总是来得很早，今天却迟到了。
+(4) 校长又告诉老师们，对待这些孩子，要像**平常**一样，不要让孩子或家长知道他们是被选出来的。
+
+* **练一练**: 完成句子或对话
+    (1) A: 你觉得这本书书怎么佯？
+        B: __________________。(平常-形容词)
+    (2) __________________，考试前就不用这么紧张了。(平常-名词)
+    (3) A: __________________。(平常-名词)
+        B: 我一般都是自己做饭吃。
 
 #### 3. 宁可 (nìngkě)
 副词，表示经过比较以后，选择相对有利的一方。
 (1) 作为母亲，她**宁可**自己累一点儿，也不想委屈了孩子。
-(2) 我们**宁可**把更多的精力集中在闭幕式上……
+(2) 为什么大家**宁可**挤 (jǐ, to crowd) 成一团，也不去没人的那边？
+(3) ……做节目时，与开幕式相比，我们**宁可**把更多的精力集中在闭幕式上，……
+
+* **练一练**: 完成句子或对话
+    (1) 我宁可花钱去餐厅吃，__________________。
+    (2) 为了把这篇文章写好，__________________。(宁可)
+    (3) A: 这次旅行，你觉得我们是坐飞机好还是坐火车好？
+        B: __________________。(宁可)
+
+---
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **争取** 时间/机会/胜利/项目/考好/准时到/提前结束；**主持** 会议/工作/项目
+* **定语 + 中心语**: **深刻的** 印象/记忆/道理；**烂** 苹果/衣服/片
+* **状语 + 中心语**: **迅速(地)** 提高/产生/出现/采取措施/做出反应；**正确/灵活/成功/科学/广泛(地)** **运用**
+* **中心语 + 补语**: **集中** 在……/到……/起来；**体会** 到……/出……/一下
+
+### 【词语辨析】 (Word Discrimination)
+**忽视 (hūshì) vs 轻视 (qīngshì)**
+* **忽视**: 表示不注意、不重视。
+* **轻视**: 强调看不起。
+* **做一做**: 选词填空
+    (1) 以前我们 ( ) 了教育问题，现在要赶上去。 (忽视 / 轻视)
+    (2) 我们过多地看电视、玩手机，( ) 了家人之间的交流。 (忽视)
+    (3) 虽然这是一份平常的工作，你也不能 ( )，要认真做好。 (轻视)
+    (4) 你不要因为他是小孩子就 ( ) 他。 (轻视)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(度过, 集中, 体会, 推荐, 运用, 争取)
+
+1. 我刚开始学滑雪的时候，最大的 ( ) 就是要放松，越紧张越容易摔倒 (shuāidǎo, to fall down)。
+2. 学知识不能死记硬背，要懂得知活地 ( )。
+3. 你复习时要 ( ) 注意力，效果才会好。
+4. 一些现代营养学专家常向大家 ( ) “餐餐有蔬菜，每天有水果”。
+5. 我在外公外婆身边 ( ) 了美好的童年。
+6. 机会要靠自己去 ( )。
+
+**2. 选择正确答案**
+
+1. 大家要迅速地熟悉新产品，( ) 更好地向顾客推广。(A. 用 B. 以)
+2. 这次旅行给我留下了 ( ) 的印象。(A. 深 B. 深刻)
+3. 这部电影很 ( )，我觉得没必要去看。(A. 平常 B. 平时)
+4. 他被 ( ) 为本校今年的十大“优秀毕业生”之一。(A. 评价 B. 评)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 事情A发生后，领导B采取了C措施，D积极应对。(迅速)
+2. A三加五B是C八D吗？(等于)
+3. 十几年A过去了，B她C那么D美丽。(依然)
+4. A我B多C花点儿钱，D也要买一个质量好点儿的。(宁可)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 峰终定律 | 事物、迅速、深刻 | |
+| 准备演出 | 戏剧、以、争取、忽视、糟糕 | |
+| 参加活动 | 婚礼、等于、度过、告别 | |
+| 看电影 | 平常、依然、评价 | |
+| 做节目 | 主持、运用、宁可、体会 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 医务2 (Medical Services 2)**
+
+* **词语**: 诊断 (zhěnduàn), 手术 (shǒushù), 血 (xiě/xuè), 肌肉 (jīròu), 骨头 (gǔtou), 胃 (wèi), 心脏 (xīnzàng), 病毒 (bìngdú), 传染 (chuánrǎn), 寿命 (shòumìng).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 医生还在为他 ( ) 病情，请耐心等待。
+2. 我的电脑速度越来越慢了，是不是中了 ( )？
+3. 这是一种新型的 ( ) 病，可能会在人和动物之间传播。
+4. 海龟的 ( ) 最长可达150多年，是动物中当之无愧的老寿星。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+汉语中的“婚礼”这个词原来是“昏礼”，“昏”是“黄昏 (huánghūn, dusk, nightfall)、傍晚”的意思。因为古人认为在傍晚举行婚礼，可以使婚姻美满 (měimǎn, perfectly satisfactory)、家庭幸福。
+参加婚礼是为了给新人的爱情做见证 (jiànzhèng, witness)，同时送上你对新人的祝福和希望。婚礼是一个喜庆的活动，美食和娱乐自然也少不了，有人喜欢参加，也有人有自己的看法。本课课文的作者说他参加过一个婚礼，前三个小时感觉都很好，最后一个小时感到无聊。你参加过婚礼吗？你觉得有没有意思？
+
+**话题讨论: 婚礼**
+1. 你了解过或参加过中国人的婚礼吗？印象深刻的地方是什么？
+2. 你们国家的婚礼和中国人的婚礼有哪些不同？
+3. 你觉得什么样的婚礼能给人留下难忘的美好记忆？
+
+**命题写作:**
+请以“**婚礼**”为题，谈一谈你参加过的婚礼，或你们国家婚礼的特点，比较一下和中国婚礼有什么相同和不同之处。尽量用上本课所学的生词，字数不少于100字。
 
 ---
 
@@ -1820,12 +3737,12 @@
 
 **1. 请看下面的图片，说一说哪一幅是抽象艺术的作品，哪一幅是古典艺术的作品。**
 
-> **[画像生成プロンプト]**: An image comparing two framed paintings hanging on a gallery wall side-by-side.
-> * **Left Painting (Abstract)**: A chaotic but artistic composition of colorful geometric shapes, irregular lines, and splashes of paint (resembling Kandinsky or Pollock).
-> * **Right Painting (Classical)**: A realistic, traditional oil painting of a person sitting in a chair (resembling 19th-century realism).
-> * **Context**: A museum setting with soft lighting focusing on the artwork.
+![抽象芸術と古典芸術](art_styles_comparison.png)
+> **[画像生成プロンプト]**: An image comparing two different art styles side-by-side.
+> * Left: An Abstract Art painting. Colorful geometric shapes (cubes, triangles), irregular lines, and splashes of paint.
+> * Right: A Classical Art painting. A realistic portrait of a man sitting in a chair, wearing vintage clothing (19th century style).
 
-**2. 你最喜欢你们国家的哪位著名艺术家？**
+**2. 你最喜欢你们国家的哪位著名艺术家？他/她有什么代表作品？请给老师和同学们讲一讲。**
 
 ---
 
@@ -1899,18 +3816,124 @@
 ### 【注释】 (Notes)
 
 #### 1. 极其 (jíqí)
-副词，意思是“非常”，多用于书面语。
+副词，意思是“非常”，多用于书面语，只能修饰双音节或多音节形容词。
 (1) 在中国，餐桌上放一把刀是**极其**少见的现象。
-(2) ……在有人看来**极其**神秘甚至丑陋。
+(2) 每天说“太糟糕了”“太倒霉 (dăoméi, unlucky) ”的人，遇到的困难也格外多，运气 (yùnqì, luck, fortune) 也显得**极其**糟糕。
+(3) 抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来**极其**神秘甚至丑陋，……
+
+* **练一练**: 完成句子或对话
+    (1) 这个项目是我们用了三年时间才谈下来的，__________________。(极其)
+    (2) __________________，谁也不说话。(极其)
+    (3) A: 你知道孔子吗？
+        B: __________________。(极其)
 
 #### 2. 其余 (qíyú)
 代词，表示剩下的、另外的部分。
-(1) 只有一间房间亮着灯，**其余**窗户都是黑的。
-(2) 其中三分之一的画作作者没有签名，而**其余**的则标明了身份。
+(1) 怎么只有你们两个人？**其余**的同学呢？
+(2) 只有一间房间亮着灯，**其余**窗户都是黑的。
+(3) 其中三分之一的画作作者没有签名，而**其余**的则标明了身份。
+
+* **练一练**: 完成句子或对话
+    (1) A: 这些行李怎么拿？
+        B: __________________。(其余)
+    (2) A: 你看过哪些中国的传统体育表演？
+        B: __________________。(其余)
+    (3) 你们几个负责新产品的宣传，__________________。(其余)
 
 #### 3. 可见 (kějiàn)
-连词，常用格式为“……，(由此)可见……”。
-(1) 他已经住院好几天了，一直诊断不出问题，**可见**情况不太好。
-(2) 由此**可见**，志愿者能够从画作中感知艺术家的用心。
+连词，常用格式为“……，(由此)可见……”，表示可以根据上文所说的情况做出判断。
+(1) 他已经住院好几天了，一直诊断不出是什么问题，**可见**情况不太好。
+(2) 汉语中有个成语叫“自知之明”，把“自知”称为“明”，**可见**“自知”是一种智慧。
+(3) 由此**可见**，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。
+
+* **练一练**: 完成句子或对话
+    (1) 连这么简单的题你都不会，__________________。(可见)
+    (2) A: 你觉得周末的活动他会参加吗？
+        B: __________________。(可见)
+    (3) A: __________________。(可见)
+        B: 是啊，我也觉得他很孝敬父母。
 
 ---
+
+### 【词语搭配】 (Collocations)
+* **动词 + 宾语**: **调整** 时间/价格/计划/结构/市场；**确定** 身份/关系/位置/因素
+* **定语 + 中心语**: **古典** 文学/小说/戏剧/音乐；**不规则的** 形状/动作/图案/作品/方案/设计
+* **状语 + 中心语**: **不断** 发展/改善/追求/调整/积累/投入/成熟/丰富/优化；**无意(中)** 发现/看到/知道/成为/说出/听到/提起
+* **主语 + 谓语**: **概念** 明确/模糊/错误/复杂；**设备** 落后/齐全/完好
+
+### 【词语辨析】 (Word Discrimination)
+**目前 (mùqián) vs 现在 (xiànzài)**
+* **共同点**: 都是时间名词，指说话的这个时候。
+* **不同点**: **目前**侧重指过去到现在为止的某段时间，不强调与过去的对比。**现在**侧重指目前这个时刻，强调与过去的对比。
+* **做一做**: 选词填空
+    (1) 我们很着急，( ) 你能过来一趟吗？ (现在 / 目前)
+    (2) 这种技术 ( ) 还没办法治疗。 (目前)
+    (3) 调查显示，66.9%的女性对 ( ) 的工作不满意。 (目前)
+    (4) ( ) 的年轻人，跟我们那时候真不一样！ (现在)
+
+---
+
+### 【练习】 (Exercises)
+
+**1. 选择合适的词语填空**
+(幅, 规则, 活跃, 调整, 业余, 证据)
+
+1. 书房的墙上挂着一 ( ) 静物画。
+2. 因为销售情况不太好，我们正准备 ( ) 产品价格。
+3. 这块布上只有一些不 ( ) 的色块，我看不出来画的是什么。
+4. 我们只是一支 ( ) 的球队，不够专业水平。
+5. 每次晚会他都是主持人，要靠他来 ( ) 气氛。
+6. 如果没有可靠的 ( )，你就不能这么说。
+
+**2. 选择正确答案**
+
+1. 那个人长得 ( ) 丑。(A. 非常 B. 极其)
+2. 这次展出的一 ( ) 服装是由七 ( ) 戏服组成的。(A. 组 B. 套)
+3. 可能出门时我一把钥匙放在门口的桌子上了。(A. 随便 B. 随手)
+4. 我认为你们其实忽略了一个十分重要的 ( )。(A. 事实 B. 真实)
+
+**3. 给括号里的词选择适当的位置**
+
+1. 我A对这个人B极其C欣赏，我C认为他D很有才华。(极其)
+2. A这是我B新C的作品，请您过目。(设计)
+3. 我只认识A这B两个字，C都不认识。(其余)
+4. A熬夜B，我C今天D也得把这个计划做完。(哪怕)
+
+**4. 根据下面的提示词复述课文内容**
+
+| 内容提示 | 重点词语 | 课文复述 |
+|---|---|---|
+| 抽象艺术 | 欣赏、规则、作品、极其、自由 | |
+| 第一个实验 | 志愿者、分辨、签名、其余、身份、故意、弄错 | |
+| 第二个实验 | 调整、位置、活跃、布局 | |
+| 总结 | 事实、话题、挑战 | |
+
+---
+
+### 【扩展】 (Expansion)
+
+**话题: 影视艺术 (Film & TV Art)**
+
+* **词语**: 导演 (dǎoyǎn), 角色 (juésè), 明星 (míngxīng), 动画片 (dònghuàpiàn), 娱乐 (yúlè), 麦克风 (màikèfēng), 频道 (píndào), 乐器 (yuèqì), 美术 (měishù), 录音 (lùyīn), 字幕 (zìmù).
+
+**做一做: 从上表中选择合适的词语填空**
+
+1. 在 ( ) 设备发明之前，没有人注意到你的声音在自己听来和别人听来是不一样的。
+2. 主持人，你胸前的 ( ) 歪了，请调整一下。
+3. 这个连续剧最近好几个 ( ) 都在放，你看了没有？
+4. 除了钢琴，我没有学过别的 ( )。
+
+---
+
+### 【运用】 (Application)
+
+**背景分析:**
+艺术是人类共同的爱好，它可以打破国家和语言的界限(jièxiàn, limits, bounds)，把人们联系在一起。艺术形式不是单一的，它包括很多不同的类型，如音乐、舞蹈(wǔdǎo, dance)、美术、摄影、戏剧、影视甚至建筑等。每个国家都有自己独特的艺术形式，每个人也可能喜欢不同的艺术类型。很多外国留学生对中国的京剧、水墨画、剪纸等传统艺术产生了浓厚(nónghòu, keen)的兴趣。你在生活中喜欢哪些艺术形式呢？
+
+**话题讨论: 艺术形式**
+1. 文章中说“每个人对抽象艺术可以有不同的解释”，你同意这种说法吗？
+2. 你对哪些艺术形式感兴趣？
+3. 请介绍一种你最喜欢的艺术，并说说喜欢的理由或你对它的看法。
+
+**命题写作:**
+请以“**我喜爱的艺术**”为题，谈一谈你感兴趣的艺术形式。字数不少于100字。
