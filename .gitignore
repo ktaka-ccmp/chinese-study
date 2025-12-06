@@ -1,0 +1,6 @@
+*.py
+*.bak
+venv/
+__pycache__/
+*.log
+*.tmp

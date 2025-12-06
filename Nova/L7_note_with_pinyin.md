@@ -10,8 +10,10 @@
 - [20251121](#20251121)
 - [20251124](#20251124)
 - [20251125 中文课笔记 - 电脑用语](#20251125-中文课笔记---电脑用语)
-- [20251125-02 家电・设备用语 / 中国四大美女 / 谚语](#20251125-02-家电设备用语-中国四大美女-谚语)
+- [20251125-02 家电・设备用语 / 中国四大美女 / 谚语](#20251125-02-家电设备用语--中国四大美女--谚语)
 - [20251203 中文课笔记 - 回忆往事](#20251203-中文课笔记---回忆往事)
+- [20251205 中文课笔记](#20251205-中文课笔记)
+- [20251206 中文课笔记](#20251206-中文课笔记)
 
 ---
 
@@ -1285,3 +1287,435 @@ APP软件
 
 比较一下，容易明白区别  
 *bǐjiào yíxià, róngyì míngbai qūbié*
+
+# 20251205 中文课笔记
+
+---
+
+## 电脑硬件
+
+鼠标  
+*shǔbiāo*
+
+键盘  
+*jiànpán*
+
+摄像头  
+*shèxiàngtóu*
+
+---
+
+## 电脑操作
+
+桌面  
+*zhuōmiàn*
+
+图标  
+*túbiāo*
+
+文件夹  
+*wénjiànjiā*
+
+保存  
+*bǎocún*
+
+删除  
+*shānchú*
+
+复印 / 复制  
+*fùyìn / fùzhì*
+
+粘贴  
+*zhāntiē*
+
+备份  
+*bèifèn*
+
+杀毒  
+*shādú*
+
+防火墙  
+*fánghuǒqiáng*
+
+---
+
+## 其他用语
+
+夹子  
+*jiāzi*
+
+晾衣服  
+*liàng yīfu*
+
+卡子  
+*qiǎzi*
+
+引擎  
+*yǐnqíng*
+
+备胎  
+*bèitāi*
+
+---
+
+## 互联网操作
+
+上传  
+*shàngchuán*
+
+下载  
+*xiàzài*
+
+网速  
+*wǎngsù*
+
+搜索  
+*sōusuǒ*
+
+掉线  
+*diàoxiàn*
+
+---
+
+## 网站相关
+
+版面  
+*bǎnmiàn*
+
+博客  
+*bókè*
+
+网页  
+*wǎngyè*
+
+首页  
+*shǒuyè*
+
+栏目  
+*lánmù*
+
+论坛  
+*lùntán*
+
+微博  
+*wēibó*
+
+留言  
+*liúyán*
+
+点击率  
+*diǎnjīlǜ*
+
+发帖子  
+*fā tiězi*
+
+---
+
+## 网址・链接
+
+地址栏  
+*dìzhǐlán*
+
+网址  
+*wǎngzhǐ*
+
+链接  
+*liànjiē*
+
+---
+
+## 账号・登录
+
+账号  
+*zhànghào*
+
+用户名  
+*yònghùmíng*
+
+密码  
+*mìmǎ*
+
+注册  
+*zhùcè*
+
+登录  
+*dēnglù*
+
+登出  
+*dēngchū*
+
+---
+
+## SEO・搜索引擎
+
+有什么办法第一个出来？  
+*Yǒu shénme bànfǎ dì yī ge chūlai?*
+
+你的网页搜索那个信息的时候相关的单词  
+*Nǐ de wǎngyè sōusuǒ nàge xìnxī de shíhou xiāngguān de dāncí*
+
+网页的内容跟那个单词有关系  
+*Wǎngyè de nèiróng gēn nàge dāncí yǒu guānxi*
+
+照片要漂亮  
+*Zhàopiàn yào piàoliang*
+
+价格要便宜  
+*Jiàgé yào piányi*
+
+给平台钱  
+*Gěi píngtái qián*
+
+点击  
+*diǎnjī*
+
+---
+
+## 其他
+
+请帖  
+*qǐngtiě*
+
+邀请函  
+*yāoqǐnghán*
+
+# 20251206 中文课笔记
+
+---
+
+## 病気・入院関連
+
+生病住院了  
+*shēngbìng zhùyuàn le*
+
+看一下他  
+*kàn yíxià tā*
+
+看望  
+*kànwàng*
+
+他得的什么病？  
+*Tā dé de shénme bìng?*
+
+腰部  
+*yāobù*
+
+肾脏  
+*shènzàng*
+
+肾炎  
+*shènyán*
+
+需不需要动手术  
+*xū bu xūyào dòng shǒushù*
+
+内脏  
+*nèizàng*
+
+别的声调：脏  
+*bié de shēngdiào: zāng*
+
+很脏  
+*hěn zāng*
+
+打吊针  
+*dǎ diàozhēn*
+
+打点滴  
+*dǎ diǎndī*
+
+---
+
+## 充电宝・飞机托运
+
+充电宝  
+*chōngdiànbǎo*
+
+不能带上飞机  
+*bù néng dài shàng fēijī*
+
+托运  
+*tuōyùn*
+
+管理严格  
+*guǎnlǐ yángé*
+
+CCC标志  
+*CCC biāozhì*
+
+安全标志  
+*ānquán biāozhì*
+
+爆炸  
+*bàozhà*
+
+没收  
+*mòshōu*
+
+选择  
+*xuǎnzé*
+
+扔掉  
+*rēngdiào*
+
+用快递寄给朋友  
+*yòng kuàidì jì gěi péngyou*
+
+邮寄  
+*yóujì*
+
+不顺利  
+*bù shùnlì*
+
+---
+
+## 话题：旅行・出差
+
+忘记了去哪里的时候  
+*wàngjìle qù nǎlǐ de shíhou*
+
+鹿儿岛  
+*Lù'érdǎo*
+
+使用客户的电脑  
+*shǐyòng kèhù de diànnǎo*
+
+安装  
+*ānzhuāng*
+
+像U盘那样的东西  
+*xiàng U pán nàyàng de dōngxi*
+
+内存  
+*nèicún*
+
+量词：把  
+*liàngcí: bǎ*
+
+古文  
+*gǔwén*
+
+一把电动螺丝刀  
+*yì bǎ diàndòng luósīdāo*
+
+带上飞机  
+*dài shàng fēijī*
+
+把它托运了  
+*bǎ tā tuōyùn le*
+
+存  
+*cún*
+
+寄存  
+*jìcún*
+
+随身带着  
+*suíshēn dàizhe*
+
+飞机晚点了3个多小时  
+*fēijī wǎndiǎnle sān ge duō xiǎoshí*
+
+食品管理严格  
+*shípǐn guǎnlǐ yángé*
+
+申请带过去  
+*shēnqǐng dài guòqu*
+
+因为刮台风，飞机不能飞。  
+*Yīnwèi guā táifēng, fēijī bù néng fēi.*
+
+### 飞机目的地变更
+
+因为下大雨，飞机改变了目的地。  
+*Yīnwèi xià dàyǔ, fēijī gǎibiànle mùdìdì.*
+
+因为大雨，飞机的目的地变更了。  
+*Yīnwèi dàyǔ, fēijī de mùdìdì biàngēng le.*
+
+因为下大雨，飞机改降了。  
+*Yīnwèi xià dàyǔ, fēijī gǎijiàng le.*
+
+大雨导致飞机备降别的机场。  
+*Dàyǔ dǎozhì fēijī bèijiàng bié de jīchǎng.*
+
+因为天气原因，飞机改飞别的地方了。  
+*Yīnwèi tiānqì yuányīn, fēijī gǎi fēi bié de dìfang le.*
+
+飞机因为大雨改降到了名古屋。  
+*Fēijī yīnwèi dàyǔ gǎijiàng dàole Míngǔwū.*
+
+---
+
+## 护照丢失
+
+护照丢了  
+*hùzhào diū le*
+
+丢了护照  
+*diūle hùzhào*
+
+把护照弄丢了  
+*bǎ hùzhào nòngdiū le*
+
+---
+
+## 其他例句
+
+突然下大雨，她的衣服都淋湿了。  
+*Tūrán xià dàyǔ, tā de yīfu dōu línshī le.*
+
+洗澡  
+*xǐzǎo*
+
+洗淋浴  
+*xǐ línyù*
+
+---
+
+## 对话1：被雨淋了
+
+昨天真倒霉，下班回家的路上，被雨淋了。  
+*Zuótiān zhēn dǎoméi, xiàbān huíjiā de lùshang, bèi yǔ lín le.*
+
+你没带伞啊？  
+*Nǐ méi dài sǎn a?*
+
+带是带了，可是雨太大了，打伞也没用。  
+*Dài shì dài le, kěshì yǔ tài dà le, dǎ sǎn yě méi yòng.*
+
+那怎么不找个地方躲一下呢？  
+*Nà zěnme bù zhǎo ge dìfang duǒ yíxià ne?*
+
+我上下班那条路，连家商店都没有，没法躲。  
+*Wǒ shàngxiàbān nà tiáo lù, lián jiā shāngdiàn dōu méiyǒu, méi fǎ duǒ.*
+
+---
+
+## 疑问句
+
+你星期几去啊？  
+*Nǐ xīngqī jǐ qù a?*
+
+你星期三去啊？  
+*Nǐ xīngqīsān qù a?*
+
+---
+
+## 对话2：护照丢了
+
+上个月去中国出差，把护照弄丢了。  
+*Shàng ge yuè qù Zhōngguó chūchāi, bǎ hùzhào nòngdiū le.*
+
+肯定很麻烦吧？  
+*Kěndìng hěn máfan ba?*
+
+挺麻烦的，跑了一趟领事馆，拿了个临时证明，然后还去了当地的派出所。  
+*Tǐng máfan de, pǎole yí tàng lǐngshìguǎn, nále ge línshí zhèngmíng, ránhòu hái qùle dāngdì de pàichūsuǒ.*
+
+你跟警察说中文吗？  
+*Nǐ gēn jǐngchá shuō Zhōngwén ma?*
+
+说中文，把我紧张死了。  
+*Shuō Zhōngwén, bǎ wǒ jǐnzhāng sǐ le.*
+
