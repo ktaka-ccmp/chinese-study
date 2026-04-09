@@ -32,6 +32,7 @@
 - Full PDF-grade verification of every example pinyin line
 - Final confirmation that the index itself has no remaining omissions
 - Cleanup of OCR-corrupted body text that survived earlier reconstruction phases
+- Review of `index/ocr_review_queue.tsv` (`1477` suspicious example sentences)
 
 ## Index Reaudit Status
 
@@ -65,3 +66,4 @@
 - Placeholder OCR packet archive: `index/placeholder_source_pages/manifest.tsv`
 - Generic fallback examples remaining: `0`
 - `example_count != pinyin_count` blocks: `0`
+- OCR review queue: `index/ocr_review_queue.tsv` (`1477` suspicious sentences)

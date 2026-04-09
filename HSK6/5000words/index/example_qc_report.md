@@ -12,6 +12,7 @@
 - Missing canonical blocks: `0`
 - Generic fallback examples: `0`
 - Blocks with `example_count != pinyin_count`: `0`
+- Suspicious OCR-like example sentences: `1477`
 
 ## Placeholder Status
 
@@ -33,7 +34,25 @@ Previously cleared in passes:
 - Current mismatch count: `0`
 - The previously mismatched blocks `0109. 弊端`, `2389. 扎实`, and `2413. 招收` have been repaired.
 
+## OCR Review Queue
+
+- Queue file: `index/ocr_review_queue.tsv`
+- Current suspicious sentence count: `1477`
+- Distribution by range:
+  - `0001-0250.md`: `1` sentences / `1` blocks
+  - `0251-0500.md`: `225` / `109`
+  - `0501-0750.md`: `120` / `67`
+  - `0751-1000.md`: `59` / `32`
+  - `1001-1250.md`: `305` / `135`
+  - `1251-1500.md`: `168` / `88`
+  - `1501-1750.md`: `254` / `120`
+  - `1751-2000.md`: `227` / `93`
+  - `2001-2250.md`: `100` / `42`
+  - `2251-2500.md`: `14` / `8`
+  - `2501-2750.md`: `4` / `3`
+
 ## Suggested QA Order
 
 1. Re-audit index completeness against the PDF index pages.
-2. Review high-risk OCR blocks and remaining sentence-level corruption against the PDF.
+2. Review `index/ocr_review_queue.tsv` from low page numbers upward.
+3. Replace OCR-corrupted blocks from the PDF and rebuild the DB after each batch.

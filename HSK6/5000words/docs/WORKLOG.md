@@ -36,3 +36,4 @@
   - generic fallback examples = `0`
   - `example_count != pinyin_count = 0`
 - Corrected the canonical headword at `1239` from `邻舍` to `吝啬` based on the source page image.
+- Generated `index/ocr_review_queue.tsv` with `1477` suspicious OCR-like example sentences for PDF-grade sentence review.
