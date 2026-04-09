@@ -10,15 +10,12 @@
 
 - Current canonical row count: `2634`
 - Current page range in the index: `1-732`
-- Current known missing source page in the canonical index: `563`
+- Source page `563` is blank in the PDF index page itself
 - Current gap location in sequence terms:
   - page `562`: `2025 物业`, `2026 物资`, `2027 物证`
   - page `564`: `2028 夕阳`, `2029 吸取`, `2030 昔日`
 
-This strongly suggests one of two things:
-
-1. page `563` truly has no indexed headword
-2. page `563` still contains omitted index entries
+At this point, the working assumption is that `563` is a true blank index page number, not an omitted row.
 
 ## If A Missing Index Entry Is Found
 

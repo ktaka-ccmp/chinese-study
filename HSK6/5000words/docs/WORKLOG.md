@@ -1,42 +1,32 @@
-# Worklog Summary
+# Worklog
 
-## What Was Done
+## 2026-04-09
 
-- Created a canonical index-first workflow instead of editing markdown blindly
-- Extracted and normalized index entries into `index/master_index.tsv`
-- Built a SQLite DB to track:
-  - canonical index entries
-  - body blocks
-  - example sentences
-  - orphan blocks
-  - missing canonical blocks
-- Repaired markdown ranges so canonical headings are present across the corpus
-- Archived earlier chunk-based and over-extended reconstruction artifacts
-
-## Key Design Decisions
-
-- Treat the index as the canonical ordering authority
-- Treat the DB as the operational workspace for audits and rebuilds
-- Keep the final deliverable in markdown, but do alignment and validation structurally
-- Archive non-canonical historical files instead of deleting them
-
-## Important Caveat
-
-- Structural completeness is much better than textual certainty
-- Some later repair passes inserted minimal fallback content to eliminate canonical gaps
-- Those blocks need PDF-based quality review before the corpus can be called fully verified
-
-## Files To Use First
-
-- `README.md`
-- `docs/PROJECT_STATUS.md`
-- `index/master_index.tsv`
-- `hsk6_words.db`
-- `index/audits/summary.tsv`
-
-## Rebuild Path
-
-1. Update `index/master_index.tsv` if the canonical index changes
-2. Rebuild the DB with `python3 HSK6/5000words/index/build_hsk6_db.py`
-3. Re-run audits with `python3 HSK6/5000words/index/audit_markdown_headings.py`
-4. Review `index/audits/summary.tsv`
+- Summary:
+  - Created a canonical index-first workflow instead of editing markdown blindly.
+  - Extracted and normalized index entries into `index/master_index.tsv`.
+  - Built a SQLite DB to track canonical index entries, body blocks, example sentences, orphan blocks, and missing canonical blocks.
+  - Repaired markdown ranges so canonical headings are present across the corpus.
+  - Archived earlier chunk-based and over-extended reconstruction artifacts.
+  - Rechecked the formerly suspicious source page `563` and confirmed it is blank in the index itself.
+- Key decisions:
+  - Treat the index as the canonical ordering authority.
+  - Treat the DB as the operational workspace for audits and rebuilds.
+  - Keep the final deliverable in markdown, but do alignment and validation structurally.
+  - Archive non-canonical historical files instead of deleting them.
+- Rebuild path:
+  1. Update `index/master_index.tsv` if the canonical index changes.
+  2. Rebuild the DB with `python3 HSK6/5000words/index/build_hsk6_db.py`.
+  3. Re-run audits with `python3 HSK6/5000words/index/audit_markdown_headings.py`.
+  4. Review `index/audits/summary.tsv`.
+- Reorganized `HSK6/5000words/` into canonical outputs, docs, and archive buckets.
+- Added project-level documentation for current state and index re-audit notes.
+- Re-audited the canonical index and confirmed that source page `563` is blank on the PDF index page, not a missed row.
+- Generated `index/placeholder_review_queue.tsv` with `144` generic fallback examples for sentence-level QA.
+- Fixed the `3` body blocks where `example_count` and `pinyin_count` did not match:
+  - `0109. 弊端`
+  - `2389. 扎实`
+  - `2413. 招收`
+- Rebuilt the DB and confirmed `example_count != pinyin_count` is now `0`.
+- Replaced the `18` generic fallback examples in `0751-1000.md` from PDF OCR-derived source text.
+- Exported the remaining placeholder source pages to `index/placeholder_source_pages/` with a manifest at `index/placeholder_source_pages/manifest.tsv`.

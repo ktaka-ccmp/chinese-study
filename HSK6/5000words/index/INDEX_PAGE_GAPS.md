@@ -1,25 +1,25 @@
 # Index Page Gaps
 
-`master_index.tsv` を本文ページ番号順に見ると、現在の統合結果には次の欠落ページ帯があります。
+This file tracks page-number discontinuities observed in the canonical index.
 
-- `69-72`
-- `81-94`
-- `444-445`
-- `563`
+## Current Status
 
-確認根拠:
+- The previously suspicious gap at source page `563` has been checked against the PDF index page directly.
+- Result: `563` is actually blank in the source index column between:
+  - `2027 物证 (562)`
+  - `2028 夕阳 (564)`
 
-- `0250 畅销 (page 68)` の次が `0251 沉重 (page 73)` に飛んでいる
-- `0278 吃苦 (page 80)` の次が `0279 垂直 (page 95)` に飛んでいる
-- `1525 群众 (page 443)` の次が `人道 (page 446)` に飛んでいる
-- `1950 物证 (page 562)` の次が `夕阳 (page 564)` に飛んでいる
+So `563` is not currently treated as a missing index row.
 
-このことから、現在の `master_index.tsv` はまだ最終確定版ではなく、
-少なくとも上記ページ帯の見出し語を補完したうえで再連番化が必要です。
+## Historical Notes
 
-特に先頭側では、本文側の未解決見出し
+- Earlier reconstruction phases had real integration gaps around:
+  - `69-72`
+  - `81-94`
+  - `444-445`
+- Those gaps were later supplemented into the canonical sequence.
 
-- `倡导 / 倡议 / 钞票 / 超级 / 超越 / 巢穴 / 朝代 / 潮流 / 潮湿 / 撤退 / 撤销 / 沉淀 / 沉闷`
+## Remaining Position
 
-がちょうど `69-72` 付近の欠落ページ帯に対応しており、
-「索引に無い」のではなく「索引統合から落ちている」と判断できます。
+- The canonical index is now structurally continuous in `seq`
+- But final certification still depends on page-by-page re-audit of the PDF index, not only structural checks
