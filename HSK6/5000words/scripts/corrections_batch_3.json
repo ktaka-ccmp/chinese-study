@@ -1,0 +1,628 @@
+[
+  {
+    "seq": 1210,
+    "headword": "理论",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1211,
+    "headword": "力所能及",
+    "headword_pinyin": "lìsuǒnéngjí",
+    "examples": [
+      "他虽然老了，但还是愿意做一些力所能及的事情。",
+      "我会给他们提供力所能及的帮助。",
+      "老师给孩子们布置了一些力所能及的任务。",
+      "只要是我力所能及的，我肯定尽量去做。",
+      "面对这个不幸的孩子，大家力所能及地捐献了一些钱物。"
+    ],
+    "example_pinyin": [
+      "tā suī rán lǎo le ， dàn hái shì yuàn yì zuò yī xiē lì suǒ néng jí de shì qíng 。",
+      "wǒ huì gěi tā men tí gōng lì suǒ néng jí de bāng zhù 。",
+      "lǎo shī gěi hái zi men bù zhì le yī xiē lì suǒ néng jí de rèn wù 。",
+      "zhǐ yào shì wǒ lì suǒ néng jí de ， wǒ kěn dìng jǐn liàng qù zuò 。",
+      "miàn duì zhè ge bù xìng de hái zi ， dà jiā lì suǒ néng jí dì juān xiàn le yī xiē qián wù 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1213,
+    "headword": "力量",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1214,
+    "headword": "历代",
+    "headword_pinyin": "lìdài",
+    "examples": [
+      "这些都是历代书法家的作品。",
+      "对中国历代皇帝他都有研究。",
+      "他家历代都居住在这个村子里。",
+      "历代以来，人们都非常喜欢这种风格的作品。"
+    ],
+    "example_pinyin": [
+      "zhè xiē dōu shì lì dài shū fǎ jiā de zuò pǐn 。",
+      "duì zhōng guó lì dài huáng dì tā dōu yǒu yán jiū 。",
+      "tā jiā lì dài dōu jū zhù zài zhè ge cūn zi lǐ 。",
+      "lì dài yǐ lái ， rén men dōu fēi cháng xǐ huān zhè zhǒng fēng gé de zuò pǐn 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1215,
+    "headword": "历来",
+    "headword_pinyin": "lìlái",
+    "examples": [
+      "我们历来主张和平，反对战争。",
+      "这里历来干旱少雨。",
+      "他历来就这么认真。",
+      "妈妈历来重视孩子的家庭教育。",
+      "我弟弟历来朋友很多。",
+      "春节放鞭炮是中国人历来的传统。",
+      "他历来的习惯是晚睡晚起。",
+      "他这种历来的想法很难改变。",
+      "对孩子先表扬后批评是他历来的做法。"
+    ],
+    "example_pinyin": [
+      "wǒ men lì lái zhǔ zhāng hé píng ， fǎn duì zhàn zhēng 。",
+      "zhè lǐ lì lái gān hàn shǎo yǔ 。",
+      "tā lì lái jiù zhè me rèn zhēn 。",
+      "mā mā lì lái zhòng shì hái zi de jiā tíng jiào yù 。",
+      "wǒ dì di lì lái péng yǒu hěn duō 。",
+      "chūn jié fàng biān pào shì zhōng guó rén lì lái de chuán tǒng 。",
+      "tā lì lái de xí guàn shì wǎn shuì wǎn qǐ 。",
+      "tā zhè zhǒng lì lái de xiǎng fǎ hěn nán gǎi biàn 。",
+      "duì hái zi xiān biǎo yáng hòu pī píng shì tā lì lái de zuò fǎ 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1216,
+    "headword": "立场",
+    "headword_pinyin": "lìchǎng",
+    "examples": [
+      "在坚持和平发展的问题上，我们的立场不会动摇。",
+      "他的立场很坚定，恐怕很难改变。",
+      "在保护环境方面，我们的立场是一致的。",
+      "他改变了立场，同意了公司合并的方案。",
+      "你不要总是站在自己的立场上想问题。"
+    ],
+    "example_pinyin": [
+      "zài jiān chí hé píng fā zhǎn de wèn tí shàng ， wǒ men de lì chǎng bú huì dòng yáo 。",
+      "tā de lì chǎng hěn jiān dìng ， kǒng pà hěn nán gǎi biàn 。",
+      "zài bǎo hù huán jìng fāng miàn ， wǒ men de lì chǎng shì yí zhì de 。",
+      "tā gǎi biàn le lì chǎng ， tóng yì le gōng sī hé bìng de fāng àn 。",
+      "nǐ bú yào zǒng shì zhàn zài zì jǐ de lì chǎng shàng xiǎng wèn tí 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1217,
+    "headword": "立方",
+    "headword_pinyin": "lìfāng",
+    "examples": [
+      "2的立方等于8。",
+      "8的立方可以写成8³。",
+      "13的立方是多少？",
+      "这张画是平面的，不是立方的。",
+      "这个图要是变成立方的就好看了。"
+    ],
+    "example_pinyin": [
+      "2 de lì fāng děng yú 8。",
+      "8 de lì fāng kě yǐ xiě chéng 8³。",
+      "13 de lì fāng shì duō shǎo ？",
+      "zhè zhāng huà shì píng miàn de ， bú shì lì fāng de 。",
+      "zhè ge tú yào shì biàn chéng lì fāng de jiù hǎo kàn le 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1219,
+    "headword": "立体",
+    "headword_pinyin": "lìtǐ",
+    "examples": [
+      "这个立体图形很容易看懂。",
+      "科学家们描绘了这种物质的立体结构。",
+      "这些纸板合并起来就可以变成立体形状。",
+      "他完成了飞机立体模型的制作。",
+      "我们刚刚看了一场立体电影。",
+      "这个收音机是立体声的。",
+      "这些立体画面给了我们很深刻的印象。",
+      "他这么一说，我立刻就有了立体感。",
+      "这里已经形成了立体交通网络。",
+      "这里建起了一座立体交叉大桥。",
+      "未来的战争一定是陆、海、空的立体战争。",
+      "我们已经建立了一套立体通信网络。"
+    ],
+    "example_pinyin": [
+      "zhè ge lì tǐ tú xíng hěn róng yì kàn dǒng 。",
+      "kē xué jiā men miáo huì le zhè zhǒng wù zhì dì lì tǐ jié gòu 。",
+      "zhè xiē zhǐ bǎn hé bìng qǐ lái jiù kě yǐ biàn chéng lì tǐ xíng zhuàng 。",
+      "tā wán chéng le fēi jī lì tǐ mó xíng de zhì zuò 。",
+      "wǒ men gāng gāng kàn le yī cháng lì tǐ diàn yǐng 。",
+      "zhè ge shōu yīn jī shì lì tǐ shēng de 。",
+      "zhè xiē lì tǐ huà miàn gěi le wǒ men hěn shēn kè de yìn xiàng 。",
+      "tā zhè me yī shuō ， wǒ lì kè jiù yǒu le lì tǐ gǎn 。",
+      "zhè lǐ yǐ jīng xíng chéng le lì tǐ jiāo tōng wǎng luò 。",
+      "zhè lǐ jiàn qǐ le yī zuò lì tǐ jiāo chā dà qiáo 。",
+      "wèi lái de zhàn zhēng yí dìng shì lù 、 hǎi 、 kōng de lì tǐ zhàn zhēng 。",
+      "wǒ men yǐ jīng jiàn lì le yī tào lì tǐ tōng xìn wǎng luò 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1220,
+    "headword": "立足",
+    "headword_pinyin": "lìzú",
+    "examples": [
+      "来到这里后，我们先找个立足的地方。",
+      "你连个立足之地也没有，怎么生活？",
+      "没有一技之长，将来怎么在社会上立足？",
+      "有了这份工作，我们就有了立足点。",
+      "我们要立足现实，考虑未来。",
+      "他们立足基层工作，发挥群众的作用。",
+      "中国坚持立足国内的方针，不断发展新能源。",
+      "科学发展观的提出立足于中国的国情。"
+    ],
+    "example_pinyin": [
+      "lái dào zhè lǐ hòu ， wǒ men xiān zhǎo gè lì zú de dì fāng 。",
+      "nǐ lián gè lì zú zhī dì yě méi yǒu ， zěn me shēng huó ？",
+      "méi yǒu yī jì zhī cháng ， jiāng lái zěn me zài shè huì shàng lì zú ？",
+      "yǒu le zhè fèn gōng zuò ， wǒ men jiù yǒu le lì zú diǎn 。",
+      "wǒ men yào lì zú xiàn shí ， kǎo lǜ wèi lái 。",
+      "tā men lì zú jī céng gōng zuò ， fā huī qún zhòng de zuò yòng 。",
+      "zhōng guó jiān chí lì zú guó nèi de fāng zhēn ， bù duàn fā zhǎn xīn néng yuán 。",
+      "kē xué fā zhǎn guān de tí chū lì zú yú zhōng guó de guó qíng 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1221,
+    "headword": "利害",
+    "headword_pinyin": "lìhài",
+    "examples": [
+      "他们分析了这次行动的种种利害。",
+      "签订这个合同我要考虑到利害关系。",
+      "我们的利害是一致的，所以应该团结起来。",
+      "我们的关系一直不错，没什么利害冲突。",
+      "这能否成功，跟我们大家有很大的利害关系。"
+    ],
+    "example_pinyin": [
+      "tā men fēn xī le zhè cì xíng dòng de zhǒng zhǒng lì hài 。",
+      "qiān dìng zhè ge hé tóng wǒ yào kǎo lǜ dào lì hài guān xì 。",
+      "wǒ men de lì hài shì yí zhì de ， suǒ yǐ yīng gāi tuán jié qǐ lái 。",
+      "wǒ men de guān xì yì zhí bù cuò ， méi shén me lì hài chōng tū 。",
+      "zhè néng fǒu chéng gōng ， gēn wǒ men dà jiā yǒu hěn dà de lì hài guān xì 。"
+    ],
+    "status": "headword_corrected_from_厉害"
+  },
+  {
+    "seq": 1222,
+    "headword": "利率",
+    "headword_pinyin": "lìlǜ",
+    "examples": [
+      "最近银行提高了存款利率。",
+      "这点儿钱存在银行，没有多少利率。",
+      "这笔贷款的利率比较高，公司压力很大。",
+      "他们可以按月支付我们利率。",
+      "投资这个项目，年利率可以达到11%。"
+    ],
+    "example_pinyin": [
+      "zuì jìn yín háng tí gāo le cún kuǎn lì lǜ 。",
+      "zhè diǎn ér qián cún zài yín háng ， méi yǒu duō shǎo lì lǜ 。",
+      "zhè bǐ dài kuǎn de lì lǜ bǐ jiào gāo ， gōng sī yā lì hěn dà 。",
+      "tā men kě yǐ àn yuè zhī fù wǒ men lì lǜ 。",
+      "tóu zī zhè ge xiàng mù ， nián lì lǜ kě yǐ dá dào 11%。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1223,
+    "headword": "例外",
+    "headword_pinyin": "lìwài",
+    "examples": [
+      "刮这么大风，在这里算是例外了。",
+      "他在家里一般不做饭，今天是个例外。",
+      "每个学生都要遵守这个规定，不能有例外。",
+      "他一般都很准时，但也有例外的时候。",
+      "你说的事情可能是个例外情况。",
+      "大家都得遵守公司规定，谁也不能例外。",
+      "他很少参加这种活动，只有这次例外。",
+      "他一般不发表意见，今天例外。"
+    ],
+    "example_pinyin": [
+      "guā zhè me dà fēng ， zài zhè lǐ suàn shì lì wài le 。",
+      "tā zài jiā lǐ yì bān bù zuò fàn ， jīn tiān shì gè lì wài 。",
+      "měi gè xué shēng dōu yào zūn shǒu zhè ge guī dìng ， bù néng yǒu lì wài 。",
+      "tā yì bān dōu hěn zhǔn shí ， dàn yě yǒu lì wài de shí hòu 。",
+      "nǐ shuō de shì qíng kě néng shì gè lì wài qíng kuàng 。",
+      "dà jiā dōu dé zūn shǒu gōng sī guī dìng ， shuí yě bù néng lì wài 。",
+      "tā hěn shǎo cān jiā zhè zhǒng huó dòng ， zhǐ yǒu zhè cì lì wài 。",
+      "tā yì bān bù fā biǎo yì jiàn ， jīn tiān lì wài 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1224,
+    "headword": "粒",
+    "headword_pinyin": "lì",
+    "examples": [
+      "我们要节约粮食，一粒米都不应浪费。",
+      "一粒种子从种下到成熟，要经过很长时间。",
+      "我的鞋里进了一粒沙子。"
+    ],
+    "example_pinyin": [
+      "wǒ men yào jié yuē liáng shí ， yī lì mǐ dōu bù yīng làng fèi 。",
+      "yī lì zhǒng zi cóng zhòng xià dào chéng shú ， yào jīng guò hěn zhǎng shí jiān 。",
+      "wǒ de xié lǐ jìn le yī lì shā zi 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1225,
+    "headword": "连年",
+    "headword_pinyin": "liánnián",
+    "examples": [
+      "连年的战争，使这里非常贫穷。",
+      "庄稼连年获得丰收，农民们富起来了。",
+      "公司的利润实现了连年增长。",
+      "连年干旱给这里的经济带来了很大影响。",
+      "来华留学人数连年上升。"
+    ],
+    "example_pinyin": [
+      "lián nián de zhàn zhēng ， shǐ zhè lǐ fēi cháng pín qióng 。",
+      "zhuāng jià lián nián huò dé fēng shōu ， nóng mín men fù qǐ lái le 。",
+      "gōng sī de lì rùn shí xiàn le lián nián zēng zhǎng 。",
+      "lián nián gān hàn gěi zhè lǐ de jīng jì dài lái le hěn dà yǐng xiǎng 。",
+      "lái huá liú xué rén shù lián nián shàng shēng 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1227,
+    "headword": "连同",
+    "headword_pinyin": "liántóng",
+    "examples": [
+      "老师连同学生都参加了这次活动。",
+      "请你把报名表连同体检表一起交给我们。",
+      "他把贷款连同利息都还清了。",
+      "我们连同工作人员一起解决了这个问题。",
+      "他把土豆连同卖土豆的农民一起带回来了。"
+    ],
+    "example_pinyin": [
+      "lǎo shī lián tóng xué shēng dōu cān jiā le zhè cì huó dòng 。",
+      "qǐng nǐ bǎ bào míng biǎo lián tóng tǐ jiǎn biǎo yì qǐ jiāo gěi wǒ men 。",
+      "tā bǎ dài kuǎn lián tóng lì xī dōu huán qīng le 。",
+      "wǒ men lián tóng gōng zuò rén yuán yì qǐ jiě jué le zhè ge wèn tí 。",
+      "tā bǎ tǔ dòu lián tóng mài tǔ dòu de nóng mín yì qǐ dài huí lái le 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1228,
+    "headword": "联欢",
+    "headword_pinyin": "liánhuān",
+    "examples": [
+      "新年的时候，老师会跟我们一起联欢。",
+      "这次春节大联欢，我们准备了很多节目。",
+      "周末我们准备组织一个欢迎新同学的联欢晚会。",
+      "我们在一起联欢了三个多小时才结束。",
+      "这次联欢会上我认识了很多新朋友。"
+    ],
+    "example_pinyin": [
+      "xīn nián de shí hòu ， lǎo shī huì gēn wǒ men yì qǐ lián huān 。",
+      "zhè cì chūn jié dà lián huān ， wǒ men zhǔn bèi le hěn duō jié mù 。",
+      "zhōu mò wǒ men zhǔn bèi zǔ zhī yí gè huān yíng xīn tóng xué de lián huān wǎn huì 。",
+      "wǒ men zài yì qǐ lián huān le sān gè duō xiǎo shí cái jié shù 。",
+      "zhè cì lián huān huì shàng wǒ rèn shí le hěn duō xīn péng yǒu 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1230,
+    "headword": "联盟",
+    "headword_pinyin": "liánméng",
+    "examples": [
+      "这几个国家已经结成了新的联盟。",
+      "他们组建了作家联盟，共同繁荣创作。",
+      "这个联盟越来越壮大。",
+      "这个国家最近加入了欧洲联盟（欧盟）。",
+      "为了共同的利益，这些国家成立了一个经济联盟。"
+    ],
+    "example_pinyin": [
+      "zhè jǐ gè guó jiā yǐ jīng jié chéng le xīn de lián méng 。",
+      "tā men zǔ jiàn le zuò jiā lián méng ， gòng tóng fán róng chuàng zuò 。",
+      "zhè ge lián méng yuè lái yuè zhuàng dà 。",
+      "zhè ge guó jiā zuì jìn jiā rù le ōu zhōu lián méng （ ōu méng ）。",
+      "wèi le gòng tóng de lì yì ， zhè xiē guó jiā chéng lì le yí gè jīng jì lián méng 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1231,
+    "headword": "联想",
+    "headword_pinyin": "liánxiǎng",
+    "examples": [
+      "看到这位老人，我联想起了自己的父亲。",
+      "这一切让我联想起大学时代。",
+      "联想他刚才的表情，我觉得情况有些不妙。",
+      "从这件事，我不禁联想到他以前的种种表现。",
+      "他联想丰富，经常有很多主意。"
+    ],
+    "example_pinyin": [
+      "kàn dào zhè wèi lǎo rén ， wǒ lián xiǎng qǐ le zì jǐ de fù qīn 。",
+      "zhè yī qiè ràng wǒ lián xiǎng qǐ dà xué shí dài 。",
+      "lián xiǎng tā gāng cái de biǎo qíng ， wǒ jué de qíng kuàng yǒu xiē bù miào 。",
+      "cóng zhè jiàn shì ， wǒ bù jīn lián xiǎng dào tā yǐ qián de zhǒng zhǒng biǎo xiàn 。",
+      "tā lián xiǎng fēng fù ， jīng cháng yǒu hěn duō zhǔ yì 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1232,
+    "headword": "廉洁",
+    "headword_pinyin": "liánjié",
+    "examples": [
+      "他作风廉洁，是一位好干部。",
+      "公务员都应该具有廉洁的品质。",
+      "当领导如果不廉洁，早晚会出问题。",
+      "这是一届非常廉洁的政府，得到了人民的拥护。",
+      "他做官廉洁得很，在群众中威信很高。"
+    ],
+    "example_pinyin": [
+      "tā zuò fēng lián jié ， shì yī wèi hǎo gàn bù 。",
+      "gōng wù yuán dōu yīng gāi jù yǒu lián jié de pǐn zhì 。",
+      "dāng lǐng dǎo rú guǒ bù lián jié ， zǎo wǎn huì chū wèn tí 。",
+      "zhè shì yī jiè fēi cháng lián jié de zhèng fǔ ， dé dào le rén mín de yōng hù 。",
+      "tā zuò guān lián jié dé hěn ， zài qún zhòng zhōng wēi xìn hěn gāo 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1233,
+    "headword": "良心",
+    "headword_pinyin": "liángxīn",
+    "examples": [
+      "做人应该有良心，对别人的帮助应该感恩。",
+      "凭良心说，我们没有欺骗别人。",
+      "你做出损害大家利益的事情，简直没有良心。",
+      "为了赚钱，有些人连良心也不要了。",
+      "一个人做了坏事，良心会不安的。"
+    ],
+    "example_pinyin": [
+      "zuò rén yīng gāi yǒu liáng xīn ， duì bié rén de bāng zhù yīng gāi gǎn ēn 。",
+      "píng liáng xīn shuō ， wǒ men méi yǒu qī piàn bié rén 。",
+      "nǐ zuò chū sǔn hài dà jiā lì yì de shì qíng ， jiǎn zhí méi yǒu liáng xīn 。",
+      "wèi le zhuàn qián ， yǒu xiē rén lián liáng xīn yě bú yào le 。",
+      "yí gè rén zuò le huài shì ， liáng xīn huì bù ān de 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1234,
+    "headword": "量",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1235,
+    "headword": "亮",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1236,
+    "headword": "凉快",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1238,
+    "headword": "林",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1240,
+    "headword": "伶俐",
+    "headword_pinyin": "línglì",
+    "examples": [
+      "这孩子聪明伶俐，大家都喜欢。",
+      "他说话很伶俐，是谈判高手。",
+      "她伶俐的口才，让所有的人都很佩服。",
+      "他虽然年纪大了，但动作还挺伶俐的。",
+      "这孩子口齿伶俐，很会讲话。"
+    ],
+    "example_pinyin": [
+      "zhè hái zi cōng míng líng lì ， dà jiā dōu xǐ huān 。",
+      "tā shuō huà hěn líng lì ， shì tán pàn gāo shǒu 。",
+      "tā líng lì de kǒu cái ， ràng suǒ yǒu de rén dōu hěn pèi fú 。",
+      "tā suī rán nián jì dà le ， dàn dòng zuò hái tǐng líng lì de 。",
+      "zhè hái zi kǒu chǐ líng lì ， hěn huì jiǎng huà 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1241,
+    "headword": "灵感",
+    "headword_pinyin": "línggǎn",
+    "examples": [
+      "写小说需要一些灵感。",
+      "每当突然来了灵感，他就马上开始创作。",
+      "这里的生活给了他很多灵感。",
+      "最近我缺乏灵感，无法继续创作。",
+      "灵感其实来源于生活，是生活经验的积累。"
+    ],
+    "example_pinyin": [
+      "xiě xiǎo shuō xū yào yī xiē líng gǎn 。",
+      "měi dāng tū rán lái le líng gǎn ， tā jiù mǎ shàng kāi shǐ chuàng zuò 。",
+      "zhè lǐ de shēng huó gěi le tā hěn duō líng gǎn 。",
+      "zuì jìn wǒ quē fá líng gǎn ， wú fǎ jì xù chuàng zuò 。",
+      "líng gǎn qí shí lái yuán yú shēng huó ， shì shēng huó jīng yàn de jī lěi 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1242,
+    "headword": "灵魂",
+    "headword_pinyin": "línghún",
+    "examples": [
+      "他希望死后灵魂可以上天。",
+      "他的灵魂好像离开了，呆呆地站在那里。",
+      "人死后真的有灵魂吗？",
+      "他是这支足球队的灵魂人物，有了他，比赛打得就特别好。",
+      "真实是新闻工作的灵魂。",
+      "他在这个组织中起到了灵魂作用。"
+    ],
+    "example_pinyin": [
+      "tā xī wàng sǐ hòu líng hún kě yǐ shàng tiān 。",
+      "tā de líng hún hǎo xiàng lí kāi le ， dāi dāi dì zhàn zài nà lǐ 。",
+      "rén sǐ hòu zhēn de yǒu líng hún ma ？",
+      "tā shì zhè zhī zú qiú duì de líng hún rén wù ， yǒu le tā ， bǐ sài dǎ dé jiù tè bié hǎo 。",
+      "zhēn shí shì xīn wén gōng zuò de líng hún 。",
+      "tā zài zhè ge zǔ zhī zhōng qǐ dào le líng hún zuò yòng 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1243,
+    "headword": "灵敏",
+    "headword_pinyin": "língmǐn",
+    "examples": [
+      "狗的鼻子特别灵敏。",
+      "他的动作灵敏，躲过了那辆汽车。",
+      "他灵敏地跳上了舞台，开始了演出。",
+      "这是一台非常灵敏的探测仪器。",
+      "他已经灵敏地察觉到了我的心理变化。"
+    ],
+    "example_pinyin": [
+      "gǒu de bí zi tè bié líng mǐn 。",
+      "tā de dòng zuò líng mǐn ， duǒ guò le nà liàng qì chē 。",
+      "tā líng mǐn dì tiào shàng le wǔ tái ， kāi shǐ le yǎn chū 。",
+      "zhè shì yī tái fēi cháng líng mǐn de tàn cè yí qì 。",
+      "tā yǐ jīng líng mǐn dì chá jué dào le wǒ de xīn lǐ biàn huà 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1244,
+    "headword": "凌晨",
+    "headword_pinyin": "língchén",
+    "examples": [
+      "他是在凌晨出生的。",
+      "我们明天凌晨出发去爬山。",
+      "那场足球决赛凌晨四点才结束。",
+      "凌晨，我接到了他的紧急电话。"
+    ],
+    "example_pinyin": [
+      "tā shì zài líng chén chū shēng de 。",
+      "wǒ men míng tiān líng chén chū fā qù pá shān 。",
+      "nà chǎng zú qiú jué sài líng chén sì diǎn cái jié shù 。",
+      "líng chén ， wǒ jiē dào le tā de jǐn jí diàn huà 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1245,
+    "headword": "灵性",
+    "headword_pinyin": "",
+    "examples": [],
+    "example_pinyin": [],
+    "status": "not_found_on_stated_page"
+  },
+  {
+    "seq": 1246,
+    "headword": "领会",
+    "headword_pinyin": "lǐnghuì",
+    "examples": [
+      "我们已经领会了老师的意思。",
+      "我领会到了这些话中包含的道理。",
+      "文件的精神需要大家好好儿领会。",
+      "你没有领会领导的意图，他是担心你的安全。",
+      "我的话你可能完全领会错了。"
+    ],
+    "example_pinyin": [
+      "wǒ men yǐ jīng lǐng huì le lǎo shī de yì si 。",
+      "wǒ lǐng huì dào le zhè xiē huà zhōng bāo hán de dào lǐ 。",
+      "wén jiàn de jīng shén xū yào dà jiā hǎo hǎo ér lǐng huì 。",
+      "nǐ méi yǒu lǐng huì lǐng dǎo de yì tú ， tā shì dān xīn nǐ de ān quán 。",
+      "wǒ de huà nǐ kě néng wán quán lǐng huì cuò le 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1247,
+    "headword": "领事馆",
+    "headword_pinyin": "lǐngshìguǎn",
+    "examples": [
+      "这个签证要到领事馆去办。",
+      "他在中国驻英国的领事馆工作。",
+      "我国领事馆在这个城市的市中心。",
+      "领事馆组织了一系列活动，庆祝国庆节的到来。"
+    ],
+    "example_pinyin": [
+      "zhè ge qiān zhèng yào dào lǐng shì guǎn qù bàn 。",
+      "tā zài zhōng guó zhù yīng guó de lǐng shì guǎn gōng zuò 。",
+      "wǒ guó lǐng shì guǎn zài zhè ge chéng shì de shì zhōng xīn 。",
+      "lǐng shì guǎn zǔ zhī le yī xì liè huó dòng ， qìng zhù guó qìng jié de dào lái 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1248,
+    "headword": "领土",
+    "headword_pinyin": "lǐngtǔ",
+    "examples": [
+      "战士们下定决心保卫祖国的领土。",
+      "国家领土问题不能让步。",
+      "这里从来就是我们国家的领土。",
+      "他们把侵略者赶出了自己的领土。"
+    ],
+    "example_pinyin": [
+      "zhàn shì men xià dìng jué xīn bǎo wèi zǔ guó de lǐng tǔ 。",
+      "guó jiā lǐng tǔ wèn tí bù néng ràng bù 。",
+      "zhè lǐ cóng lái jiù shì wǒ men guó jiā de lǐng tǔ 。",
+      "tā men bǎ qīn lüè zhě gǎn chū le zì jǐ de lǐng tǔ 。"
+    ],
+    "status": "ok"
+  },
+  {
+    "seq": 1250,
+    "headword": "领先",
+    "headword_pinyin": "lǐngxiān",
+    "examples": [
+      "她领先半步到达了终点。",
+      "在三千米跑的过程中，他一直领先。",
+      "现在是3号队员暂时领先。",
+      "开始时大家都跑在一起，后来他就领先我们很多了。",
+      "我们的技术在世界上处于领先水平。",
+      "我们领先行业十年，发明了这种仪器。",
+      "公司的电子产品在同类产品中处于领先位置。",
+      "篮球比赛我们一直领先对手。"
+    ],
+    "example_pinyin": [
+      "tā lǐng xiān bàn bù dào dá le zhōng diǎn 。",
+      "zài sān qiān mǐ pǎo de guò chéng zhōng ， tā yì zhí lǐng xiān 。",
+      "xiàn zài shì 3 hào duì yuán zàn shí lǐng xiān 。",
+      "kāi shǐ shí dà jiā dōu pǎo zài yì qǐ ， hòu lái tā jiù lǐng xiān wǒ men hěn duō le 。",
+      "wǒ men de jì shù zài shì jiè shàng chǔ yú lǐng xiān shuǐ píng 。",
+      "wǒ men lǐng xiān xíng yè shí nián ， fā míng le zhè zhǒng yí qì 。",
+      "gōng sī de diàn zi chǎn pǐn zài tóng lèi chǎn pǐn zhōng chǔ yú lǐng xiān wèi zhì 。",
+      "lán qiú bǐ sài wǒ men yì zhí lǐng xiān duì shǒu 。"
+    ],
+    "status": "ok"
+  }
+]
