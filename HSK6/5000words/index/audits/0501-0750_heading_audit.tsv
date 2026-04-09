@@ -1,4 +1,15 @@
 markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candidate_index_seqs_for_headword	proposed_canonical_seq	status
+0501	对策	对策	yes	0501	0501	ok
+0502	对称	对称	yes	0502	0502	ok
+0503	对付	对付	yes	0503	0503	ok
+0504	对抗	对抗	yes	0504	0504	ok
+0505	对立	对立	yes	0505	0505	ok
+0506	对联	对联	yes	0506	0506	ok
+0507	对应	对应	yes	0507	0507	ok
+0508	对照	对照	yes	0508	0508	ok
+0509	兑换	兑换	yes	0509	0509	ok
+0510	兑现	兑现	yes	0510	0510	ok
+0511	顿时	顿时	yes	0511	0511	ok
 0512	多元化	多元化	yes	0512	0512	ok
 0513	哆嗦	哆嗦	yes	0513	0513	ok
 0514	堕落	堕落	yes	0514	0514	ok
@@ -12,6 +23,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0522	二氧化碳	二氧化碳	yes	0522	0522	ok
 0523	发布	发布	yes	0523	0523	ok
 0524	发财	发财	yes	0524	0524	ok
+0525	发呆	发呆	yes	0525	0525	ok
 0526	发动	发动	yes	0526	0526	ok
 0527	发火	发火	yes	0527	0527	ok
 0528	发觉	发觉	yes	0528	0528	ok
@@ -21,6 +33,8 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0532	发炎	发炎	yes	0532	0532	ok
 0533	发扬	发扬	yes	0533	0533	ok
 0534	发音	发音	yes	0534	0534	ok
+0535	法人	法人	yes	0535	0535	ok
+0536	番	番	yes	0536	0536	ok
 0537	凡是	凡是	yes	0537	0537	ok
 0538	繁华	繁华	yes	0538	0538	ok
 0539	繁忙	繁忙	yes	0539	0539	ok
