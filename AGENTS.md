@@ -1,5 +1,62 @@
 # Repository Guidelines
 
+For shared Codex operating guidance, also refer to `AGENTS.codex-template.md`.
+For daily journal work outside this repo, prefer the `journal-entry` skill at `~/.codex/skills/journal-entry/SKILL.md`.
+
+## Operating Rules
+
+### Confirmation Before Major Actions
+
+Before creating, modifying, or deleting files, running non-read-only commands, or taking irreversible actions, present a short execution plan and get explicit user confirmation unless the action is already listed under `Pre-Approved Actions`.
+
+Read-only inspection is allowed without confirmation. Examples:
+
+- `git status`
+- `git log`
+- `git diff`
+- `ls`
+- `find`
+- `rg`
+- `sed -n`
+
+### Pre-Approved Actions
+
+Users may approve actions for one-time use or as standing pre-approval for later work.
+Maintain the current pre-approved list explicitly when the user asks to add or remove items.
+
+Current baseline pre-approved actions:
+
+- read-only Git commands: `git status`, `git log`, `git diff`
+- safe file reads
+- repository-local validation commands listed in this file
+- backup creation for files being edited
+
+### Git Rules
+
+- `git add` and `git commit` require explicit user approval
+- `git push` must not be run unless the user explicitly asks for it
+- destructive Git commands such as `reset --hard`, `rebase`, `force-push`, `checkout -- <path>`, and `clean -fd` must not be run unless the user explicitly asks for them
+- do not revert unrelated user changes
+- when following a repository-specific journal workflow that requires synchronization first, do not inspect, edit, commit, or push until the required `git checkout` and `git pull --rebase` steps have completed successfully
+- this is required because journal work often edits the same TOC and file tail as upstream changes, so skipping the sync step materially increases the risk of rebase conflicts
+
+### Backups and Verification
+
+Before major edits, create a timestamped backup of each file being changed unless the user says to skip backups.
+
+Before declaring success, provide concrete verification evidence where applicable:
+
+- relevant validation command output
+- relevant diff summary
+- file pairing or formatting checks for content changes
+
+### Progress and Scope
+
+- provide progress updates during multi-step work
+- follow the requested scope exactly
+- if a better approach exists, explain it briefly and wait for approval before switching
+- if these rules conflict with stricter session-level rules, follow the stricter rules
+
 ## Project Structure & Module Organization
 This repository stores Chinese study materials plus small Python utilities used to maintain pinyin formatting.
 
