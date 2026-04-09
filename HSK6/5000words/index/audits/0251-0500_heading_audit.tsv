@@ -25,6 +25,10 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0275	成天	成天	yes	0275	0275	ok
 0276	成效	成效	yes	0276	0276	ok
 0277	成心	成心	yes	0277	0277	ok
+0278	成员	成员	yes	0278	0278	ok
+0279	呈现	呈现	yes	0279	0279	ok
+0280	诚挚	诚挚	yes	0280	0280	ok
+0281	承办	承办	yes	0281	0281	ok
 0282	承包	承包	yes	0282	0282	ok
 0283	承诺	承诺	yes	0283	0283	ok
 0284	城堡	城堡	yes	0284	0284	ok
