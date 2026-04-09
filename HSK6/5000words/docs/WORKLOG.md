@@ -30,3 +30,9 @@
 - Rebuilt the DB and confirmed `example_count != pinyin_count` is now `0`.
 - Replaced the `18` generic fallback examples in `0751-1000.md` from PDF OCR-derived source text.
 - Exported the remaining placeholder source pages to `index/placeholder_source_pages/` with a manifest at `index/placeholder_source_pages/manifest.tsv`.
+- Replaced the remaining `65` generic fallback examples across `1251-1500.md`, `1501-1750.md`, `1751-2000.md`, `2001-2250.md`, and `2251-2500.md`.
+- Rebuilt the DB and confirmed:
+  - `missing_canonical_blocks = 0`
+  - generic fallback examples = `0`
+  - `example_count != pinyin_count = 0`
+- Corrected the canonical headword at `1239` from `邻舍` to `吝啬` based on the source page image.

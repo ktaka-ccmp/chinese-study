@@ -8,28 +8,25 @@
 ## Current Counts
 
 - Canonical body blocks: `2634`
-- Canonical example sentences: `13847`
+- Canonical example sentences: `14114`
 - Missing canonical blocks: `0`
-- Generic fallback examples: `126`
+- Generic fallback examples: `0`
 - Blocks with `example_count != pinyin_count`: `0`
 
-## Placeholder Distribution
+## Placeholder Status
 
-- `1001-1250.md`: `61`
-- `1251-1500.md`: `23`
-- `1501-1750.md`: `8`
-- `1751-2000.md`: `7`
-- `2001-2250.md`: `24`
-- `2251-2500.md`: `3`
+- Queue file: `index/placeholder_review_queue.tsv`
+- OCR packet archive: `index/placeholder_source_pages/manifest.tsv`
+- Current queue rows: `0`
 
-Queue file:
-
-- `index/placeholder_review_queue.tsv`
-- `index/placeholder_source_pages/manifest.tsv`
-
-Cleared in this pass:
+Previously cleared in passes:
 
 - `0751-1000.md`: `18 -> 0`
+- `1251-1500.md`: `23 -> 0`
+- `1501-1750.md`: `8 -> 0`
+- `1751-2000.md`: `7 -> 0`
+- `2001-2250.md`: `24 -> 0`
+- `2251-2500.md`: `3 -> 0`
 
 ## Example/Pinyin Count Mismatches
 
@@ -38,5 +35,5 @@ Cleared in this pass:
 
 ## Suggested QA Order
 
-1. Replace the `144` generic fallback examples from the PDF.
-2. Review high-risk OCR blocks in the same ranges touched during placeholder replacement.
+1. Re-audit index completeness against the PDF index pages.
+2. Review high-risk OCR blocks and remaining sentence-level corruption against the PDF.

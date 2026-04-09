@@ -237,7 +237,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 1236	凉快	凉快	yes	1236	1236	ok
 1237	临床	临床	yes	1237	1237	ok
 1238	林	林	yes	1238	1238	ok
-1239	邻舍	邻舍	yes	1239	1239	ok
+1239	吝啬	吝啬	yes	1239	1239	ok
 1240	伶俐	伶俐	yes	1240	1240	ok
 1241	灵感	灵感	yes	1241	1241	ok
 1242	灵魂	灵魂	yes	1242	1242	ok
