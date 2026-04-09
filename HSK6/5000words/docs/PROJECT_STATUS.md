@@ -12,6 +12,7 @@
 - Canonical index rows: `2634`
 - Canonical body blocks in DB: `2634`
 - Missing canonical blocks: `0`
+- OCR suspicious example sentences: `1049`
 - Canonical markdown ranges:
   - `0001-0250.md` through `2251-2500.md`
   - `2501-2750.md` as a partial final range
@@ -32,7 +33,7 @@
 - Full PDF-grade verification of every example pinyin line
 - Final confirmation that the index itself has no remaining omissions
 - Cleanup of OCR-corrupted body text that survived earlier reconstruction phases
-- Review of `index/ocr_review_queue.tsv` (`1477` suspicious example sentences)
+- Review of OCR-suspicious sentences still remaining in the canonical markdown corpus
 
 ## Index Reaudit Status
 
@@ -66,4 +67,4 @@
 - Placeholder OCR packet archive: `index/placeholder_source_pages/manifest.tsv`
 - Generic fallback examples remaining: `0`
 - `example_count != pinyin_count` blocks: `0`
-- OCR review queue: `index/ocr_review_queue.tsv` (`1477` suspicious sentences)
+- Agent handoff guide: `docs/AGENT_HANDOFF.md`
