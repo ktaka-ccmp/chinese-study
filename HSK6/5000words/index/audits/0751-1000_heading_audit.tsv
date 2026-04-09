@@ -1,5 +1,6 @@
 markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candidate_index_seqs_for_headword	proposed_canonical_seq	status
 0751	光彩	光彩	yes	0751	0751	ok
+0752	光辉	光辉	yes	0752	0752	ok
 0753	光芒	光芒	yes	0753	0753	ok
 0754	光荣	光荣	yes	0754	0754	ok
 0755	广阔	广阔	yes	0755	0755	ok
@@ -8,16 +9,21 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0758	归纳	归纳	yes	0758	0758	ok
 0759	规范	规范	yes	0759	0759	ok
 0760	规格	规格	yes	0760	0760	ok
+0761	规划	规划	yes	0761	0761	ok
 0762	规章	规章	yes	0762	0762	ok
 0763	轨道	轨道	yes	0763	0763	ok
 0764	贵族	贵族	yes	0764	0764	ok
+0766	棍棒	棍棒	yes	0766	0766	ok
+0765	跪	跪	yes	0765	0765	ok
 0767	国防	国防	yes	0767	0767	ok
 0768	国务院	国务院	yes	0768	0768	ok
 0769	果断	果断	yes	0769	0769	ok
 0770	过渡	过渡	yes	0770	0770	ok
 0771	过度	过度	yes	0771	0771	ok
+0772	过奖	过奖	yes	0772	0772	ok
 0773	过滤	过滤	yes	0773	0773	ok
 0774	过失	过失	yes	0774	0774	ok
+0775	过问	过问	yes	0775	0775	ok
 0776	过瘾	过瘾	yes	0776	0776	ok
 0777	过于	过于	yes	0777	0777	ok
 0778	嗨	嗨	yes	0778	0778	ok
@@ -38,17 +44,23 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0793	号召	号召	yes	0793	0793	ok
 0794	好客	好客	yes	0794	0794	ok
 0795	耗费	耗费	yes	0795	0795	ok
+0796	呵	呵	yes	0796	0796	ok
 0797	合并	合并	yes	0797	0797	ok
 0798	合成	合成	yes	0798	0798	ok
 0799	合乎	合乎	yes	0799	0799	ok
 0800	合伙	合伙	yes	0800	0800	ok
+0802	合算	合算	yes	0802	0802	ok
+0801	合身	合身	yes	0801	0801	ok
 0803	和蔼	和蔼	yes	0803	0803	ok
 0804	和解	和解	yes	0804	0804	ok
 0805	和睦	和睦	yes	0805	0805	ok
 0806	和气	和气	yes	0806	0806	ok
+0808	嘿	嘿	yes	0808	0808	ok
+0807	和谐	和谐	yes	0807	0807	ok
 0809	痕迹	痕迹	yes	0809	0809	ok
 0810	狠心	狠心	yes	0810	0810	ok
 0811	恨不得	恨不得	yes	0811	0811	ok
+0812	哼	哼	yes	0812	0812	ok
 0813	横	横	yes	0813	0813	ok
 0814	轰动	轰动	yes	0814	0814	ok
 0815	哄	哄	yes	0815,0816,0821		ok
@@ -73,6 +85,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0834	湖泊	湖泊	yes	0834	0834	ok
 0835	互联网	互联网	yes	0835	0835	ok
 0836	花瓣	花瓣	yes	0836	0836	ok
+0837	花蕾	花蕾	yes	0837	0837	ok
 0838	华丽	华丽	yes	0838	0838	ok
 0839	华侨	华侨	yes	0839	0839	ok
 0840	化肥	化肥	yes	0840	0840	ok
@@ -87,6 +100,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0849	还原	还原	yes	0849	0849	ok
 0850	环节	环节	yes	0850	0850	ok
 0851	缓和	缓和	yes	0851	0851	ok
+0852	患者	患者	yes	0852	0852	ok
 0853	荒凉	荒凉	yes	0853	0853	ok
 0854	荒谬	荒谬	yes	0854	0854	ok
 0855	荒唐	荒唐	yes	0855	0855	ok
@@ -106,6 +120,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0869	毁灭	毁灭	yes	0869	0869	ok
 0870	汇报	汇报	yes	0870	0870	ok
 0871	会晤	会晤	yes	0871	0871	ok
+0872	贿赂	贿赂	yes	0872	0872	ok
 0873	昏迷	昏迷	yes	0873	0873	ok
 0874	荤	荤	yes	0874	0874	ok
 0875	浑身	浑身	yes	0875	0875	ok
@@ -121,6 +136,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0885	或许	或许	yes	0885	0885	ok
 0886	货币	货币	yes	0886	0886	ok
 0887	讥笑	讥笑	yes	0887	0887	ok
+0888	饥饿	饥饿	yes	0888	0888	ok
 0889	机动	机动	yes	0889	0889	ok
 0890	机构	机构	yes	0890	0890	ok
 0891	机关	机关	yes	0891	0891	ok
@@ -188,6 +204,8 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 0953	监视	监视	yes	0953	0953	ok
 0954	监狱	监狱	yes	0954	0954	ok
 0955	兼职	兼职	yes	0955	0955	ok
+0957	拣	拣	yes	0957	0957	ok
+0956	煎	煎	yes	0956	0956	ok
 0958	检讨	检讨	yes	0958	0958	ok
 0959	检验	检验	yes	0959	0959	ok
 0960	剪彩	剪彩	yes	0960	0960	ok

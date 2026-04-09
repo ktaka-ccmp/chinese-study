@@ -33,6 +33,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 1532	强迫	强迫	yes	1532	1532	ok
 1533	桥梁	桥梁	yes	1533	1533	ok
 1534	窍门	窍门	yes	1534	1534	ok
+1535	悄	悄	yes	1535	1535	ok
 1536	切实	切实	yes	1536	1536	ok
 1537	锲而不舍	锲而不舍	yes	1537	1537	ok
 1538	钦佩	钦佩	yes	1538	1538	ok
@@ -94,6 +95,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 1594	确信	确信	yes	1594	1594	ok
 1595	群众	群众	yes	1595	1595	ok
 1596	染	染	yes	1596	1596	ok
+1597	嚷	嚷	yes	1597	1597	ok
 1598	让步	让步	yes	1598	1598	ok
 1599	饶恕	饶恕	yes	1599	1599	ok
 1600	扰乱	扰乱	yes	1600	1600	ok
@@ -127,6 +129,12 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 1628	融化	融化	yes	1628	1628	ok
 1629	融洽	融洽	yes	1629	1629	ok
 1630	柔和	柔和	yes	1630	1630	ok
+1636	腮	腮	yes	1636	1636	ok
+1635	撒谎	撒谎	yes	1635	1635	ok
+1634	弱点	弱点	yes	1634	1634	ok
+1633	若干	若干	yes	1633	1633	ok
+1632	儒家	儒家	yes	1632	1632	ok
+1631	揉	揉	yes	1631	1631	ok
 1637	三角	三角	yes	1637	1637	ok
 1638	散文	散文	yes	1638	1638	ok
 1639	散布	散布	yes	1639	1639	ok

@@ -14,6 +14,7 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 2263	以往	以往	yes	2263	2263	ok
 2264	以至	以至	yes	2264	2264	ok
 2265	以致	以致	yes	2265	2265	ok
+2266	乙	乙	yes	2266	2266	ok
 2267	一帆风顺	一帆风顺	yes	2267	2267	ok
 2268	一举两得	一举两得	yes	2268	2268	ok
 2269	一如既往	一如既往	yes	2269	2269	ok
@@ -28,6 +29,8 @@ markdown_seq	markdown_headword	expected_headword_for_seq	index_matches_seq	candi
 2278	意志	意志	yes	2278	2278	ok
 2279	毅力	毅力	yes	2279	2279	ok
 2280	毅然	毅然	yes	2280	2280	ok
+2282	阴谋	阴谋	yes	2282	2282	ok
+2281	翌	翌	yes	2281	2281	ok
 2283	音响	音响	yes	2283	2283	ok
 2284	引导	引导	yes	2284	2284	ok
 2285	引擎	引擎	yes	2285	2285	ok
