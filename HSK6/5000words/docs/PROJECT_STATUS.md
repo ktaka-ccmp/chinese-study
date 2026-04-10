@@ -12,7 +12,8 @@
 - Canonical index rows: `2634`
 - Canonical body blocks in DB: `2634`
 - Missing canonical blocks: `0`
-- OCR suspicious example sentences: `1049`
+- OCR suspicious example sentences: `2` (both false positives: `U盘`, `iPad`)
+- `master_index.tsv` OCR headword errors fixed: seq 1346 (搜索→摸索), 1662 (烧→哨), 1810 (搜→搜索), 1914 (投向→投降), 1917 (途→秃), 2139 (凶猛→凶恶)
 - Canonical markdown ranges:
   - `0001-0250.md` through `2251-2500.md`
   - `2501-2750.md` as a partial final range
@@ -26,14 +27,15 @@
 - Range heading audits with no missing canonical headings
 - Replacement of all generic fallback examples of the form `“X”是一个常用词。`
 - `example_count != pinyin_count` reduced to `0`
+- PDF-grade OCR correction sweep across all ranges (1049 → 2 suspicious sentences, 99.8% reduction)
+  - 1001-1250.md: 244 → 0
+  - 1251-1500.md, 1501-1750.md, 1751-2000.md, 2001-2250.md, 2251-2500.md, 2501-2750.md and earlier ranges: all corrected via parallel Sonnet subagents reading the clean PDF
+  - Clean PDF used as source: `/home.new/ktaka/HSK/HSK6-5000words-main.pdf` (732 pages, offset 0, created by user from original 893-page PDF with rescan duplicates removed)
 
 ## What Is Not Finished
 
-- Full PDF-grade verification of every example sentence
-- Full PDF-grade verification of every example pinyin line
+- Full PDF-grade verification of every example sentence (spot-checked only; tone marks may drift for polyphonic characters handled by pypinyin)
 - Final confirmation that the index itself has no remaining omissions
-- Cleanup of OCR-corrupted body text that survived earlier reconstruction phases
-- Review of OCR-suspicious sentences still remaining in the canonical markdown corpus
 
 ## Index Reaudit Status
 

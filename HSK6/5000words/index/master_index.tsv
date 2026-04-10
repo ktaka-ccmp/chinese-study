@@ -1344,7 +1344,7 @@ seq	headword	pinyin	page	source_file	source_seq
 1343	明明		371	0501-1000_index.tsv	0862
 1344	明智		371	0501-1000_index.tsv	0863
 1345	命名		371	0501-1000_index.tsv	0864
-1346	搜索		372	0501-1000_index.tsv	0865
+1346	摸索	mōsuǒ	372	0501-1000_index.tsv	0865
 1347	模范		372	0501-1000_index.tsv	0866
 1348	模式		372	0501-1000_index.tsv	0867
 1349	模型		373	0501-1000_index.tsv	0868
@@ -1660,7 +1660,7 @@ seq	headword	pinyin	page	source_file	source_seq
 1659	尚且	shàngqiě	462	1001-1500_index.tsv	1240
 1660	捎	shāo	462	1001-1500_index.tsv	1241
 1661	稍	shāo	462	1001-1500_index.tsv	1242
-1662	烧	shāo	463	1001-1500_index.tsv	1243
+1662	哨	shào	463	1001-1500_index.tsv	1243
 1663	奢侈	shēchǐ	463	1001-1500_index.tsv	1244
 1664	舌头	shétou	463	1001-1500_index.tsv	1245
 1665	社区	shèqū	463	1001-1500_index.tsv	1246
@@ -1808,7 +1808,7 @@ seq	headword	pinyin	page	source_file	source_seq
 1807	寺庙	sìmiào	502	1001-1500_index.tsv	1388
 1808	饲养	sìyǎng	502	1001-1500_index.tsv	1389
 1809	肆无忌惮	sìwú-jìdàn	503	1001-1500_index.tsv	1390
-1810	搜	sōu	503	1001-1500_index.tsv	1391
+1810	搜索	sōusuǒ	503	1001-1500_index.tsv	1391
 1811	搜索	sōusuǒ	503	1001-1500_index.tsv	1392
 1812	艘	sōu	503	1001-1500_index.tsv	1393
 1813	苏醒	sūxǐng	504	1001-1500_index.tsv	1394
@@ -1912,10 +1912,10 @@ seq	headword	pinyin	page	source_file	source_seq
 1911	投机		530	1501-2000_index.tsv	1563
 1912	投票		530	1501-2000_index.tsv	1564
 1913	投诉		530	1501-2000_index.tsv	1565
-1914	投向		531	1501-2000_index.tsv	1566
+1914	投降	tóuxiáng	531	1501-2000_index.tsv	1566
 1915	投资		531	1501-2000_index.tsv	1567
 1916	透露		531	1501-2000_index.tsv	1568
-1917	途		531	1501-2000_index.tsv	1569
+1917	秃	tū	531	1501-2000_index.tsv	1569
 1918	突破		532	1501-2000_index.tsv	1570
 1919	图案		532	1501-2000_index.tsv	1571
 1920	徒弟		532	1501-2000_index.tsv	1572
@@ -2137,7 +2137,7 @@ seq	headword	pinyin	page	source_file	source_seq
 2136	性命		594	1501-2000_index.tsv	1788
 2137	性能		594	1501-2000_index.tsv	1789
 2138	性情		594	1501-2000_index.tsv	1790
-2139	凶猛		595	1501-2000_index.tsv	1791
+2139	凶恶	xiōngè	595	1501-2000_index.tsv	1791
 2140	凶手		595	1501-2000_index.tsv	1792
 2141	汹涌		595	1501-2000_index.tsv	1793
 2142	胸怀		595	1501-2000_index.tsv	1794

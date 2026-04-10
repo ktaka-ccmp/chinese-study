@@ -8,7 +8,8 @@
 
 ## Canonical Sources
 
-- PDF: `/home.new/ktaka/HSK/HSK6-5000words.pdf`
+- Original PDF: `/home.new/ktaka/HSK/HSK6-5000words.pdf` (893 pages, contains rescan duplicates, offset 57+)
+- **Clean PDF (recommended)**: `/home.new/ktaka/HSK/HSK6-5000words-main.pdf` (732 pages, rescan duplicates removed, offset 0 so `page` column in `master_index.tsv` maps directly)
 - Canonical index: `HSK6/5000words/index/master_index.tsv`
 - Canonical DB: `HSK6/5000words/hsk6_words.db`
 - Canonical markdown ranges:
@@ -31,24 +32,18 @@
 - `missing_canonical_blocks=0`
 - `example_count != pinyin_count = 0`
 - placeholder 例文 `0`
-- OCR 疑義文 total: `1049`
+- OCR 疑義文 total: `2` (どちらも偽陽性: `U盘`, `iPad`)
 
-レンジ別の OCR 疑義文:
+**OCR校正スイープ完了** (2026-04-10): 1049 → 2 (99.8%削減)。全レンジをクリーンPDFと照合して修正済み。
 
-- `0001-0250.md`: `1`
-- `1001-1250.md`: `244`
-- `1251-1500.md`: `168`
-- `1501-1750.md`: `254`
-- `1751-2000.md`: `227`
-- `2001-2250.md`: `100`
-- `2251-2500.md`: `14`
-- `2501-2750.md`: `4`
+校正スイープ中に発見された `master_index.tsv` 側のOCRエラー (修正済み):
 
-疑義 `0` まで落ちているレンジ:
-
-- `0251-0500.md`
-- `0501-0750.md`
-- `0751-1000.md`
+- seq 1346: `搜索` → `摸索` (mōsuǒ)
+- seq 1662: `烧` → `哨` (shào)
+- seq 1810: `搜` → `搜索` (sōusuǒ)
+- seq 1914: `投向` → `投降` (tóuxiáng)
+- seq 1917: `途` → `秃` (tū)
+- seq 2139: `凶猛` → `凶恶` (xiōngè)
 
 ## Meaning Of “Done”
 
@@ -167,23 +162,19 @@ sqlite3 -header -csv HSK6/5000words/hsk6_words.db \
 
 ## Current Best Next Step
 
-次の担当は `1001-1250.md` を続けるのがよい。
+OCR校正スイープは事実上完了。残タスクは以下:
 
-理由:
+1. ピンインの精度向上（多音字など、pypinyinが機械的に生成した部分のスポットチェック）
+2. 偽陽性検出を避けるため、suspiciousクエリを `U盘` や `iPad` 等を除外する形に調整するかどうか検討
 
-- まだ `244` 件残っている
-- すでに先頭の大崩れを何段か処理済み
-- 同じ種類の連続崩れが残っているので、同じやり方で削りやすい
+## Parallel Correction Pipeline
 
-次点:
+大量の suspicious を一気に処理するには並列 Sonnet サブエージェントを使う:
 
-- `1501-1750.md`
-- `1751-2000.md`
+1. `scripts/remaining_batch_N.tsv` を作る (seq, headword, pdf_page, source_file)
+2. `scripts/prompt_N.txt` を作る (JSONL追記形式 - 途中失敗で作業ロスしない)
+3. `scripts/run_worker.sh` 経由で `claude --model sonnet --allowedTools "Read,Bash,Write"` を並列起動
+4. 完了後 `scripts/apply_corrections.py` で一括適用
+5. `build_hsk6_db.py` で DB 再構築
 
-## Important Historical Note
-
-- `0251-0500.md`
-- `0501-0750.md`
-- `0751-1000.md`
-
-は、すでに OCR 疑義 `0` まで落としてある。再度大きく触る必要は薄い。
+重要: worker プロンプトには必ず **JSONL incremental append** を指示する。バッチ終了時一括書き出しだと途中失敗で全ロスする。

@@ -1,0 +1,33 @@
+You are a transcription worker for an HSK6 Chinese vocabulary correction project.
+
+Your Task:
+Read batch file /home.new/ktaka/GitHub/chinese-study/HSK6/5000words/scripts/remaining_batch_final.tsv to get your assigned entries.
+Each line has: seq, headword, pdf_page, source_file (tab-separated).
+Total: 24 entries.
+
+For each entry:
+1. Read the PDF page image using Read tool on /home.new/ktaka/HSK/HSK6-5000words-main.pdf with pages parameter set to the pdf_page value. Read up to 5 pages at once for efficiency.
+2. Find the headword entry on that page image. The headword shown in the batch file may itself contain OCR errors - if you cannot find the exact headword but find a similar one matching the page position (alphabetical order), use the headword AS SHOWN IN THE PDF.
+3. Transcribe ALL example sentences (marked with circled numbers) exactly as printed, in simplified Chinese.
+4. Generate pinyin for each sentence using Bash:
+   /home.new/ktaka/GitHub/chinese-study/HSK6/5000words/venv/bin/python -c "import json; from pypinyin import lazy_pinyin, Style; sentences=JSON_LIST; [print(json.dumps(' '.join(lazy_pinyin(s, style=Style.TONE, neutral_tone_with_five=True)), ensure_ascii=False)) for s in sentences]"
+   Replace JSON_LIST with a Python list of the sentence strings.
+
+CRITICAL - Incremental output:
+After processing EACH entry, IMMEDIATELY append it as a single JSON line to the output file using Bash:
+  echo 'JSON_OBJECT' >> /home.new/ktaka/GitHub/chinese-study/HSK6/5000words/scripts/remaining_corrections_final.jsonl
+where JSON_OBJECT is one complete JSON object on one line like:
+  {"seq":1234,"headword":"word","headword_pinyin":"pinyin","examples":["sent1","sent2"],"example_pinyin":["py1","py2"]}
+
+Do NOT wait until the end to write output. Write each entry immediately after processing it.
+Output file: /home.new/ktaka/GitHub/chinese-study/HSK6/5000words/scripts/remaining_corrections_final.jsonl
+
+If the headword in the PDF differs from what was listed in the batch file (OCR error in master_index), note it in your final summary AND use the PDF version as the correct headword.
+
+Rules:
+- Read Chinese text FROM THE PAGE IMAGE, not from pdftotext output
+- Transcribe in simplified Chinese (PDF may show traditional forms)
+- Include ALL example sentences for each headword (usually 4-8 per word)
+- If a headword has multiple senses, include examples from ALL senses
+- Process up to 5 PDF pages per Read call for efficiency
+- APPEND each entry to the output file immediately after processing - do not batch writes
