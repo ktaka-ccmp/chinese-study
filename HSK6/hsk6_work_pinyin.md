@@ -167,7 +167,7 @@ dì èr bù fèn
 
 
 家庭成员要有角色定位，老公扮演慈父，妻子就是严母；老公扮演严父，妻子就是慈母。  
-<br>jiā tíng chéng yuán yào yǒu jué sè dìng wèi, lǎo gōng bàn yǎn cí fù, qī zǐ jiù shì yán mǔ; lǎo gōng bàn yǎn yán fù, qī zǐ jiù shì cí mǔ.
+<br>jiā tíng chéng yuán yào yǒu jué sè dìng wèi, lǎo gōng bàn yǎn cí fù, qī zǐ jiù shì yán mǔ; lǎo gōng bàn yǎn cí fù, qī zǐ jiù shì cí mǔ.
 
 
 过于严厉，孩子可能会出现离家出走或者自杀的极端行为；过于慈爱，对孩子的成长也是不利的。  
@@ -235,7 +235,7 @@ dì sān bù fèn
 <br>cǐ wài, fù qīn cān yù jiào yù hái zi hái néng cù shǐ hái zi chǎn shēng duì shì yè chéng jiù de zhuī qiú.
 
 
-社会学家认为，一个人的事业成就感同父亲与他们的关系有密切的联系。  
+社会学家认为，一个人的事业成就感 同 父亲与他们的关系 有密切的联系。  
 <br>shè huì xué jiā rèn wéi, yí gè rén de shì yè chéng jiù gǎn tóng fù qīn yǔ tā men de guān xì yǒu mì qiè de lián xì.
 
 
