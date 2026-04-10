@@ -3,7 +3,7 @@
 ## Scope
 
 - Source PDF: `/home.new/ktaka/HSK/HSK6-5000words.pdf`
-- Working area: `HSK6/5000words/`
+- Working area: `HSK6-5000words/`
 - Canonical sequence source: `index/master_index.tsv`
 - Canonical DB: `hsk6_words.db`
 

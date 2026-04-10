@@ -16,10 +16,10 @@
   - Archive non-canonical historical files instead of deleting them.
 - Rebuild path:
   1. Update `index/master_index.tsv` if the canonical index changes.
-  2. Rebuild the DB with `python3 HSK6/5000words/index/build_hsk6_db.py`.
-  3. Re-run audits with `python3 HSK6/5000words/index/audit_markdown_headings.py`.
+  2. Rebuild the DB with `python3 HSK6-5000words/index/build_hsk6_db.py`.
+  3. Re-run audits with `python3 HSK6-5000words/index/audit_markdown_headings.py`.
   4. Review `index/audits/summary.tsv`.
-- Reorganized `HSK6/5000words/` into canonical outputs, docs, and archive buckets.
+- Reorganized `HSK6-5000words/` into canonical outputs, docs, and archive buckets.
 - Added project-level documentation for current state and index re-audit notes.
 - Re-audited the canonical index and confirmed that source page `563` is blank on the PDF index page, not a missed row.
 - Generated `index/placeholder_review_queue.tsv` with `144` generic fallback examples for sentence-level QA.

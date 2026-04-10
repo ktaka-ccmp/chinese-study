@@ -1,6 +1,6 @@
 # Index Reaudit Report
 
-- source: `/home.new/ktaka/GitHub/chinese-study/HSK6/5000words/index/master_index.tsv`
+- source: `/home.new/ktaka/GitHub/chinese-study/HSK6-5000words/index/master_index.tsv`
 - total rows: `2634`
 - seq range: `1-2634`
 - page range: `1-732`

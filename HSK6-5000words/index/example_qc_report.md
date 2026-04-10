@@ -2,7 +2,7 @@
 
 ## Scope
 
-- DB: `HSK6/5000words/hsk6_words.db`
+- DB: `HSK6-5000words/hsk6_words.db`
 - Generated on: `2026-04-09`
 
 ## Current Counts

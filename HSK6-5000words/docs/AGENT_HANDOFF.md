@@ -2,7 +2,7 @@
 
 ## Goal
 
-`HSK6/5000words/` の Markdown を、`index/master_index.tsv` と整合したまま、PDF 原文に近づけること。
+`HSK6-5000words/` の Markdown を、`index/master_index.tsv` と整合したまま、PDF 原文に近づけること。
 
 現時点で構造復旧は終わっている。残りは主に `OCR 校正`。
 
@@ -10,20 +10,20 @@
 
 - Original PDF: `/home.new/ktaka/HSK/HSK6-5000words.pdf` (893 pages, contains rescan duplicates, offset 57+)
 - **Clean PDF (recommended)**: `/home.new/ktaka/HSK/HSK6-5000words-main.pdf` (732 pages, rescan duplicates removed, offset 0 so `page` column in `master_index.tsv` maps directly)
-- Canonical index: `HSK6/5000words/index/master_index.tsv`
-- Canonical DB: `HSK6/5000words/hsk6_words.db`
+- Canonical index: `HSK6-5000words/index/master_index.tsv`
+- Canonical DB: `HSK6-5000words/hsk6_words.db`
 - Canonical markdown ranges:
-  - `HSK6/5000words/0001-0250.md`
-  - `HSK6/5000words/0251-0500.md`
-  - `HSK6/5000words/0501-0750.md`
-  - `HSK6/5000words/0751-1000.md`
-  - `HSK6/5000words/1001-1250.md`
-  - `HSK6/5000words/1251-1500.md`
-  - `HSK6/5000words/1501-1750.md`
-  - `HSK6/5000words/1751-2000.md`
-  - `HSK6/5000words/2001-2250.md`
-  - `HSK6/5000words/2251-2500.md`
-  - `HSK6/5000words/2501-2750.md`
+  - `HSK6-5000words/0001-0250.md`
+  - `HSK6-5000words/0251-0500.md`
+  - `HSK6-5000words/0501-0750.md`
+  - `HSK6-5000words/0751-1000.md`
+  - `HSK6-5000words/1001-1250.md`
+  - `HSK6-5000words/1251-1500.md`
+  - `HSK6-5000words/1501-1750.md`
+  - `HSK6-5000words/1751-2000.md`
+  - `HSK6-5000words/2001-2250.md`
+  - `HSK6-5000words/2251-2500.md`
+  - `HSK6-5000words/2501-2750.md`
 
 ## Current State
 
@@ -68,7 +68,7 @@
 2. DB でそのレンジの suspicious seq を出す
 
 ```bash
-sqlite3 -header -csv HSK6/5000words/hsk6_words.db \
+sqlite3 -header -csv HSK6-5000words/hsk6_words.db \
   "select b.seq,b.headword_canonical,count(*) as suspicious_sentences
    from example_sentences e
    join body_blocks b using(seq)
@@ -106,7 +106,7 @@ PY
 6. DB を再構築する
 
 ```bash
-python3 HSK6/5000words/index/build_hsk6_db.py
+python3 HSK6-5000words/index/build_hsk6_db.py
 ```
 
 7. 件数を再計測する
@@ -114,7 +114,7 @@ python3 HSK6/5000words/index/build_hsk6_db.py
 総数:
 
 ```bash
-sqlite3 -header -csv HSK6/5000words/hsk6_words.db \
+sqlite3 -header -csv HSK6-5000words/hsk6_words.db \
   "select count(*) as suspicious_total
    from example_sentences
    where sentence_clean glob '*[A-Za-z]*'
@@ -128,7 +128,7 @@ sqlite3 -header -csv HSK6/5000words/hsk6_words.db \
 レンジ別:
 
 ```bash
-sqlite3 -header -csv HSK6/5000words/hsk6_words.db \
+sqlite3 -header -csv HSK6-5000words/hsk6_words.db \
   "select b.source_file,count(*) as suspicious_sentences
    from example_sentences e
    join body_blocks b using(seq)

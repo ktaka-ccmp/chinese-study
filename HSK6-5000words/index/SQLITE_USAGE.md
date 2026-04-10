@@ -1,6 +1,6 @@
 # HSK6 SQLite Usage
 
-DB: `HSK6/5000words/hsk6_words.db`
+DB: `HSK6-5000words/hsk6_words.db`
 
 主なテーブル:
 
